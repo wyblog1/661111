@@ -13,10 +13,10 @@ info:
 debug: env # false: 关闭调试模式， env：环境配置检查， rightMenus: 调试右键, cdn: 调试 CDN System
 ############################### 默认占位图 ###############################
 default:
-  avatar: volantis-static/media/placeholder/avatar/round/3442075.svg # https://cdn.jsdelivr.net/gh/cdn-x/placeholder@1.0.1/avatar/round/3442075.svg
-  link: volantis-static/media/placeholder/link/8f277b4ee0ecd.svg # https://cdn.jsdelivr.net/gh/cdn-x/placeholder@1.0.1/link/8f277b4ee0ecd.svg
-  cover: volantis-static/media/placeholder/cover/76b86c0226ffd.svg # https://cdn.jsdelivr.net/gh/cdn-x/placeholder@1.0.1/cover/76b86c0226ffd.svg
-  image: volantis-static/media/placeholder/image/2659360.svg # https://cdn.jsdelivr.net/gh/cdn-x/placeholder@1.0.1/image/2659360.svg
+  avatar: https://661111.github.io/media/images/custom-headerLogo.ico
+  link: https://661111.github.io/media/images/custom-headerLogo.ico
+  cover: https://661111.github.io/media/images/custom-headerLogo.ico
+  image: https://661111.github.io/media/images/custom-headerLogo.ico
 
 
 ############################### CDN System ###############################
@@ -154,6 +154,9 @@ navbar:
     - name: 关于
       icon: fa-solid fa-info-circle
       url: tags/关于/
+    - name: 说说
+      icon: fa-solid fa-comment fa-fw
+      url: shuoshuo
   search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
@@ -173,23 +176,29 @@ cover:
   subtitle: ''
   search: A Wonderful Theme for Hexo # search bar placeholder
   features:
-  - name: 博客
-      icon: fa-solid fa-rss
+    - name: 博客
+      icon: #
+      img: volantis-static/media/twemoji/assets/svg/1f5c3.svg # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
       url: /
     - name: 分类
-      icon: fa-solid fa-folder-open
-      url: categories/
-    - name: 标签
-      icon: fa-solid fa-tags
-      url: tags/
+      icon: #
+      img: volantis-static/media/twemoji/assets/svg/1f516.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f516.svg
+      url: /categories/
     - name: 归档
-      icon: fa-solid fa-archive
-      url: archives/
+      icon: #
+      img: volantis-static/media/twemoji/assets/svg/1f396.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f396.svg
+      url: /archives/
     - name: 友链
-      icon: fa-solid fa-link
-      url: friends/
+      icon: #
+      img: volantis-static/media/twemoji/assets/svg/1f389.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f389.svg
+      url: /friends/
+    - name: 博客
+      icon: #
+      img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
+      url: /archives/
     - name: 关于
-      icon: fa-solid fa-info-circle
+      icon: #
+      img: volantis-static/media/twemoji/assets/svg/1f9ec.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
       url: tags/关于/
     
 ############################### Cover ############################### > end

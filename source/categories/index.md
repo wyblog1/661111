@@ -1,8 +1,7 @@
-title: 分类
-date: 2018-12-01 00:52:39
-type: "categories"
-- gridea
-- bliblipage2
-- blibli
-- 相册
-- 关于
+category_map:
+        blibli:blibli
+        bliblipage2:bliblipage2
+        关于:关于
+        实验室:实验室
+        月考:月考
+        相册:相册

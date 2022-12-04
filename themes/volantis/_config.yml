@@ -156,7 +156,10 @@ navbar:
       url: tags/关于/
     - name: 说说
       icon: fa-solid fa-comment fa-fw
-      url: shuoshuo
+      url: shuoshuo/
+    - name: 友链鱼谭
+      icon: fa-solid fa-feed fa-fw
+      url: links/
   search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 

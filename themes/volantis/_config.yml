@@ -516,7 +516,7 @@ comments:
   # Waline
   # https://waline.js.org/
   waline:
-    path: https://waline-railway-production.up.railway.app/ # 全局评论地址 目前设置全局评论地址后visitor失效,这是waline的问题
+    path: # 全局评论地址 目前设置全局评论地址后visitor失效,这是waline的问题
     placeholder: # 评论占位提示
     serverURL: https://waline-railway-production.up.railway.app/ # Waline 的服务端地址（必填） 测试用地址: https://waline.vercel.app
     imageUploader:
@@ -537,7 +537,7 @@ comments:
   # https://discuss.js.org
   discuss:
     serverURLs: # Discuss server address url
-    visitStat: true # 是否显示文章阅读数
+    visitStat: flash # 是否显示文章阅读数
     # https://discuss.js.org/Quick-Start.html#path
 
 

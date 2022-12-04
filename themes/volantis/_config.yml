@@ -453,26 +453,6 @@ comments:
       light: github-light
       dark: github-dark
     label: ✨💬✨
-
-  # Disqus
-  # https://disqus.com
-  disqus:
-    shortname:
-    # optional
-    autoload: false
-    path: # 全局评论地址
-
-  # DisqusJS
-  # https://github.com/SukkaW/DisqusJS
-  disqusjs:
-    path: # 全局评论地址
-    # 配置项按照yml格式继续填写即可 除了 [siteName url identifier] 选项
-    #shortname:
-    #api:
-    #apikey:
-    #admin:
-    #nesting:
-
   # Gitalk
   # https://gitalk.github.io/
   gitalk:
@@ -930,7 +910,7 @@ plugins:
   # https://fcircle-doc.js.cool/
   fcircle:
     # Set `plugins: ["fcircle"]` to enable in front-matter
-    private_api_url: https://fcircle-api.example.com/ # api 地址
+    private_api_url: https://wyblog.eu.org/ # api 地址
     page_turning_number: 10  # 点击加载更多时，一次最多加载几篇文章，默认10
     error_img: https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c # 头像加载失败时，默认头像地址
     sort_rule: created # 进入页面时第一次的排序规则,可选值：created/updated

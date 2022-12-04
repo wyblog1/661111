@@ -144,7 +144,7 @@ navbar:
       url: categories/
     - name: 标签
       icon: fa-solid fa-tags
-      url: tags/
+      url: tages/
     - name: 归档
       icon: fa-solid fa-archive
       url: archives/

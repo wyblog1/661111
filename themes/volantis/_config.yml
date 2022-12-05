@@ -385,7 +385,7 @@ article:
 comments:
   title: <i class='fa-solid fa-comments'></i> 评论
   subtitle:
-  service: giscus
+  service: waline
   # 可选评论系统 #
 
   # artalk
@@ -453,6 +453,26 @@ comments:
       light: github-light
       dark: github-dark
     label: ✨💬✨
+
+  # Disqus
+  # https://disqus.com
+  disqus:
+    shortname:
+    # optional
+    autoload: false
+    path: # 全局评论地址
+
+  # DisqusJS
+  # https://github.com/SukkaW/DisqusJS
+  disqusjs:
+    path: # 全局评论地址
+    # 配置项按照yml格式继续填写即可 除了 [siteName url identifier] 选项
+    #shortname:
+    #api:
+    #apikey:
+    #admin:
+    #nesting:
+
   # Gitalk
   # https://gitalk.github.io/
   gitalk:
@@ -499,9 +519,9 @@ comments:
   # Waline
   # https://waline.js.org/
   waline:
-    path: # 全局评论地址 目前设置全局评论地址后visitor失效,这是waline的问题
+    path: https://waline-railway-production.up.railway.app # 全局评论地址 目前设置全局评论地址后visitor失效,这是waline的问题
     placeholder: # 评论占位提示
-    serverURL: https://waline-railway-production.up.railway.app/ # Waline 的服务端地址（必填） 测试用地址: https://waline.vercel.app
+    serverURL: https://waline-railway-production.up.railway.app # Waline 的服务端地址（必填） 测试用地址: https://waline.vercel.app
     imageUploader:
       # 以兰空图床为例，下列填写内容为：
       # url: https://xxxxxx/api/v1/upload
@@ -520,9 +540,8 @@ comments:
   # https://discuss.js.org
   discuss:
     serverURLs: # Discuss server address url
-    visitStat: flash # 是否显示文章阅读数
+    visitStat: true # 是否显示文章阅读数
     # https://discuss.js.org/Quick-Start.html#path
-
 
 ############################### Comments ############################### > end
 

@@ -280,7 +280,7 @@ article:
       # ----------------
       # 版权声明组件 (for layout: post)
       copyright:
-        enable: false
+        enable: ture
         permalink: '本文永久链接是：'
         content:
           - '博客内容遵循 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 协议'
@@ -295,7 +295,7 @@ article:
           # copyright:
           #   type: type3           # 当前文章版权声明类型
           #   author: 无影          # 本文作者
-          #   ref:                  # 原文出处
+          #   ref: 无影博客                 # 原文出处
           #     title:              # 原文出处 - 标题
           #     url:                # 原文出处 - 链接
           #############################
@@ -331,8 +331,8 @@ article:
       # 默认文章作者（可在 _data/author.yaml 中增加其他作者，并在 front-matter 中设置）
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
-        avatar: volantis-static/media/org.volantis/blog/favicon/apple-touch-icon.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
-        name: 请设置文章作者
+        avatar: volantis-static/media/org.volantis/blog/favicon/apple-touch-icon.png # https://661111.github.io/media/images/custom-headerLogo.ico
+        name: 无影博客
         url: /
       # 文章创建日期
       date:
@@ -835,7 +835,7 @@ plugins:
   # https://aplayer.js.org/#/zh-Hans/
   # APlayer config: https://github.com/metowolf/MetingJS
   aplayer:
-    enable: #true
+    enable: true
     source: meting # meting：从 MetingJS API 获取音乐数据（API经常不稳定） / local：本地音乐数据
     # ============= meting begin =============
     # Required
@@ -990,7 +990,7 @@ plugins:
 
 ### 自定义右键
 rightmenus:
-  enable: false
+  enable: ture
   # 右键菜单项及加载顺序
   # 内容示例：plugins.[组名], menus.[组名], hr(分割线，推荐去线留白), music(音乐控制器)
   order:
@@ -1321,7 +1321,7 @@ structured_data:
       sns:
         - https://github.com/volantis-x
     logo:
-      path:  # https://661111.github.io/media/images/custom-headerLogo.ico
+      path: https://661111.github.io/media/images/custom-headerLogo.ico # 
       width: 192
       height: 192
 ############################### Structured Data ############################### > end

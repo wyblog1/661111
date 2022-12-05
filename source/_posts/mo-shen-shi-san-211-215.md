@@ -18,21 +18,21 @@ isTop: false
 <iframe  
  height=850 
  width=90% 
- src="" 
+ src="https://www.ixigua.com/iframe/7172881841462968836?autoplay=0" 
  frameborder=0  
  allowfullscreen>
  </iframe>
 <iframe  
  height=850 
  width=90% 
- src=""
+ src="https://www.ixigua.com/iframe/7172913994380870147?autoplay=0" 
  frameborder=0  
  allowfullscreen>
  </iframe>
 <iframe  
  height=850 
  width=90% 
- src=""
+ src="https://www.ixigua.com/iframe/7173250305717600768?autoplay=0" 
  frameborder=0  
  allowfullscreen>
  </iframe>

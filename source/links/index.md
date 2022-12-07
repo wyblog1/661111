@@ -11,7 +11,6 @@
         sort_rule: 'created'
     }
 </script>
-<link rel="stylesheet" href="https://npm.elemecdn.com/hexo-filter-fcircle-anzhiyu@1.1.2/assets/css/default.css">
-<script type="text/javascript" src="https://npm.elemecdn.com/hexo-filter-fcircle-anzhiyu@1.1.2/assets/js/fcircle.js"></script>
-<script type="text/javascript" src="https://npm.elemecdn.com/hexo-filter-fcircle-anzhiyu@1.1.2/assets/js/fetch.js"></script>
-<script type="text/javascript" src="https://npm.elemecdn.com/hexo-filter-fcircle-anzhiyu@1.1.2/assets/js/random-friends-post.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zhheo/JS-Heo@master/mainColor/heoMainColor.css">
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/zhheo/JS-Heo@master/moments5/app.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/zhheo/JS-Heo@master/moments5/bundle.js"></script>

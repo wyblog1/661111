@@ -24,8 +24,7 @@ isTop: false
 <iframe  
  height=850 
  width=90% 
- src=""
- frameborder=0  
+ src="https://www.ixigua.com/iframe/7174736565757805115?autoplay=0" 
  allowfullscreen>
  </iframe>
 <iframe  

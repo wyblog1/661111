@@ -136,16 +136,31 @@ navbar:
     icon:
     title:
     menu:
-   文章||fas fa-book:
-     归档: /tags/ || fas fa-tags
-     分类: /categories/ || fas fa-folder-open
-     时间轴: /archives/ || fas fa-archive
-   社交||fas fa-bars:
-     友链: /link/ || fas fa-link
-     开往: https://travellings.cn/ || fas fa-train-subway
-     朋友圈: /fcircle/ || fas fa-user-group
-     YesPlayMusic: https://api.wyblog.repl.co/ || fas fa-music 
- search: Search...   # Search bar placeholder
+   - name: 博客
+      icon: fa-solid fa-rss
+      url: /
+    - name: 分类
+      icon: fa-solid fa-folder-open
+      url: categories/
+    - name: 标签
+      icon: fa-solid fa-tags
+      url: tages/
+    - name: 归档
+      icon: fa-solid fa-archive
+      url: archives/
+    - name: 友链
+      icon: fa-solid fa-link
+      url: friends/
+    - name: 关于
+      icon: fa-solid fa-info-circle
+      url: tags/关于/
+    - name: 说说
+      icon: fa-solid fa-comment fa-fw
+      url: shuoshuo/
+    - name: 友链鱼谭
+      icon: fa-solid fa-feed fa-fw
+      url: links/
+  search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
 

@@ -135,7 +135,7 @@ navbar:
     img: volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
     icon:
     title:
-  menu:
+    menu:
    文章||fas fa-book:
      归档: /tags/ || fas fa-tags
      分类: /categories/ || fas fa-folder-open
@@ -144,9 +144,7 @@ navbar:
      友链: /link/ || fas fa-link
      开往: https://travellings.cn/ || fas fa-train-subway
      朋友圈: /fcircle/ || fas fa-user-group
-   娱乐||fas fa-cookie-bite: 
-     YesPlayMusic: https://api.wyblog.repl.co/ || fas fa-music
- 
+     YesPlayMusic: https://api.wyblog.repl.co/ || fas fa-music 
  search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 

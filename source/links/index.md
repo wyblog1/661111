@@ -11,7 +11,7 @@
     }
 </script>
 
-<script defer="defer" type="module" src="circle-module.js"></script>
-<link href="circle.css" rel="stylesheet" />
-<script defer="defer" src="circle.js" nomodule></script>
+<script defer="defer" type="module" src="https://wyblog1.github.io/pyqys/circle-module.js"></script>
+<link href="https://wyblog1.github.io/pyqys/circle.css" rel="stylesheet" />
+<script defer="defer" src="https://wyblog1.github.io/pyqys/circle.js" nomodule></script>
 <div id="app"></div>

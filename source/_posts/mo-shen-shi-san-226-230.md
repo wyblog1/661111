@@ -10,14 +10,14 @@ isTop: false
 <iframe  
  height=850 
  width=90% 
- src=""  
+ src="https://www.ixigua.com/iframe/7177671372926419491?autoplay=0"
  frameborder=0  
  allowfullscreen>
  </iframe>
 <iframe  
  height=850 
  width=90% 
- src="" 
+ src="https://www.ixigua.com/iframe/7177713683475694092?autoplay=0" 
  frameborder=0  
  allowfullscreen>
  </iframe>

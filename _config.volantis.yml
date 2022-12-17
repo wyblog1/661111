@@ -115,64 +115,37 @@ site_footer:
   subtitle:
   jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
   social: true
- zanzhu:
-      class: text
-      display: [desktop, mobile]
-      header:
-        icon: fas fa-wallet
-        title: 点击赞助
-      content:
-        - '<center><a href="https://afdian.net/@teacherdu"><img src="https://cdn.dusays.com/yf.jpg/2"></a><center>'
-    sffw:
-      class: text
-      display: [desktop, mobile]
-      header:
-        icon: fas fa-dollar-sign
-        title: 收费服务
-        url: https://dusays.com/sffw/
-      content:
-        - '<center><a href="https://dusays.com/sffw/"><img src="https://cdn.dusays.com/sffw.gif"></a><center>'
-    vpsor:
-      class: text
-      display: [desktop, mobile]
-      header:
-        icon: fas fa-cloud
-        title: 硅云主机
-        url: https://www.vpsor.cn?userCode=ohedb8
-      content:
-        - '<center><a href="https://www.vpsor.cn?userCode=ohedb8" target="_blank"><img src="https://cdn.dusays.com/vpsor.jpg/2"></a><center>'
-    cowtransfer:
-      class: text
-      display: [desktop, mobile]
-      header:
-        icon: fas fa-upload
-        title: 息流工具
-        url: https://flowus.cn/login?code=PDZ708
-      content:
-        - '<center><a href="https://flowus.cn/login?code=PDZ708" target="_blank"><img src="https://cdn.dusays.com/aliyundrive.jpg/2"></a></center>'
-    dao_hang:
+# 自定义 站内导航    
+    navigation:
       class: grid
-      display: [desktop, mobile]
+      display: [desktop]
       header:
-        icon: fas fa-map-signs
+        icon: fa-duotone fa-map-signs POMEGRANATE 
         title: 站内导航
       fixed: true # 固定宽度
       rows:
-        - name: 近期文章
-          icon: fas fa-clock
-          url: /
+        - name: 文档笔记
+          icon: fa-duotone fa-books GREENSEA
+          url:  /page/notes/
+        - name: 关于本站
+          icon: fa-duotone fa-drafting-compass NEPHRITIS
+          url: /page/about/  
+        - name: 建站历史
+          icon: fa-duotone fa-history POMEGRANATE
+          url: /page/timeline/
         - name: 文章归档
-          icon: fas fa-archive
-          url: archives/
-        - name: 我的友链
-          icon: fas fa-link
-          url: friends/
-        - name: 关于小站
-          icon: fas fa-info-circle
-          url: about/
-        - name: 文章分类
-          icon: fas fa-book
-          url: categories/
-        - name: 热门标签
-          icon: fas fa-fire
-          url: tags/
+          icon: fa-duotone fa-archive PETERRIVE faa-vertical
+          url: /archives/
+        - name: 小伙伴们
+          icon: fa-duotone fa-stamp CONCRETE
+          url: /page/friends/
+        - name: 十年之约
+          icon: fa-duotone fa-glass-cheers PETERRIVE
+          url: /page/foreverblog/
+    wiki-hexo-theme:
+      class: list
+      display: [desktop]
+      header:
+        icon: fa-duotone fa-flower-daffodil ASBESTOS
+        title: 笔记本
+        url: /page/notes/index.html

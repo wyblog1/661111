@@ -31,7 +31,7 @@ navbar:
       icon: fa-solid fa-link
       rows:
         - name: 友链
-          icon: fa-solid fa-external-link fa-fw
+          icon: fa-fw fas fa-link faa-tada
           url: friends/
         - name: 朋友圈
           icon: fa-solid fa-feed fa-fw
@@ -53,10 +53,22 @@ navbar:
         - name: 音乐
           icon: fa-duotone fa-play-circle faa-tada
           url: https://api.wyblog.repl.co
-        - name: 说说
+        - name: 追番页
           icon: fa-solid fa-comment fa-fw
+          rows:  
+            - name: 哔哩哔哩
+              icon: fa-duotone fa-play-circle faa-tada
+              rows:  
+                - name: 1
+                  icon: fa-duotone fa-play-circle faa-tada
+                  url: tags/blibli/
+                - name: 2
+                  icon: fa-duotone fa-play-circle faa-tada
+                  url: tags/blibli-page-2/
+        - name: 说说
+          icon: fa-fw fas fa-envelope faa-tada
           url: shuoshuo/
-         - name: 暗黑模式
+        - name: 暗黑模式
           icon: fa-solid fa-moon
           toggle: darkmode
           

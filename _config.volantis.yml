@@ -4,7 +4,7 @@ navbar:
   logo: # choose [img] or [icon + title]
     img: '' # volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png
     icon:
-    title: 'Volantis 6 <sup style="color:#ff9800">alpha</sup>'
+    title: '无影博客'
   menu:
     - name: 首页
       icon: fa-solid fa-rss

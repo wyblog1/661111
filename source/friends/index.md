@@ -1,103 +1,21 @@
 ---
+layout: page
 title: 友情链接
-date: 2021-06-16 00:34:27
 ---
 
-<div class="post-body">
-   <div id="links">
-      <style>
-         .links-content{
-         margin-top:1rem;
-         }
-         .link-navigation::after {
-         content: " ";
-         display: block;
-         clear: both;
-         }
-         .card {
-         width: 45%;
-         font-size: 1rem;
-         padding: 10px 20px;
-         border-radius: 4px;
-         transition-duration: 0.15s;
-         margin-bottom: 1rem;
-         display:flex;
-         }
-         .card:nth-child(odd) {
-         float: left;
-         }
-         .card:nth-child(even) {
-         float: right;
-         }
-         .card:hover {
-         transform: scale(1.1);
-         box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.12), 0 0 6px 0 rgba(0, 0, 0, 0.04);
-         }
-         .card a {
-         border:none;
-         }
-         .card .ava {
-         width: 3rem!important;
-         height: 3rem!important;
-         margin:0!important;
-         margin-right: 1em!important;
-         border-radius:4px;
-         }
-         .card .card-header {
-         font-style: italic;
-         overflow: hidden;
-         width: 100%;
-         }
-         .card .card-header a {
-         font-style: normal;
-         color: #2bbc8a;
-         font-weight: bold;
-         text-decoration: none;
-         }
-         .card .card-header a:hover {
-         color: #d480aa;
-         text-decoration: none;
-         }
-         .card .card-header .info {
-         font-style:normal;
-         color:#a3a3a3;
-         font-size:14px;
-         min-width: 0;
-         overflow: hidden;
-         white-space: nowrap;
-         }
-      </style>
-      <div class="links-content">
-         <div class="link-navigation">
-            <div class="card">
-               <img class="ava" src="https://cdn.jsdelivr.net/gh/hvnobug/assets/common/avatar.png" />
-               <div class="card-header">
-                  <div>
-                     <a href="https://blog.hvnobug.com/">Emil’s blog</a>
-                  </div>
-                  <div class="info">这是一个分享IT技术的小站。</div>
-               </div>
-            </div>
-            <div class="card">
-               <img class="ava" src="https://yingwiki.top/avatar" />
-               <div class="card-header">
-                  <div>
-                     <a href="https://yingwiki.top">越行勤's Blog</a>
-                  </div>
-                  <div class="info">努力学习的小菜鸟</div>
-               </div>
-               <div class="links-content">
-         <div class="link-navigation">
-            <div class="card">
-               <img class="ava" src="https://661111.github.io/media/images/custom-headerLogo.ico" />
-               <div class="card-header">
-                  <div>
-                     <a href="https://661111.github.io/">无影博客</a>
-                  </div>
-                  <div class="info">一个小博客</div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
+{% sites only:qz %}
+
+{% sites only:ny %}
+
+各位大佬想交换友链的话可以在下方留言，必须要有名称、链接「因某些原因本站不支持显示友链站点简介」订阅地址「如果您想出现在友链文章页，如若为空，本站也会尝试抓取，杜老师会每日拜访」交换前请先做好本站的链接！
+
+如您没有站标，默认使用本站站标。因 jsDelivr 国内节点已关，使用 jsDelivr 地址的站标会被换为去不图床外链。
+
+如果您有缩图，请裁剪为 182*120 并粘贴到评论框，会自动上传至 [去不图床](https://7bu.top)，复制链接即可！
+
+当您的网站无法访问或在贵站找不到本站链接，杜老师可能会在不通知的情况下撤掉贵站链接！具体规则详见《[关于友情链接的一些事](https://dusays.com/506/)》。
+
+> 名称：无影博客
+站标：https://unpkg.com/volantis-static@0.0.1660614606622/media/org.volantis/blog/Logo-NavBar@3x.png
+网址：https://effulgent-kringle-368d41.netlify.app/
+缩图：https://unpkg.com/volantis-static@0.0.1660614606622/media/org.volantis/blog/Logo-NavBar@3x.png

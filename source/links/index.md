@@ -1,17 +1,6 @@
-<script>
-  let UserConfig = {
-        // 填写你的api地址
-        private_api_url: 'https://wyblog.eu.org/',
-        // 点击加载更多时，一次最多加载几篇文章，默认10
-        page_turning_number: 10,
-        // 头像加载失败时，默认头像地址
-        error_img: 'https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c',
-        // 进入页面时第一次的排序规则
-        sort_rule: 'created'
-    }
-</script>
-
-<script defer="defer" type="module" src="https://wyblog1.github.io/pyqys/circle-module.js"></script>
-<link href="https://wyblog1.github.io/pyqys/circle.css" rel="stylesheet" />
-<script defer="defer" src="https://wyblog1.github.io/pyqys/circle.js" nomodule></script>
-<div id="app"></div>
+---
+title: 标签
+date: 2016-04-18 08:33:54
+type: "links"
+comments: ture
+---

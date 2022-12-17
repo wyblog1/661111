@@ -273,7 +273,7 @@ article:
       # ----------------
       # 版权声明组件 (for layout: post)
       copyright:
-        enable: false
+        enable: ture
         permalink: '本文永久链接是：'
         content:
           - '博客内容遵循 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 协议'
@@ -287,7 +287,7 @@ article:
           # 配置示例（均可选）： 
           # copyright:
           #   type: type3           # 当前文章版权声明类型
-          #   author: 张三          # 本文作者
+          #   author: 无影          # 本文作者
           #   ref:                  # 原文出处
           #     title:              # 原文出处 - 标题
           #     url:                # 原文出处 - 链接
@@ -325,7 +325,7 @@ article:
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
         avatar: volantis-static/media/org.volantis/blog/favicon/apple-touch-icon.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
-        name: 请设置文章作者
+        name: 无影博客
         url: /
       # 文章创建日期
       date:
@@ -378,7 +378,7 @@ article:
 comments:
   title: <i class='fa-solid fa-comments'></i> 评论
   subtitle:
-  service: giscus
+  service: waline
   # 可选评论系统 #
 
   # artalk
@@ -602,7 +602,7 @@ sidebar:
       header:
         icon: fa-solid fa-tags
         title: 热门标签
-        url: /blog/tags/
+        url: /
       min_font: 14
       max_font: 24
       color: true
@@ -797,7 +797,7 @@ plugins:
  
   # 视差滚动效果 Slide Background
   parallax:
-    enable: #true
+    enable: true
     position: cover       # cover: sticky on the cover.   fixed: Fixed as background for the site.
     shuffle: true         # shuffle playlist
     duration: 10000       # Duration (ms)
@@ -829,11 +829,11 @@ plugins:
   # https://aplayer.js.org/#/zh-Hans/
   # APlayer config: https://github.com/metowolf/MetingJS
   aplayer:
-    enable: #true
+    enable: true
     source: meting # meting：从 MetingJS API 获取音乐数据（API经常不稳定） / local：本地音乐数据
     # ============= meting begin =============
     # Required
-    server: netease   # netease, tencent, kugou, xiami, baidu
+    server: tencent   # netease, tencent, kugou, xiami, baidu
     type: playlist    # song, playlist, album, search, artist
     id: 3175833810    # song id / playlist id / album id / search keyword
     # ============= meting end =============
@@ -876,7 +876,7 @@ plugins:
   #   icon: fa-solid fa-moon # 可自定义
   #   toggle: darkmode
   darkmode:
-    enable: #true
+    enable: true
 
   # 旧版 Internet Explorer 淘汰行动
   # https://www.microsoft.com/zh-cn/WindowsForBusiness/End-of-IE-support

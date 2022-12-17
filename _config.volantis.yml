@@ -59,7 +59,6 @@ navbar:
           url: 2022/09/24/list/
         - name: 关于
           url: /2022/08/20/about/
-
 feedback:
   class: grid
   display: [desktop, mobile]
@@ -78,3 +77,16 @@ feedback:
     - name: 提个建议
       icon: fas fa-lightbulb
       url: https://github.com/volantis-x/hexo-theme-volantis/issues/
+site_footer:
+  # layout of footer: [aplayer, social, license, info, copyright]
+  layout: [aplayer, social, license, info, copyright]
+  social:
+    - icon: fas fa-envelope
+      url: 32279882555@qq.com
+    - icon: fab fa-github
+      url: https://github.com/612901
+    - icon: fas fa-headphones-alt
+      url: https://music.163.com/#/user/home?id=63035382
+  copyright: '[Copyright © 2021-2022 无影博客](/)'
+  # You can add your own property here. (Support markdown, for example: br: '<br>')
+  br: '<br>' 

@@ -56,7 +56,7 @@ navbar:
           url: https://api.wyblog.repl.co
         - name: 音乐
           icon: fa-solid fa-comment fa-fw
-           rows:
+          rows:
              - name: 1
                icon: fa-duotone fa-play-circle faa-tada
                url: tags/blibli/

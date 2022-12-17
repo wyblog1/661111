@@ -660,6 +660,38 @@ sidebar:
       header:
         icon: fa-solid fa-clock WISTERIA
         title: 最近更新
+    # ---------------------------------------
+    # 文档导航
+    guide:
+      class: grid
+      display: [desktop, mobile] # [desktop, mobile]
+      header:
+        icon: fa-solid fa-map-signs
+        title: 分类导航
+      fixed: true # 固定宽度
+      rows:
+        - name: 常见问题
+          icon: fa-solid fa-question-circle
+          url: /faqs/
+        - name: 示例博客
+          icon: fa-solid fa-play-circle
+          url: /examples/
+        - name: 特别感谢
+          icon: fa-solid fa-handshake
+          url: /contributors/
+        - name: 测试博文
+          icon: fa-solid fa-file-alt
+          url: /archives/
+        - name: 主题源码
+          icon: fa-solid fa-file-code
+          url: https://github.com/volantis-x/hexo-theme-volantis/
+          rel: external nofollow noopener noreferrer
+          target: _blank
+        - name: 更新日志
+          icon: fa-solid fa-tags
+          url: https://github.com/volantis-x/hexo-theme-volantis/releases/
+          rel: external nofollow noopener noreferrer
+          target: _blank
 ############################### Sidebar ############################### > end
 
 
@@ -776,15 +808,15 @@ plugins:
   ######## Plugins for Count:
   # npm i hexo-wordcount
   wordcount:
-    enable: #true
+    enable: true
 
   busuanzi:
-    enable: #true
+    enable: true
 
   ######## Plugins for ...
   # Button Ripple Effect
   nodewaves:
-    enable: #true
+    enable: true
 
   # fontawesome V6:  https://fontawesome.com/docs/web/style/animate
   # fontawesome animation for fontawesome V5

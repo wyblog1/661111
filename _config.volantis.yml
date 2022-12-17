@@ -31,7 +31,7 @@ navbar:
       icon: fa-solid fa-link
       rows:
         - name: 友链
-          icon: fa-solid fa-play-circle
+          icon: fa-solid fa-external-link fa-fw
           url: friends/
         - name: 朋友圈
           icon: fa-solid fa-feed fa-fw
@@ -48,16 +48,22 @@ navbar:
         - name: 关于
           url: /2022/08/20/about/
     - name: 更多
-      icon: fa-duotone fa-ellipsis-v fa-fw
+      icon: fa-duotone fa-ellipsis-v
       rows:
         - name: 音乐
-          icon: fa-solid fa-play-circle
+          icon: fa-duotone fa-play-circle faa-tada
           url: https://api.wyblog.repl.co
         - name: 说说
-          icon: fa-solid fa-play-circle
+          icon: fa-solid fa-comment fa-fw
           url: shuoshuo/
-
-guide:
+         - name: 暗黑模式
+          icon: fa-solid fa-moon
+          toggle: darkmode
+          
+          
+          
+    # 文档导航
+    guide:
       class: grid
       display: [desktop, mobile] # [desktop, mobile]
       header:
@@ -73,18 +79,11 @@ guide:
           url: friends/        
 
 site_footer:
-  # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [aplayer, social, license, info, copyright]
+  layout: [aplayer, social, source, analytics, copyright]
+  copyright: '[Copyright © Since 2017 Volantis Team](https://github.com/volantis-x/)'
   social:
-    - icon: fas fa-envelope
-      url: 32279882555@qq.com
-    - icon: fab fa-github
-      url: https://github.com/612901
-    - icon: fas fa-headphones-alt
-      url: https://music.163.com/#/user/home?id=63035382
-  copyright: '[Copyright © 2021-2022 无影博客](/)'
-  # You can add your own property here. (Support markdown, for example: br: '<br>')
-  br: '<br>' 
+    - img: volantis-static/media/org.volantis/icon/1322024-social-media/029-github.svg
+      url: https://github.com/612901/
 
 # 消息提示 
   # izitoast

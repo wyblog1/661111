@@ -1,9 +1,10 @@
+debug: false
+content_visibility: true
 navbar:
-  visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png # https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
+    img: '' # volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png
     icon:
-    title:
+    title: 'Volantis 6 <sup style="color:#ff9800">alpha</sup>'
   menu:
     - name: 首页
       icon: fa-solid fa-rss
@@ -53,18 +54,15 @@ navbar:
         - name: 音乐
           icon: fa-duotone fa-play-circle faa-tada
           url: https://api.wyblog.repl.co
-        - name: 追番页
+        - name: 音乐
           icon: fa-solid fa-comment fa-fw
-          rows:  
-            - name: 哔哩哔哩
-              icon: fa-duotone fa-play-circle faa-tada
-              rows:  
-                - name: 1
-                  icon: fa-duotone fa-play-circle faa-tada
-                  url: tags/blibli/
-                - name: 2
-                  icon: fa-duotone fa-play-circle faa-tada
-                  url: tags/blibli-page-2/
+           rows:  
+             - name: 1
+               icon: fa-duotone fa-play-circle faa-tada
+               url: tags/blibli/
+             - name: 2
+               icon: fa-duotone fa-play-circle faa-tada
+               url: tags/blibli-page-2/           
         - name: 说说
           icon: fa-fw fas fa-envelope faa-tada
           url: shuoshuo/

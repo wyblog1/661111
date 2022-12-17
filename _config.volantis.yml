@@ -72,16 +72,7 @@ navbar:
         - name: 说说
           icon: fa-fw fas fa-envelope faa-tada
           url: shuoshuo/          
-    post:
-      class: text
-      display: [desktop, mobile] # [desktop, mobile]
-      sticky: true
-      header:
-        icon: fa-solid fa-plus
-        title: 社区活动
-        url: /contributors/
-      content:
-        - '**如何让自己的文章收录到这里？**<br>官方网站是开源的，只要您的文章与 Hexo 博客搭建相关，就可以自助进行收录，详细的操作步骤请见：「[**发布与分享文章**](/contributors/#发布与分享文章)」。'
+
     # 文档导航
     guide:
       class: grid

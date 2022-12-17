@@ -72,19 +72,6 @@ navbar:
         - name: 说说
           icon: fa-fw fas fa-envelope faa-tada
           url: shuoshuo/          
-sidebar:
-  for_page: [qgroup, post, category, guide]
-  for_post: [toc]
-  widget_library:
-    toc:
-      class: toc
-      display: [desktop, mobile] # [desktop, mobile]
-      header:
-        icon: fa-solid fa-list
-        title: 本文目录
-      list_number: true
-      min_depth: 2
-      max_depth: 5
     post:
       class: text
       display: [desktop, mobile] # [desktop, mobile]

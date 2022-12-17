@@ -19,9 +19,6 @@ navbar:
         - name: bilbil
           icon: fas fa-network-wired fa-fw
           url: tags/blibli/
-        - name: bilbil
-          icon: fas fa-network-wired fa-fw
-          url: tags/blibli/
         - name: 学科
           icon: fas fa-network-wired fa-fw
           url: tags/学科/ 
@@ -105,9 +102,8 @@ site_footer:
       pause: fa-solid fa-pause
     rightmenu:
       enable: true                        # 是否开启右键模块的消息通知
-      notice: true                        # 唤醒原右键菜单的通知
-
-# 自定义 站内导航    
+      notice: true                        # 唤醒原右键菜单的通知  
+    
     navigation:
       class: grid
       display: [desktop]
@@ -116,28 +112,12 @@ site_footer:
         title: 站内导航
       fixed: true # 固定宽度
       rows:
-        - name: 文档笔记
-          icon: fa-duotone fa-books GREENSEA
-          url:  /page/notes/
-        - name: 关于本站
-          icon: fa-duotone fa-drafting-compass NEPHRITIS
-          url: /page/about/  
-        - name: 建站历史
-          icon: fa-duotone fa-history POMEGRANATE
-          url: /page/timeline/
+        - name: 友链
+          icon: fa-fw fas fa-link faa-tada
+          url: friends/
+        - name: 朋友圈
+          icon: fa-solid fa-feed fa-fw
+          url: links/
         - name: 文章归档
           icon: fa-duotone fa-archive PETERRIVE faa-vertical
           url: /archives/
-        - name: 小伙伴们
-          icon: fa-duotone fa-stamp CONCRETE
-          url: /page/friends/
-        - name: 十年之约
-          icon: fa-duotone fa-glass-cheers PETERRIVE
-          url: /page/foreverblog/
-    wiki-hexo-theme:
-      class: list
-      display: [desktop]
-      header:
-        icon: fa-duotone fa-flower-daffodil ASBESTOS
-        title: 笔记本
-        url: /page/notes/index.html

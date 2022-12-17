@@ -71,40 +71,7 @@ navbar:
                url: tags/blibli-page-2/           
         - name: 说说
           icon: fa-fw fas fa-envelope faa-tada
-          url: shuoshuo/          
-
-    # 文档导航
-    guide:
-      class: grid
-      display: [desktop, mobile] # [desktop, mobile]
-      header:
-        icon: fa-solid fa-map-signs
-        title: 分类导航
-      fixed: true # 固定宽度
-      rows:
-        - name: 常见问题
-          icon: fa-solid fa-question-circle
-          url: /faqs/
-        - name: 示例博客
-          icon: fa-solid fa-play-circle
-          url: /examples/
-        - name: 特别感谢
-          icon: fa-solid fa-handshake
-          url: /contributors/
-        - name: 测试博文
-          icon: fa-solid fa-file-alt
-          url: /archives/
-        - name: 主题源码
-          icon: fa-solid fa-file-code
-          url: https://github.com/volantis-x/hexo-theme-volantis/
-          rel: external nofollow noopener noreferrer
-          target: _blank
-        - name: 更新日志
-          icon: fa-solid fa-tags
-          url: https://github.com/volantis-x/hexo-theme-volantis/releases/
-          rel: external nofollow noopener noreferrer
-          target: _blank
-  
+          url: shuoshuo/           
 site_footer:
   layout: [aplayer, social, source, analytics, copyright]
   copyright: '[Copyright © Since 2017 Volantis Team](https://github.com/volantis-x/)'

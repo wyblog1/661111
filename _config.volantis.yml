@@ -59,3 +59,22 @@ navbar:
           url: 2022/09/24/list/
         - name: 关于
           url: /2022/08/20/about/
+
+feedback:
+  class: grid
+  display: [desktop, mobile]
+  header:
+    icon: fas fa-headset
+    title: 联系开发者
+    url: https://github.com/volantis-x/hexo-theme-volantis
+  fixed: true # 固定宽度
+  rows:
+    - name: 反馈BUG
+      icon: fas fa-bug
+      url: https://github.com/volantis-x/hexo-theme-volantis/issues/
+    - name: 疑问求助
+      icon: fas fa-question-circle
+      url: https://github.com/volantis-x/hexo-theme-volantis/issues/
+    - name: 提个建议
+      icon: fas fa-lightbulb
+      url: https://github.com/volantis-x/hexo-theme-volantis/issues/

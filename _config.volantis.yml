@@ -68,9 +68,6 @@ navbar:
         - name: 说说
           icon: fa-fw fas fa-envelope faa-tada
           url: shuoshuo/
-        - name: 暗黑模式
-          icon: fa-solid fa-moon
-          toggle: darkmode
           
           
           

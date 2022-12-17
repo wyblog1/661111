@@ -65,10 +65,7 @@ navbar:
                url: tags/blibli-page-2/           
         - name: 说说
           icon: fa-fw fas fa-envelope faa-tada
-          url: shuoshuo/
-          
-          
-          
+          url: shuoshuo/          
     # 文档导航
     guide:
       class: grid
@@ -84,14 +81,12 @@ navbar:
         - name: 友链
           icon: fa-solid fa-play-circle
           url: friends/        
-
 site_footer:
   layout: [aplayer, social, source, analytics, copyright]
   copyright: '[Copyright © Since 2017 Volantis Team](https://github.com/volantis-x/)'
   social:
     - img: volantis-static/media/org.volantis/icon/1322024-social-media/029-github.svg
       url: https://github.com/612901/
-
 # 消息提示 
   # izitoast
   message:

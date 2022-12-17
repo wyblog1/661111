@@ -10,6 +10,7 @@ navbar:
       url: /
     - name: 分类
       icon: fa-solid fa-folder-open
+      url: tags/
       rows:  
         - name: gridea
           url: tags/gridea/
@@ -23,21 +24,6 @@ navbar:
           url: tags/blibli-page-2/
         - name: 相册集
           url: tags/相册/     
-    - name: 标签
-      icon: fa-solid fa-tags
-      rows:
-        - name: gridea
-          url: tags/gridea/
-        - name: bilbil
-          url: tags/blibli/
-        - name: bilbil
-          url: tags/blibli/
-        - name: 学科
-          url: tags/学科/ 
-        - name: bilbilpage2
-          url: tags/blibli-page-2/
-        - name: 相册集
-          url: tags/相册/    
     - name: 归档
       icon: fa-solid fa-archive
       url: archives/
@@ -45,8 +31,10 @@ navbar:
       icon: fa-solid fa-link
       rows:
         - name: 友链
+          icon: fa-solid fa-play-circle
           url: friends/
         - name: 朋友圈
+          icon: fa-solid fa-feed fa-fw
           url: links/
     - name: 关于
       icon: fa-solid fa-info-circle
@@ -59,24 +47,26 @@ navbar:
           url: 2022/09/24/list/
         - name: 关于
           url: /2022/08/20/about/
-feedback:
-  class: grid
-  display: [desktop, mobile]
-  header:
-    icon: fas fa-headset
-    title: 联系开发者
-    url: https://github.com/volantis-x/hexo-theme-volantis
-  fixed: true # 固定宽度
-  rows:
-    - name: 反馈BUG
-      icon: fas fa-bug
-      url: https://github.com/volantis-x/hexo-theme-volantis/issues/
-    - name: 疑问求助
-      icon: fas fa-question-circle
-      url: https://github.com/volantis-x/hexo-theme-volantis/issues/
-    - name: 提个建议
-      icon: fas fa-lightbulb
-      url: https://github.com/volantis-x/hexo-theme-volantis/issues/
+    - name: 更多
+      icon: fa-duotone fa-ellipsis-v fa-fw
+      rows:
+        - name: 音乐
+          icon: fa-solid fa-play-circle
+          url: https://api.wyblog.repl.co  
+guide:
+      class: grid
+      display: [desktop, mobile] # [desktop, mobile]
+      header:
+        icon: fa-solid fa-map-signs
+        title: 分类导航
+      fixed: true # 固定宽度
+      rows:
+        - name: 朋友圈
+          icon: fa-solid fa-feed fa-fw
+          url: links/
+        - name: 友链
+          icon: fa-solid fa-play-circle
+          url: friends/        
 site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
   layout: [aplayer, social, license, info, copyright]
@@ -90,3 +80,4 @@ site_footer:
   copyright: '[Copyright © 2021-2022 无影博客](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '<br>' 
+  

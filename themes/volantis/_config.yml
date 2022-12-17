@@ -593,7 +593,7 @@ sidebar:
       header:
         icon: fa-solid fa-folder-open
         title: 文章分类
-        url: /blog/categories/
+        url: tags/
     # ---------------------------------------
     # tagcloud widget
     tagcloud:
@@ -602,7 +602,7 @@ sidebar:
       header:
         icon: fa-solid fa-tags
         title: 热门标签
-        url: /
+        url: tags/
       min_font: 14
       max_font: 24
       color: true
@@ -921,14 +921,21 @@ plugins:
   # 友链朋友圈 hexo-circle-of-friends
   # https://github.com/Rock-Candy-Tea/hexo-circle-of-friends
   # https://fcircle-doc.js.cool/
-  fcircle:
-    # Set `plugins: ["fcircle"]` to enable in front-matter
-    private_api_url: https://fcircle-api.example.com/ # api 地址
-    page_turning_number: 10  # 点击加载更多时，一次最多加载几篇文章，默认10
-    error_img: https://cravatar.cn/avatar/57d8260dfb55501c37dde588e7c3852c # 头像加载失败时，默认头像地址
-    sort_rule: created # 进入页面时第一次的排序规则,可选值：created/updated
-    app: https://npm.elemecdn.com/fcircle-theme-yyyz@1.0.5/dist/app.min.js # app.min.js的url
-    bundle: https://npm.elemecdn.com/fcircle-theme-yyyz@1.0.5/dist/bundle.js # bundle.js的url
+  # fcircle
+fcircle:
+  enable: true #控制开关
+  apiurl: https://wyblog.eu.org/ #api地址
+  initnumber: 10 #【可选】页面初始化展示文章数量
+  stepnumber: 30 #【可选】每次加载增加的篇数
+  css: https://npm.elemecdn.com/hexo-filter-fcircle-anzhiyu@1.1.2/assets/css/default.css #【可选】开发者接口，自定义css链接
+  js: https://npm.elemecdn.com/hexo-filter-fcircle-anzhiyu@1.1.2/assets/js/fcircle.js #【可选】开发者接口，自定义js链接
+  fetchJs: https://npm.elemecdn.com/hexo-filter-fcircle-anzhiyu@1.1.2/assets/js/fetch.js
+  randomFriendsPostJS: https://npm.elemecdn.com/hexo-filter-fcircle-anzhiyu@1.1.2/assets/js/random-friends-post.js
+  topIcon: fas fa-arrow-right
+  topLink: /about/
+  top_background: https://img02.anzhiy.cn/adminuploads/1/2022/08/21/630249e2df20f.jpg
+  path: /links #【可选】fcircle的路径名称。默认为 fcircle，生成的页面为 fcircle/index.html
+  front_matter: #【可选】fcircle页面的 front_matter 配置
 
   # 消息提示 
   # izitoast

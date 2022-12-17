@@ -14,16 +14,22 @@ navbar:
       url: tags/
       rows:  
         - name: gridea
+          icon: fas fa-network-wired fa-fw
           url: tags/gridea/
         - name: bilbil
+          icon: fas fa-network-wired fa-fw
           url: tags/blibli/
         - name: bilbil
+          icon: fas fa-network-wired fa-fw
           url: tags/blibli/
         - name: 学科
+          icon: fas fa-network-wired fa-fw
           url: tags/学科/ 
         - name: bilbilpage2
+          icon: fas fa-network-wired fa-fw
           url: tags/blibli-page-2/
         - name: 相册集
+          icon: fas fa-network-wired fa-fw
           url: tags/相册/     
     - name: 归档
       icon: fa-solid fa-archive
@@ -52,21 +58,45 @@ navbar:
       icon: fa-duotone fa-ellipsis-v
       rows:
         - name: 音乐
-          icon: fa-duotone fa-play-circle faa-tada
-          url: https://api.wyblog.repl.co
-        - name: 音乐
           icon: fa-solid fa-comment fa-fw
+          url: https://api.wyblog.repl.co
+        - name: 哔哩哔哩
+          icon: 
           rows:
              - name: 1
-               icon: fa-duotone fa-play-circle faa-tada
+               icon: fas fa-network-wired fa-fw
                url: tags/blibli/
              - name: 2
-               icon: fa-duotone fa-play-circle faa-tada
+               icon: fas fa-network-wired fa-fw
                url: tags/blibli-page-2/           
         - name: 说说
           icon: fa-fw fas fa-envelope faa-tada
           url: shuoshuo/          
-guide:
+sidebar:
+  for_page: [qgroup, post, category, guide]
+  for_post: [toc]
+  widget_library:
+    toc:
+      class: toc
+      display: [desktop, mobile] # [desktop, mobile]
+      header:
+        icon: fa-solid fa-list
+        title: 本文目录
+      list_number: true
+      min_depth: 2
+      max_depth: 5
+    post:
+      class: text
+      display: [desktop, mobile] # [desktop, mobile]
+      sticky: true
+      header:
+        icon: fa-solid fa-plus
+        title: 社区活动
+        url: /contributors/
+      content:
+        - '**如何让自己的文章收录到这里？**<br>官方网站是开源的，只要您的文章与 Hexo 博客搭建相关，就可以自助进行收录，详细的操作步骤请见：「[**发布与分享文章**](/contributors/#发布与分享文章)」。'
+    # 文档导航
+    guide:
       class: grid
       display: [desktop, mobile] # [desktop, mobile]
       header:
@@ -74,20 +104,36 @@ guide:
         title: 分类导航
       fixed: true # 固定宽度
       rows:
-        - name: 朋友圈
-          icon: fa-solid fa-feed fa-fw
-          url: links/
-        - name: 友链
+        - name: 常见问题
+          icon: fa-solid fa-question-circle
+          url: /faqs/
+        - name: 示例博客
           icon: fa-solid fa-play-circle
-          url: friends/        
+          url: /examples/
+        - name: 特别感谢
+          icon: fa-solid fa-handshake
+          url: /contributors/
+        - name: 测试博文
+          icon: fa-solid fa-file-alt
+          url: /archives/
+        - name: 主题源码
+          icon: fa-solid fa-file-code
+          url: https://github.com/volantis-x/hexo-theme-volantis/
+          rel: external nofollow noopener noreferrer
+          target: _blank
+        - name: 更新日志
+          icon: fa-solid fa-tags
+          url: https://github.com/volantis-x/hexo-theme-volantis/releases/
+          rel: external nofollow noopener noreferrer
+          target: _blank
+  
 site_footer:
   layout: [aplayer, social, source, analytics, copyright]
   copyright: '[Copyright © Since 2017 Volantis Team](https://github.com/volantis-x/)'
   social:
     - img: volantis-static/media/org.volantis/icon/1322024-social-media/029-github.svg
       url: https://github.com/612901/
-# 消息提示 
-  # izitoast
+
   message:
     enable: true
     icon:     # 默认图标，支持对图标添加颜色，可选值：see：/source/css/_style/_plugins/fontcolor.styl
@@ -115,3 +161,12 @@ site_footer:
     rightmenu:
       enable: true                        # 是否开启右键模块的消息通知
       notice: true                        # 唤醒原右键菜单的通知
+
+blogger:
+  class: blogger
+  display: [desktop] # [desktop, mobile]
+  avatar: https://gcore.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+  title:
+  subtitle:
+  jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
+  social: true

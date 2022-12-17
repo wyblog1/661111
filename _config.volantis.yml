@@ -66,7 +66,6 @@ navbar:
         - name: 说说
           icon: fa-fw fas fa-envelope faa-tada
           url: shuoshuo/          
-    # 文档导航
     guide:
       class: grid
       display: [desktop, mobile] # [desktop, mobile]

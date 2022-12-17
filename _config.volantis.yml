@@ -107,14 +107,6 @@ site_footer:
       enable: true                        # 是否开启右键模块的消息通知
       notice: true                        # 唤醒原右键菜单的通知
 
- blogger:
-  class: blogger
-  display: [desktop] # [desktop, mobile]
-  avatar: https://gcore.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
-  title:
-  subtitle:
-  jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
-  social: true
 # 自定义 站内导航    
     navigation:
       class: grid

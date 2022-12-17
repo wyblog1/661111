@@ -4,7 +4,7 @@
   <script>
         Waline.init({
       el: '#waline',
-      serverURL: 'https://or3vot.deta.dev/',
+      serverURL: 'https://e8pks7.deta.dev/',
       locale: {
       level0: '炼体',
       level1: '炼气',

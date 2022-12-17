@@ -514,7 +514,7 @@ comments:
   waline:
     path: # 全局评论地址 目前设置全局评论地址后visitor失效,这是waline的问题
     placeholder: # 评论占位提示
-    serverURL: https://or3vot.deta.dev/ # Waline 的服务端地址（必填） 测试用地址: https://waline.vercel.app
+    serverURL: https://e8pks7.deta.dev/ # Waline 的服务端地址（必填） 测试用地址: https://waline.vercel.app
     imageUploader:
       # 以兰空图床为例，下列填写内容为：
       # url: https://xxxxxx/api/v1/upload

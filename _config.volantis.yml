@@ -107,7 +107,7 @@ site_footer:
       enable: true                        # 是否开启右键模块的消息通知
       notice: true                        # 唤醒原右键菜单的通知
 
-blogger:
+ blogger:
   class: blogger
   display: [desktop] # [desktop, mobile]
   avatar: https://gcore.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
@@ -115,3 +115,64 @@ blogger:
   subtitle:
   jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
   social: true
+ zanzhu:
+      class: text
+      display: [desktop, mobile]
+      header:
+        icon: fas fa-wallet
+        title: 点击赞助
+      content:
+        - '<center><a href="https://afdian.net/@teacherdu"><img src="https://cdn.dusays.com/yf.jpg/2"></a><center>'
+    sffw:
+      class: text
+      display: [desktop, mobile]
+      header:
+        icon: fas fa-dollar-sign
+        title: 收费服务
+        url: https://dusays.com/sffw/
+      content:
+        - '<center><a href="https://dusays.com/sffw/"><img src="https://cdn.dusays.com/sffw.gif"></a><center>'
+    vpsor:
+      class: text
+      display: [desktop, mobile]
+      header:
+        icon: fas fa-cloud
+        title: 硅云主机
+        url: https://www.vpsor.cn?userCode=ohedb8
+      content:
+        - '<center><a href="https://www.vpsor.cn?userCode=ohedb8" target="_blank"><img src="https://cdn.dusays.com/vpsor.jpg/2"></a><center>'
+    cowtransfer:
+      class: text
+      display: [desktop, mobile]
+      header:
+        icon: fas fa-upload
+        title: 息流工具
+        url: https://flowus.cn/login?code=PDZ708
+      content:
+        - '<center><a href="https://flowus.cn/login?code=PDZ708" target="_blank"><img src="https://cdn.dusays.com/aliyundrive.jpg/2"></a></center>'
+    dao_hang:
+      class: grid
+      display: [desktop, mobile]
+      header:
+        icon: fas fa-map-signs
+        title: 站内导航
+      fixed: true # 固定宽度
+      rows:
+        - name: 近期文章
+          icon: fas fa-clock
+          url: /
+        - name: 文章归档
+          icon: fas fa-archive
+          url: archives/
+        - name: 我的友链
+          icon: fas fa-link
+          url: friends/
+        - name: 关于小站
+          icon: fas fa-info-circle
+          url: about/
+        - name: 文章分类
+          icon: fas fa-book
+          url: categories/
+        - name: 热门标签
+          icon: fas fa-fire
+          url: tags/

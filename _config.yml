@@ -83,11 +83,11 @@ deploy:
 bangumi:
   enable: true
   path:
-  vmid:
-  title:
+  vmid: 1945630406
+  title: 追番页
   quote:
   show: 1
   loading:
   metaColor:
   color:
-  webp:
+  webp: ture

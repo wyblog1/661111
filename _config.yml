@@ -79,3 +79,15 @@ theme: volantis
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+bangumi:
+  enable: true
+  path:
+  vmid:
+  title:
+  quote:
+  show: 1
+  loading:
+  metaColor:
+  color:
+  webp:

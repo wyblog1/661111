@@ -4,7 +4,7 @@
   <script>
         Waline.init({
       el: '#waline',
-      serverURL: 'https://waline-railway-production.up.railway.app/',
+      serverURL: 'https://or3vot.deta.dev/',
       locale: {
       level0: '炼体',
       level1: '炼气',

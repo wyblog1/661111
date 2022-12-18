@@ -2,7 +2,7 @@ qz:
   title: 全站链接
   description: 该分组为全站友情链接，不仅显示在本页内，同时显示在全站的底部。
   items:
-  - title: xaoxuu
+    - title: xaoxuu
       url: https://github.com/xaoxuu
       avatar: https://avatars.githubusercontent.com/u/16400144?s=60&v=4
     - title: MHuiG

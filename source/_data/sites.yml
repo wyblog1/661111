@@ -489,6 +489,33 @@ qz:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 大大的小蜗牛'
     avatar: https://p.zhheo.com/cACotY25990681624260179168.jpg!cover_mini
     url: 'https://eallion.com/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> W4J1e'
+    avatar: https://p.zhheo.com/R7X8vA22790681624844247504.jpg!cover_mini
+    url: 'https://www.hin.cool/'
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 学习与生活'
+    avatar: https://p.zhheo.com/35b745bf7ae1cd4562e9b709a80a77a549ded142.jpg!cover_mini
+    url: 'https://ql-isaac.cn/'  
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Niko'
+    avatar: https://p.zhheo.com/EPqrlB23590181643178575328.jpg!cover_mini
+    url: "https://nikoblog.top/"   
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小林书架'
+    avatar: https://p.zhheo.com/PfPpi424990781657508689165.jpg!cover_mini
+    url: 'https://snow.js.org/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 一蓑烟雨'
+    avatar: https://p.zhheo.com/m45U5l21890781657986918059.jpg!cover_mini
+    url: 'https://www.easyf12.top/'
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Heart-of-engine'
+    avatar: https://p.zhheo.com/uARRaH24290181611238902309.jpg!cover_mini
+    url: 'https://www.heart-of-engine.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 夜灭'
+    avatar: https://p.zhheo.com/n2GOxQ21390781658916193439.jpg!cover_mini
+    url: 'https://yujie.pro/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 立更情报'
+    avatar: https://p.zhheo.com/rbzCNf21590781627611075921.jpg!cover_mini
+    url: 'http://www.lg3000.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> ImCaO'
+    avatar: https://p.zhheo.com/zHHCd024190281645408061931.jpg!cover_mini
+    url: 'https://www.imcao.cn/'  
     
 ny:
   title: 冰糖红茶与大佬
@@ -524,7 +551,7 @@ ny:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 木木木木木'
     avatar: https://immmmm.com/favicon.ico
     url: 'https://immmmm.com/'  
-  - name: hr
+- name: hr
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Ariasakaの小窝'
     avatar: https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg
     url: 'https://yisous.xyz'
@@ -563,4 +590,13 @@ ny:
     url: 'https://blog.slqwq.cn'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Ethan.Tzy'
     avatar: https://bu.dusays.com/2022/05/02/626f92e193879.jpg
-    url: 'https://tzy1997.com/'  
+    url: 'https://tzy1997.com/' 
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 故人随笔'
+    avatar: https://imgod.me/img/god.png
+    url: 'https://imgod.me'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 狐仙阁'
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=3397926791&s=100
+    url: 'https://www.huxianbk.cn/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Adil'
+    avatar: https://p.zhheo.com/KKKL6z23990381615774419596.jpg!cover_mini
+    url: 'https://blog.adil.com.cn/'  

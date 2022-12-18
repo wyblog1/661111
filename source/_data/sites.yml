@@ -390,3 +390,8 @@ ny:
     avatar: https://finisky.github.io/images/avatar.png
     url: 'https://finisky.github.io'
     screenshot: https://bu.dusays.com/2022/12/17/639d362074b10.png
+
+examples:
+  title:
+  description:
+  api: https://github.com/612901/examples

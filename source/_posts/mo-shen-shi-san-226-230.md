@@ -24,7 +24,14 @@ isTop: false
 <iframe  
  height=850 
  width=90% 
- src=""
+ src="https://www.ixigua.com/iframe/7178097098997531169?autoplay=0"
+ frameborder=0  
+ allowfullscreen>
+ </iframe>
+<iframe  
+ height=850 
+ width=90% 
+ src="https://www.ixigua.com/iframe/7178477905956045323?autoplay=0"
  frameborder=0  
  allowfullscreen>
  </iframe>
@@ -32,13 +39,6 @@ isTop: false
  height=850 
  width=90% 
  src=""
- frameborder=0  
- allowfullscreen>
- </iframe>
-<iframe  
- height=850 
- width=90% 
- src="" 
  frameborder=0  
  allowfullscreen>
  </iframe>

@@ -390,7 +390,23 @@ ny:
     avatar: https://finisky.github.io/images/avatar.png
     url: 'https://finisky.github.io'
     screenshot: https://bu.dusays.com/2022/12/17/639d362074b10.png
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小康博客'
+    avatar: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+    url: 'https://www.antmoe.com/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Seeker'
+    avatar: https://cdn.jsdelivr.net/gh/srkeo/img/share.jpg
+    url: 'https://snow.js.org/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 丁生的个人博客'
+    avatar: https://i.loli.net/2020/04/23/ZWnOQA3kUGKXSjJ.jpg
+    url: 'http://fabian4.gitee.io/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 神邸 - Zendee.cn'
+    avatar: https://www.zendee.cn/zendee.ico
+    url: 'https://www.zendee.cn'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 会飞的小弋'
+    avatar: https://lovelijunyi.gitee.io/
+    url: 'https://lovelijunyi.gitee.io/p'
+
 examples:
-  title:
+  title: github 友链
   description:
   api: https://api.vlts.cc/output_data/v2/volantis-x/example

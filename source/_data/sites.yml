@@ -542,11 +542,23 @@ qz:
     url: 'https://sunguoqi.com/'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> linkkk'
     avatar: https://p.zhheo.com/7yPEzH23690781658303016410.jpg!cover_mini
-    url: 'https://www.linkkk.top/'    
+    url: 'https://www.linkkk.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> wallleap'
+    avatar: https://p.zhheo.com/0YmKuM24890381647241308636.jpg!cover_mini
+    url: 'https://myblog.wallleap.cn'
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Wlog'
+    avatar: https://p.zhheo.com/62m40A20890981662276368925.jpg!cover_mini
+    url: https://blog.wmza.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 零奇'
+    avatar: https://p.zhheo.com/FTf7o621091281609300150364.png!cover_mini
+    url: 'http://www.zyskys.com/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 时过境迁'
+    avatar: https://p.zhheo.com/20200922103556.png!cover_mini
+    url: 'https://wr0926.ml/'  
     
 ny:
   title: 冰糖红茶与大佬
-  description: 此栏目为朋友圈友链项目成员和大佬准备,致敬.
+  description: 此栏目为朋友圈友链项目成员和大佬准备,致敬.(排名不分先后)
   items:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 张洪Heo'
     avatar: https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png
@@ -627,3 +639,24 @@ ny:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Adil'
     avatar: https://p.zhheo.com/KKKL6z23990381615774419596.jpg!cover_mini
     url: 'https://blog.adil.com.cn/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> An_wen'
+    avatar: https://you.zytllt.cn/logo/t-anwen.png
+    url: 'https://blog.zytllt.cn/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 技术松鼠'
+    avatar: https://www.jishusongshu.com/img/site-logo-jsss.png
+    url: 'https://www.jishusongshu.com'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Xhofe's Blog'
+    avatar: https://nn.ci/images/avatar.png
+    url: 'https://nn.ci/'   
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Zkeq の Coding 日志'
+    avatar: https://img.onmicrosoft.cn/Avatar.jpg
+    url: 'https://icodeq.com/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小满云电工作室'
+    avatar: https://cdn-bj.yhdzz.cn/studio.yhdzz.cn/2022/03/xiaoman1221s-blog-logo.png
+    url: 'https://studio.yhdzz.cn/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小满の窝'
+    avatar: https://s-bj-1934-cdn-yhdzz-blog.oss.dogecdn.com/xiaoman1221s-blog-logo.png
+    url: 'https://www.yhdzz.cn/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> June 12'
+    avatar: https://www.wxmin.cn:9000/ants-file/imgUrl/logo_1661824383783.png
+    url: 'https://www.wxmin.cn'    

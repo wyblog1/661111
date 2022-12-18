@@ -1,5 +1,4 @@
-yl:
-  title: 友链
+- group: 友情链接
   description: 该分组为友情链接
   items:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 贝贝吧'
@@ -142,89 +141,6 @@ yl:
     avatar: https://www.yuanning0818.tk/logo.png
     url: 'https://www.yuanning0818.tk'
     screenshot: https://bu.dusays.com/2022/11/22/637c702a4c987.jpg
-
-community_team:
-  title: 冰糖红茶
-  description: 此栏目为朋友圈友链项目成员准备,致敬.
-  items:
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 张洪Heo'
-    avatar: https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png
-    url: 'https://blog.zhheo.com'
-  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小嘉的部落格'
-    avatar: https://npm.elemecdn.com/nanshen/avatar.jpg
-    url: 'https://blog.imzjw.cn'  
-  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Black Flies'
-    avatar: https://npm.elemecdn.com/imgscdn/img/202111191951780.JPG
-    url: "https://www.yyyzyyyz.cn/"   
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小冰博客'
-    avatar: https://zfe.space/images/headimage.png
-    url: 'https://zfe.one'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Akilarの糖果屋'
-    avatar: https://npm.elemecdn.com/akilar-friends@latest/siteshot/akilar.top.jpg
-    url: 'https://akilar.top/'
-  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 羿潇贤鱼の窝'
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=1025212779&s=5
-    url: 'https://blog.raxianch.moe'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 贰猹的小窝'
-    avatar: https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
-    url: 'https://noionion.top/'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 陈YFの博客(￣▽￣)'
-    avatar: https://npm.elemecdn.com/chenyfan-oss@4/512.jpg
-    url: 'https://blog.cyfan.top/'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> CC的部落格'
-    avatar: https://jsd.cdn.zzko.cn/gh/ccknbc-backup/cdn/logo/ccknbc.png
-    url: 'https://blog.ccknbc.cc/'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 木木木木木'
-    avatar: https://immmmm.com/favicon.ico
-    url: 'https://immmmm.com/'  
-
-examples:
-  title: 大佬
-  description: 一些大佬,他们的主题都很好看
-  items:
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Ariasakaの小窝'
-    avatar: https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg
-    url: 'https://yisous.xyz'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小N同学'
-    avatar: https://public.cdn.nesxc.com/avatar.jpg
-    url: 'https://www.imcharon.com'  
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Adil'
-    avatar: https://adil.com.cn/img/touxiang.jpg
-    url: 'https://adil.com.cn'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 安知鱼`Blog'
-    avatar: https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg
-    url: 'https://anzhiy.cn/'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 一念倾城'
-    avatar: https://wo.aziyuan.cn/zjs/ico.png
-    url: 'https://wo.aziyuan.cn'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> gd1214b blog'
-    avatar: https://www.gd1214b.icu/media/images/custom-headerLogo.ico
-    url: 'https://www.gd1214b.icu/'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 超逸の博客'
-    avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
-    url: 'https://yangchaoyi.vip/'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> YuZhangWang的领域'
-    avatar: https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/202210171416164.png
-    url: 'https://yuzhang.wang/'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Yang Harbor'
-    avatar: https://discover304.top/img/head.jpg
-    url: 'https://discover304.top/'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Sianx Blog'
-    avatar: https://cdn.bilicdn.tk/npm/picture-sianx@1.0.0/Blog/logo.png
-    url: 'https://sianx.com'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Adil'
-    avatar: https://adil.com.cn/img/touxiang.jpg
-    url: 'https://adil.com.cn'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> SL Blog'
-    avatar: https://npm.elemecdn.com/perorepe-cdn/v1/bigger-photos/avatar.webp
-    url: 'https://blog.slqwq.cn'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Ethan.Tzy'
-    avatar: https://bu.dusays.com/2022/05/02/626f92e193879.jpg
-    url: 'https://tzy1997.com/'  
-ny:
-  title: 内页链接
-  description: 该分组为内页友情链接
-  items:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 凡梦星尘空间站'
     avatar: https://lisenhui.cn/imgs/avatar.png
     url: 'https://lisenhui.cn'
@@ -511,3 +427,80 @@ ny:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> XIN.'
     avatar: https://thirdqq.qlogo.cn/g?b=sdk&k=zzZgEDkUOXZXFbcNYLb0iaA&s=640&t=1589040609
     url: 'https://hexo.flyyi.top/'
+
+- group: 冰糖红茶
+  description: 此栏目为朋友圈友链项目成员准备,致敬.
+  items:
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 张洪Heo'
+    avatar: https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png
+    url: 'https://blog.zhheo.com'
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小嘉的部落格'
+    avatar: https://npm.elemecdn.com/nanshen/avatar.jpg
+    url: 'https://blog.imzjw.cn'  
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Black Flies'
+    avatar: https://npm.elemecdn.com/imgscdn/img/202111191951780.JPG
+    url: "https://www.yyyzyyyz.cn/"   
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小冰博客'
+    avatar: https://zfe.space/images/headimage.png
+    url: 'https://zfe.one'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Akilarの糖果屋'
+    avatar: https://npm.elemecdn.com/akilar-friends@latest/siteshot/akilar.top.jpg
+    url: 'https://akilar.top/'
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 羿潇贤鱼の窝'
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=1025212779&s=5
+    url: 'https://blog.raxianch.moe'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 贰猹的小窝'
+    avatar: https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
+    url: 'https://noionion.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 陈YFの博客(￣▽￣)'
+    avatar: https://npm.elemecdn.com/chenyfan-oss@4/512.jpg
+    url: 'https://blog.cyfan.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> CC的部落格'
+    avatar: https://jsd.cdn.zzko.cn/gh/ccknbc-backup/cdn/logo/ccknbc.png
+    url: 'https://blog.ccknbc.cc/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 木木木木木'
+    avatar: https://immmmm.com/favicon.ico
+    url: 'https://immmmm.com/'  
+
+- group: 大佬
+  description: 一些大佬,他们的主题都很好看
+  items:
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Ariasakaの小窝'
+    avatar: https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg
+    url: 'https://yisous.xyz'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小N同学'
+    avatar: https://public.cdn.nesxc.com/avatar.jpg
+    url: 'https://www.imcharon.com'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Adil'
+    avatar: https://adil.com.cn/img/touxiang.jpg
+    url: 'https://adil.com.cn'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 安知鱼`Blog'
+    avatar: https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg
+    url: 'https://anzhiy.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 一念倾城'
+    avatar: https://wo.aziyuan.cn/zjs/ico.png
+    url: 'https://wo.aziyuan.cn'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> gd1214b blog'
+    avatar: https://www.gd1214b.icu/media/images/custom-headerLogo.ico
+    url: 'https://www.gd1214b.icu/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 超逸の博客'
+    avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
+    url: 'https://yangchaoyi.vip/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> YuZhangWang的领域'
+    avatar: https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/202210171416164.png
+    url: 'https://yuzhang.wang/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Yang Harbor'
+    avatar: https://discover304.top/img/head.jpg
+    url: 'https://discover304.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Sianx Blog'
+    avatar: https://cdn.bilicdn.tk/npm/picture-sianx@1.0.0/Blog/logo.png
+    url: 'https://sianx.com'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Adil'
+    avatar: https://adil.com.cn/img/touxiang.jpg
+    url: 'https://adil.com.cn'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> SL Blog'
+    avatar: https://npm.elemecdn.com/perorepe-cdn/v1/bigger-photos/avatar.webp
+    url: 'https://blog.slqwq.cn'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Ethan.Tzy'
+    avatar: https://bu.dusays.com/2022/05/02/626f92e193879.jpg
+    url: 'https://tzy1997.com/'  

@@ -192,6 +192,15 @@ dl:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 安知鱼`Blog'
     avatar: https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg
     url: 'https://anzhiy.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 一念倾城'
+    avatar: https://wo.aziyuan.cn/zjs/ico.png
+    url: 'https://wo.aziyuan.cn'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> gd1214b's blog'
+    avatar: https://www.gd1214b.icu/media/images/custom-headerLogo.ico
+    url: 'https://www.gd1214b.icu/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 超逸の博客'
+    avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
+    url: 'https://yangchaoyi.vip/'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> YuZhangWang的领域'
     avatar: https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/202210171416164.png
     url: 'https://yuzhang.wang/'
@@ -493,24 +502,10 @@ ny:
     url: 'https://justlovesmile.top'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> kali’s blog'
     avatar: https://cdn.jsdelivr.net/gh/kali65536/cdnmovie@master/pwa/512.png
-    url: 'https://xiaozhang.gq/' 
+    url: 'https://xiaozhang.gq/'
     - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> GamerNoTitle'
     avatar: https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png
     url: 'https://bili33.top'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> XIN.'
     avatar: https://thirdqq.qlogo.cn/g?b=sdk&k=zzZgEDkUOXZXFbcNYLb0iaA&s=640&t=1589040609
-    url: 'https://hexo.flyyi.top/'    
-test_demo:
-  title:
-  description:
-  items:
-    - title: 无影博客
-      url: https://wyblog1.eu.org/
-      screenshot: https://fastly.jsdelivr.net/npm/mhgoos@0.0.1655516891879/YQ2nhcvyCuFsm3g.png
-      avatar: https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
-      description: Test Site For Development
-
-examples:
-  title:
-  description:
-  api: https://api.vlts.cc/output_data/v2/volantis-x/examples
+    url: 'https://hexo.flyyi.top/'

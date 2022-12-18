@@ -42,7 +42,7 @@ navbar:
           url: https://travellings.link/
         - name: 友链
           icon: fas fa-link
-          url: friends/  
+          url: friends/ 
     - name: 关于
       icon: fas fa-user
       rows:
@@ -54,6 +54,43 @@ navbar:
           url: 2022/09/24/list/
         - name: 关于
           url: /2022/08/20/about/
+        - name: 我的项目
+          icon: fas fa-user
+          rows:
+             - name: musicapi
+               icon: fas fa-music
+               url: https://api.wyblog.repl.co
+             - name: alist
+               icon: fa-light fa-folder-open TURQUOISE faa-vertical
+               rows:
+                 - name: 1
+                   url: https://alist.661111.repl.co/
+                 - name: 2
+                   url: https://alist-replit-2.661111.repl.co/
+             - name: 朋友圈api
+               icon: fas fa-user-group
+               url: https://wyblog.eu.org
+             - name: musicapi
+               icon: fas fa-music
+               rows:
+                 - name: gridea博客
+                   icon: fas fa-tags
+                   rows:
+                     - name: 1
+                       icon: fas fa-tags
+                       url: https://timely-griffin-781b87.netlify.app
+                     - name: 2
+                       icon: fas fa-tags
+                       url: https://661111.github.io 
+                 - name: 博客镜像
+                   icon: fas fa-tags
+                   rows:
+                     - name: 1
+                       icon: fas fa-tags
+                       url: https://effulgent-kringle-368d41.netlify.app/
+                     - name: 2
+                       icon: fas fa-tags
+                       url: https://wyblog1.eu.org
     - name: 更多
       icon: fa-solid fa-ellipsis-v
       rows:

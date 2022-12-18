@@ -8,7 +8,7 @@ comments: flase
 <script>
     let UserConfig = {
         // 填写你的api地址
-        private_api_url: 'http://192.168.142.88:8000/',
+        private_api_url: 'https://wyblog.eu.org/',
         // 点击加载更多时，一次最多加载几篇文章，默认10
         page_turning_number: 10,
         // 头像加载失败时，默认头像地址

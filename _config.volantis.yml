@@ -6,42 +6,45 @@ navbar:
     icon:
     title: '无影博客'
   menu:
-    - name: 首页
-      icon: fa-solid fa-rss
-      url: /
     - name: 分类
-      icon: fa-light fa-folder-open TURQUOISE faa-vertical
+      icon: fas fa-tags
       url: tags/
       rows:  
         - name: gridea
-          icon: fa-light fa-folder-open TURQUOISE faa-vertical
+          icon: fas fa-tags
           url: tags/gridea/
         - name: bilbil
-          icon: fa-light fa-folder-open TURQUOISE faa-vertical
+          icon: fas fa-tags
           url: tags/blibli/
         - name: 学科
-          icon: fa-light fa-folder-open TURQUOISE faa-vertical
+          icon: fas fa-tags
           url: tags/学科/ 
         - name: bilbilpage2
-          icon: fa-light fa-folder-open TURQUOISE faa-vertical
+          icon: fas fa-tags
           url: tags/blibli-page-2/
         - name: 相册集
-          icon: fa-light fa-folder-open TURQUOISE faa-vertical
+          icon: fas fa-tags
           url: tags/相册/     
     - name: 归档
-      icon: fa-light fa-archive GREENSEA faa-vertical
+      icon: fas fa-folder-open
       url: archives/
-    - name: 友链
-      icon: fa-light fa-link POMEGRANATE faa-vertical
+    - name: 社交
+      icon: fas fa-bars
       rows:
         - name: 友链
-          icon: fa-light fa-link POMEGRANATE faa-vertical
+          icon: fas fa-link
           url: friends/
         - name: 朋友圈
-          icon: fa-light fa-user-friends ALIZARIN faa-vertical
+          icon: fas fa-user-group
           url: links/
+        - name: 开往
+          icon: fas fa-link
+          url: https://travellings.link/
+        - name: 友链
+          icon: fas fa-link
+          url: friends/  
     - name: 关于
-      icon: fa-light fa-info-circle SUNFLOWER faa-vertical
+      icon: fas fa-user
       rows:
         - name: 版权声明
           url: 2022/09/17/copyright/
@@ -51,8 +54,8 @@ navbar:
           url: 2022/09/24/list/
         - name: 关于
           url: /2022/08/20/about/
-    - name: 功能
-      icon: fa-light fa-tools ALIZARIN faa-vertical
+    - name: 更多
+      icon: fa-solid fa-ellipsis-v
       rows:
         - name: 深色模式
           icon: fa-light fa-moon POMEGRANATE faa-vertical
@@ -60,11 +63,8 @@ navbar:
         - name: 背景音乐
           icon: fa-light fa-compact-disc EMERALD faa-vertical
         - name: hr        
-    - name: 更多
-      icon: fa-duotone fa-ellipsis-v
-      rows:
         - name: 音乐盒
-          icon: fa-solid fa-comment fa-fw
+          icon: fas fa-music
           url: https://api.wyblog.repl.co
         - name: 哔哩哔哩
           icon: fa-solid fa-comment fa-fw 
@@ -76,7 +76,7 @@ navbar:
                icon: fa-light fa-folder-open TURQUOISE faa-vertical
                url: tags/blibli-page-2/           
         - name: 说说
-          icon: fa-fw fas fa-envelope faa-tada
+          icon: fas fa-comment-dots
           url: shuoshuo/
         - name: 追番页
           icon: fa-solid fa-comment fa-fw 

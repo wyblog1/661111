@@ -128,6 +128,16 @@ site_footer:
     - img: volantis-static/media/org.volantis/icon/1322024-social-media/029-github.svg
       url: https://github.com/612901/
 
+notice:
+      class: text
+      display: [desktop]
+      header:
+        icon: fa-light fa-ghost PETERRIVE faa-vertical
+        title: 本站公告
+      content:
+        - '你好，欢迎访问我的个人博客'
+
+        
   message:
     enable: true
     icon:     # 默认图标，支持对图标添加颜色，可选值：see：/source/css/_style/_plugins/fontcolor.styl

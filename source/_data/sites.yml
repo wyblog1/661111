@@ -465,8 +465,8 @@ ny:
     url: 'https://immmmm.com/'  
 
 examples:
-  title: 大佬
-  description: 一些大佬,他们的主题都很好看
+  title: 
+  description: 
   items:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Ariasakaの小窝'
     avatar: https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg

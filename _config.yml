@@ -83,16 +83,16 @@ deploy:
 # 番剧
 bangumi: # 追番设置
   enable: true
-  path: 
+  path: /bangumi/
   vmid: 1945630406
   title: '无影的追番列表'
   quote: '正在追的动漫'
   show: 1
-  lazyload: false
+  lazyload: ture
   loading:
   metaColor:
   color:
-  webp: false
+  webp: ture
   progress:
   extra_options:
     key: value

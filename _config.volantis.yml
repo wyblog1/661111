@@ -128,7 +128,7 @@ site_footer:
     - img: volantis-static/media/org.volantis/icon/1322024-social-media/029-github.svg
       url: https://github.com/612901/
 
-notice:
+    notice:
       class: text
       display: [desktop]
       header:

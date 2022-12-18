@@ -659,4 +659,14 @@ ny:
     url: 'https://www.yhdzz.cn/'  
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> June 12'
     avatar: https://www.wxmin.cn:9000/ants-file/imgUrl/logo_1661824383783.png
-    url: 'https://www.wxmin.cn'    
+    url: 'https://www.wxmin.cn' 
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 张时贰'
+    avatar: https://zhangshier.vip/Hexo_img/avatar.jpg
+    url: 'https://zhangshier.vip/' 
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 你真是一个美好的人类'
+    avatar: https://blog.juanertu.com/images/avatar.png
+    url: 'https://blog.juanertu.com/'    
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Sato'
+    avatar: https://cloud.fullcomb.top/private/source/image/build/Ryza/avatar.png
+    url: 'https://blog.fullcomb.top'   
+  

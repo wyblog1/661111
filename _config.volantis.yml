@@ -153,3 +153,30 @@ site_footer:
     rightmenu:
       enable: true                        # 是否开启右键模块的消息通知
       notice: true                        # 唤醒原右键菜单的通知  
+    
+    dao_hang:
+      class: grid
+      display: [desktop, mobile]
+      header:
+        icon: fas fa-map-signs
+        title: 站内导航
+      fixed: true # 固定宽度
+      rows:
+        - name: 近期文章
+          icon: fas fa-clock
+          url: /
+        - name: 文章归档
+          icon: fas fa-archive
+          url: archives/
+        - name: 我的友链
+          icon: fas fa-link
+          url: friends/
+        - name: 关于小站
+          icon: fas fa-info-circle
+          url: about/
+        - name: 文章分类
+          icon: fas fa-book
+          url: categories/
+        - name: 热门标签
+          icon: fas fa-fire
+          url: tags/

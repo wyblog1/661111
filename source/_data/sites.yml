@@ -587,7 +587,31 @@ qz:
     url: 'https://blog.zerolacqua.top/'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 九九九感冒绫'
     avatar: https://p.zhheo.com/80EHeo21491081665329054706.jpg!cover_mini
-    url: 'https://luo16-miku.github.io/'  
+    url: 'https://luo16-miku.github.io/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 兼一书虫'
+    avatar: https://p.zhheo.com/qoSs4Q20891081665390728276.jpg!cover_mini
+    url: 'https://hycbook.com/'    
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> ichika'
+    avatar: https://p.zhheo.com/L5vJoz22291081666059922606.jpg!cover_mini
+    url: 'https://ichika.cc/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 隔壁小胡'
+    avatar: https://p.zhheo.com/2022e7980c2f63419ea91879c84f70e579c5211610.png!cover_mini
+    url: 'https://mrxiaohu.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Polymather'
+    avatar: https://p.zhheo.com/2022b02b9052a611b08a78e19c8d4ca42516253710.png!cover_mini
+    url: 'http://polymather.cn:8/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> gejianya'
+    avatar: https://p.zhheo.com/20224a83528a72760f90f27582cb33f4b7c2262810.png!cover_mini
+    url: 'https://jianya.shop/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Uki'
+    avatar: https://p.zhheo.com/20226705a9a9b5a1189c226bfaeb6d5cff97072611.png!cover_mini
+    url: 'https://ishya.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> SeerSu'
+    avatar: https://p.zhheo.com/2022d34b68e98127f451dfc7dcb58307cb99080511.png!cover_mini
+    url: 'https://seersu.me/'
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 序炁'
+    avatar: https://p.zhheo.com/2022ecc16c9ced1250ec18b447f988dfadcc052812.png!cover_mini
+    url: 'https://www.ordchaos.com/'  
     
 ny:
   title: 冰糖红茶与大佬

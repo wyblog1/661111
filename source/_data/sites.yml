@@ -1,7 +1,6 @@
 qz:  
   title: 友情链接
   description: 该分组为友情链接
-  api: https://api.vlts.cc/output_data/v2/volantis-x/examples
   items:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 贝贝吧'
     avatar: https://bu.dusays.com/2022/12/03/638a38dc5b3d8.png
@@ -589,6 +588,7 @@ qz:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 九九九感冒绫'
     avatar: https://p.zhheo.com/80EHeo21491081665329054706.jpg!cover_mini
     url: 'https://luo16-miku.github.io/'  
+  api: https://api.vlts.cc/output_data/v2/volantis-x/examples  
     
 ny:
   title: 冰糖红茶与大佬

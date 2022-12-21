@@ -42,7 +42,7 @@ navbar:
                url: links/
              - name: 朋友圈模板2
                icon: fa-solid fa-feed fa-fw
-               rows: fcircle/
+               url: fcircle/
         - name: 开往
           icon: fas fa-link
           url: https://travellings.link/

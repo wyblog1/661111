@@ -874,8 +874,8 @@ ny:
     avatar: https://blog.linkinstars.com/blog-static/LLX.jpg
     url: 'https://www.linkinstars.com/'
 
-wyblogxm:
-  title: 无影博客项目
+blog:
+  title: 友链2
   description:
   api: https://api.vlts.cc/output_data/v2/volantis-x/examples
   items:  

@@ -7,35 +7,34 @@ navbar:
   title: '无影博客'
   menu:
     - name: 分类
-      icon: fas fa-tags
-      url: tags/
+      icon: fa-fw iconfont icon-fenlei1
       rows:  
         - name: gridea
-          icon: fas fa-tags
+          icon: fa-fw iconfont icon-fenlei1
           url: tags/gridea/
         - name: bilbil
-          icon: fas fa-tags
+          icon: fa-fw iconfont icon-fenlei1
           url: tags/blibli/
         - name: 学科
-          icon: fas fa-tags
+          icon: fa-fw iconfont icon-fenlei1
           url: tags/学科/ 
         - name: bilbilpage2
-          icon: fas fa-tags
+          icon: fa-fw iconfont icon-fenlei1
           url: tags/blibli-page-2/
         - name: 相册集
-          icon: fas fa-tags
+          icon: fa-fw iconfont icon-fenlei1
           url: tags/相册/     
     - name: 归档
-      icon: fas fa-folder-open
+      icon: fa-fw iconfont icon-bendiwenjianjia
       url: archives/
     - name: 社交
       icon: fas fa-bars
       rows:
         - name: 友链
-          icon: fas fa-link
+          icon: fa-fw iconfont icon-lianjie
           url: friends/
         - name: 朋友圈
-          icon: fas fa-user-group
+          icon: fa-fw iconfont icon-pengyouquan
           url: links/
         - name: 开往
           icon: fas fa-link
@@ -55,7 +54,7 @@ navbar:
           icon: fas fa-user
           rows:
              - name: musicapi
-               icon: fas fa-music
+               icon: fa-fw iconfont icon-jiankong
                url: https://api.wyblog.repl.co
              - name: alist
                icon: fa-light fa-folder-open TURQUOISE faa-vertical
@@ -95,7 +94,7 @@ navbar:
           icon: fa-light fa-moon POMEGRANATE faa-vertical
           toggle: darkmode
         - name: 背景音乐
-          icon: fa-light fa-compact-disc EMERALD faa-vertical
+          icon: fa-fw iconfont icon-jiankong
         - name: hr        
         - name: 音乐盒
           icon: fas fa-music
@@ -110,7 +109,7 @@ navbar:
                icon: fa-light fa-folder-open TURQUOISE faa-vertical
                url: tags/blibli-page-2/           
         - name: 说说
-          icon: fas fa-comment-dots
+          icon: fa-fw iconfont icon-shejiao
           url: shuoshuo/
         - name: 追番页
           icon: fa-solid fa-comment fa-fw 

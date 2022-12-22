@@ -978,9 +978,6 @@ ny:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 火喵博客･日记本'
     avatar: https://jihulab.com/ScarletDor/owo/-/raw/master/avatar/cat_ran/7.png
     url: 'https://cat.dorcandy.cn/'  
-
-web:
-  title: 友链2
-  description:
-  api: https://api.vlts.cc/output_data/v2/volantis-x/examples
-  items:  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> CodeTime'
+    avatar: https://www.xdull.cn/img/avatar.jpg
+    url: 'https://www.xdull.cn/'  

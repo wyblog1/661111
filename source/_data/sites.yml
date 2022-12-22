@@ -975,6 +975,9 @@ ny:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 木木博客'
     avatar: https://www.whbblog.cn/ico/logo_share.png
     url: 'https://www.whbblog.cn'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 火喵博客･日记本'
+    avatar: https://jihulab.com/ScarletDor/owo/-/raw/master/avatar/cat_ran/7.png
+    url: 'https://cat.dorcandy.cn/'  
 
 web:
   title: 友链2

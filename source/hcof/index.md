@@ -1,10 +1,20 @@
+---
+title: 友链朋友圈
+date: 2021-10-16 22:37:31
+type: "fcircle"
+aside: false
+top_img: false
+permalink: /hcof/
+comments: ture
+---
+
 <script>
   window.circle_config = {
-    api: 'https://wyblog.eu.org'
+    api: 'http://circle.dorakika.cn' //你的朋友圈地址，不要加 '/'
   }
 </script>
 
-<script defer="defer" type="module" src="https://cdn.afdelivr.top/npm/liynw-blog@1.0.6/js/liynw/fcircle-module.js/"></script>
-<link href="https://cdn.afdelivr.top/npm/liynw-blog@1.0.6/css/liynw/fcircle.css/" rel="stylesheet" />
-<script defer="defer" src="https://cdn.afdelivr.top/npm/liynw-blog@1.0.6/js/liynw/" nomodule></script>
+<script defer="defer" type="module" src="/js/circle-module.js"></script>
+<link href="/css/circle.css" rel="stylesheet" />
+<script defer="defer" src="/js/circle.js" nomodule></script>
 <div id="app"></div>

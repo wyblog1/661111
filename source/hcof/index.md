@@ -14,7 +14,7 @@ comments: ture
   }
 </script>
 
-<script defer="defer" type="module" src="/hcof/js/fcircle-module.js"></script>
+<script defer="defer" type="module" src="https://cdn.afdelivr.top/npm/liynw-blog@1.0.6/js/liynw/fcircle-module.js"></script>
 <link href="/hcof/css/circle.css" rel="stylesheet" />
 <script defer="defer" src="/hcof/js/circle.js" nomodule></script>
 <div id="app"></div>

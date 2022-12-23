@@ -15,6 +15,6 @@ comments: ture
 </script>
 
 <script defer="defer" type="module" src="https://cdn.jsdelivr.net/gh/612901/661111@main/js/fcircle-module.js"></script>
-<link href="https://raw.githubusercontent.com/612901/661111/main/js/fcircle.css" rel="stylesheet" />
+<link href="" rel="stylesheet" />
 <script defer="defer" src="https://cdn.jsdelivr.net/gh/612901/661111@main/js/fcircle.js" nomodule></script>
 <div id="app"></div>

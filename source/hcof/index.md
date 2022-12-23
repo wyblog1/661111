@@ -10,11 +10,11 @@ comments: ture
 
 <script>
   window.circle_config = {
-    api: 'http://circle.dorakika.cn' //你的朋友圈地址，不要加 '/'
+    api: 'https://fc.liynw.top'
   }
 </script>
 
-<script defer="defer" type="module" src="https://cdn.jsdelivr.net/gh/612901/661111@main/js/fcircle-module.js/" nomodule></script>
-<script defer="defer" type="module" src="https://cdn.jsdelivr.net/gh/612901/661111@main/js/circle.css/" nomodule></script>
-<script defer="defer" src="https://cdn.jsdelivr.net/gh/612901/661111@main/js/circle.js/" nomodule></script>
+<script defer="defer" type="module" src="https://cdn.afdelivr.top/npm/liynw-blog@1.0.6/js/liynw/fcircle-module.js" crossorigin></script>
+<link href="https://cdn.afdelivr.top/npm/liynw-blog@1.0.6/css/liynw/fcircle.css" rel="stylesheet" / crossorigin>
+<script defer="defer" src="https://cdn.afdelivr.top/npm/liynw-blog@1.0.6/js/liynw/fcircle.js" nomodule crossorigin></script>
 <div id="app"></div>

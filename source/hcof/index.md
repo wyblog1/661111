@@ -1,6 +1,6 @@
 <script>
   window.circle_config = {
-    api: 'http://circle.dorakika.cn' //你的朋友圈地址，不要加 '/'
+    api: 'https://wyblog.eu.org'
   }
 </script>
 

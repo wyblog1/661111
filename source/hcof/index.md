@@ -10,7 +10,7 @@ comments: ture
 
 <script>
   window.circle_config = {
-    api: 'https://wyblog.eu.org'
+    api: 'http://661111.gq'
   }
 </script>
 

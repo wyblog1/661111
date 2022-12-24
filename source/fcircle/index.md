@@ -15,4 +15,4 @@ var fdata = {
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/js/fcircle-lmm.js"></script>
 
 <!-- 挂载友链朋友圈的容器 -->
-<div id="fcircleContainer">与主机通讯中……</div>
+<div id="fcircleContainer">加载中,请勿撇消</div>

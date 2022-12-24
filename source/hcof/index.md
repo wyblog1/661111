@@ -10,7 +10,7 @@ comments: ture
 
 <script>
   window.circle_config = {
-    api: 'http://661111.gq'
+    api: 'https://661111.gq'
   }
 </script>
 

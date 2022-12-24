@@ -14,7 +14,7 @@ comments: ture
   }
 </script>
 
-<script defer="defer" type="module" src="https://blog.liynw.top/js/liynw/fcircle-module.js"></script>
-<link href="https://blog.liynw.top/css/liynw/fcircle.css" rel="stylesheet" />
-<script defer="defer" src="https://blog.liynw.top/js/liynw/fcircle.js" nomodule></script>
+<script defer="defer" type="module" src="https://cdn.afdelivr.top/npm/liynw-blog@1.0.6/js/liynw/fcircle-module.js"></script>
+<link href="https://blog.dorakika.cn/css/circle.css" rel="stylesheet" />
+<script defer="defer" src="https://cdn.afdelivr.top/npm/liynw-blog@1.0.6/js/liynw/fcircle.js" nomodule></script>
 <div id="app"></div>

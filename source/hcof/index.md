@@ -16,5 +16,5 @@ comments: ture
 
 <script defer="defer" type="module" src="/hcof/js/hcof/js/circle-t.js"></script>
 <link href="/hcof/css/circle.css" rel="stylesheet" />
-<script defer="defer" src="/hcof/js/circle.js" nomodule></script>
+<script defer="defer" src="https://blog.dorakika.cn/js/circle-module.js" nomodule></script>
 <div id="app"></div>

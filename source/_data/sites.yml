@@ -890,7 +890,31 @@ qz:
     url: 'https://poxiao.tk/'    
   - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 一人の境'
     avatar: https://p.zhheo.com/8oIo1L23990281645407999214.jpg!cover_mini
-    url: 'https://blog.holic-x.com/wv-blog/'  
+    url: 'https://blog.holic-x.com/wv-blog/' 
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 墨初'
+    avatar: https://p.zhheo.com/HOZNw724690281644906046355.jpg!cover_mini
+    url: 'https://www.mochu.co/' 
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> CtrlCherry'
+    avatar: https://p.zhheo.com/MDNWoF21890881659412038445.jpg!cover_mini
+    url: 'https://ctrlx.life/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Bore'
+    avatar: https://p.zhheo.com/RLGEK023390881659504633192.jpg!cover_mini
+    url: 'https://bore.vip/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Ariasaka'
+    avatar: https://p.zhheo.com/2022ebaf690ad48acf1cc8993a601e1f161e050112.png!cover_mini
+    url: 'https://yisous.xyz/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 零叁'
+    avatar: https://p.zhheo.com/F3XuIe23090881660733730850.jpg!cover_mini
+    url: 'https://blog.lingerbhw.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 爱编程的小明'
+    avatar: https://p.zhheo.com/r2QMFI20990881661418429720.jpg!cover_mini
+    url: 'https://blog.kobal.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 程序员云天'
+    avatar: https://p.zhheo.com/yPT0DL22890881661478508506.png!cover_mini
+    url: 'https://nwjshm.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小简'
+    avatar: https://p.zhheo.com/4xIkVN25090481650117050737.jpg!cover_mini
+    url: 'https://blog.ideaopen.cn/'  
     
 ny:
   title: 冰糖红茶与大佬

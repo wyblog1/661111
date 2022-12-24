@@ -4,7 +4,7 @@
 <!-- 全局引入友链朋友圈配置项 -->
 <script type="text/javascript">
 var fdata = {
-    apiurl: 'https://wyblog.eu.org/all',
+    apiurl: 'https://661111.gq/all',
     initnumber: 20, //【可选】页面初始化展示文章数量
     stepnumber: 10,//【可选】每次加载增加的篇数
     error_img: 'https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c' //【可选】头像加载失败时默认显示的头像

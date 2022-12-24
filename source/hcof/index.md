@@ -15,6 +15,6 @@ comments: ture
 </script>
 
 <script defer="defer" type="module" src="https://blog.liynw.top/js/liynw/fcircle-module.js"></script>
-<link href="/hcof/css/circle.css" rel="stylesheet" />
-<script defer="defer" src="https://blog.dorakika.cn/js/circle-module.js" nomodule></script>
+<link href="https://blog.liynw.top/css/liynw/fcircle.css" rel="stylesheet" />
+<script defer="defer" src="https://blog.liynw.top/js/liynw/fcircle.js" nomodule></script>
 <div id="app"></div>

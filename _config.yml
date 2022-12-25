@@ -82,32 +82,21 @@ theme: volantis
 deploy:
   type:
 
-# 番剧
-bangumi: # 追番设置
+cinema: # 追剧设置
   enable: true
-  path: /bangumi/
+  path:
   vmid: 1945630406
-  title: '无影的追番列表'
-  quote: '正在追的动漫'
+  title: '追剧列表'
+  quote: '生命不息，追剧不止！'
   show: 1
-  lazyload: ture
+  lazyload: false
+  srcValue: '__image__'
+  lazyloadAttrName: 'data-src=__image__'
   loading:
   metaColor:
   color:
-  webp: ture
-  progress:
+  webp: true
+  progress: true
+  extraOrder:
   extra_options:
     key: value
-#RSS订阅
-plugin:
-- hexo-generator-feed
-#Feed Atom
-feed:
-type: atom
-path: atom.xml
-limit: 20
-
-## 推荐文章设置
-popularPosts:
-  eyeCatchImageAttributeName: headimg
-

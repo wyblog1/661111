@@ -941,7 +941,7 @@ qz:
     url: 'https://www.yimoorua.top/'      
     
 ny:
-  title: 冰糖红茶与大佬
+  title: 冰糖红茶
   description: 此栏目为朋友圈友链项目成员和大佬准备,致敬.(排名不分先后)
   items:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 张洪Heo'
@@ -1086,6 +1086,16 @@ dl:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 森鹿语'
     avatar: https://www.lsenyu.cn/wp-content/uploads/2022/10/%E6%A3%AE%E9%B9%BF%E8%AF%ADlogo-1.png
     url: 'https://www.lsenyu.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Liynw'
+    avatar: https://cdn.afdelivr.top/npm/liynw-blog@1.0.6/img/avatar.webp
+    url: 'https://blog.liynw.top/'
+pyq2d:
+  title: 朋友圈新一代框架
+  description: 此框架形状为小电视(此版本框架bug极多)
+  items:
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> DORAKIKA'
+    avatar: https://dorakika.cn/img/favicon.jpg
+    url: 'https://dorakika.cn'
 examples: 
   title: github友链
   description: 为github友链准备

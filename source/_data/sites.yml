@@ -1023,6 +1023,9 @@ dl:
   title: 大佬
   description: 此栏目为大佬准备,致敬.(排名不分先后)
   items:
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Fomalhaut🥝'
+    avatar: https://www.fomal.cc/assets/avatar.webp
+    url: 'https://www.fomal.cc/'  
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Ariasakaの小窝'
     avatar: https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg
     url: 'https://yisous.xyz'

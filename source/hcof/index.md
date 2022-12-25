@@ -14,7 +14,7 @@ comments: ture
   }
 </script>
 
-<script defer="defer" type="module" src="https://cdn.afdelivr.top/npm/liynw-blog@1.0.6/js/liynw/fcircle-module.js"></script>
+<script defer="defer" type="module" src="https://cdn.jsdelivr.net/gh/612901/661111@main/1.js"></script>
 <link href="https://cdn.afdelivr.top/npm/liynw-blog@1.0.6/css/liynw/fcircle.css" rel="stylesheet" />
 <script defer="defer" src="https://cdn.afdelivr.top/npm/liynw-blog@1.0.6/js/liynw/fcircle.js" nomodule></script>
 <div id="app"></div>

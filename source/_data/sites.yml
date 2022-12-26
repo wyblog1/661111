@@ -1023,9 +1023,18 @@ dl:
   title: 大佬
   description: 此栏目为大佬准备,致敬.(排名不分先后)
   items:
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 企鹅的博客'
+    avatar: https://www.lydqe.com/upload/2022/04/LOGO.jpg
+    url: 'https://www.lydqe.com'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 阿飞博客'
+    avatar: http://www.lzfyhm.love/logo.png
+    url: 'http://www.lzfyhm.love'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 知兮寒兮'
+    avatar: https://applyset.xyz/logo
+    url: 'https://applyset.xyz'  
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 探人间'
     avatar: https://p.zhheo.com/2022283e174c5b59fd02b22b94adae7d09a2112911.png!cover_mini
-    url: 'https://www.hydsb0.com/'
+    url: 'https://www.hydsb0.com/'  
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Fomalhaut🥝'
     avatar: https://www.fomal.cc/assets/avatar.webp
     url: 'https://www.fomal.cc/'  

@@ -1153,9 +1153,12 @@ zlys:
   title: 左邻右舍
   description: 
   items:   
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Mufanc'
+    avatar: https://blog.mufanc.xyz/assets/images/avatar.jpeg
+    url: 'https://blog.mufanc.xyz'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> MghyのBlog'
     avatar: https://tu.mghy.top/i/2022/12/10/j364kb-1.webp
-    url: 'https://lmghy.top/' 
+    url: 'https://lmghy.top/'  
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Rootlex'
     avatar: https://bu.dusays.com/2022/10/21/63527e104561f.png
     url: 'https://blog.nalex.top'   

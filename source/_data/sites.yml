@@ -1137,6 +1137,19 @@ dl:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Liynw'
     avatar: https://cdn.afdelivr.top/npm/liynw-blog@1.0.6/img/avatar.webp
     url: 'https://blog.liynw.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 神奇的妙妙屋'
+    avatar: https://ttie.pages.dev/img/avatar.jpg
+    url: 'https://ttie.pages.dev/'   
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 懒代王'
+    avatar: https://pc.luomengguo.top/C341.jpg
+    url: 'https://www.luomengguo.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Nuyoah'
+    avatar: https://s1.ax1x.com/2022/11/27/zUFla6.png
+    url: 'https://262259.xyz/'  
+zlys:
+  title: 左邻右舍
+  description: 
+  items:    
 pyq2d:
   title: 朋友圈新一代框架
   description: 此框架形状为小电视(此版本框架bug极多)

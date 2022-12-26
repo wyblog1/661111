@@ -1161,7 +1161,37 @@ zlys:
     url: 'https://blog.nalex.top'   
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 怕冷爱上雪'
     avatar: https://p.zhheo.com/20227eb27e7ee036d42a56627628e9c8f91e234811.png!cover_mini
-    url: 'https://blog.4t.pw/'  
+    url: 'https://blog.4t.pw/' 
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 七鳄'
+    avatar: https://p.zhheo.com/202259b5a9fd045a6ad8724d6eba08cd63f8253910.png!cover_mini
+    url: 'https://blog.gmcj0816.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> king'
+    avatar: https://p.zhheo.com/20229f147991d46aea07a1a86743a355d91f020811.png!cover_mini
+    url: 'https://king-cc.cn/'
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Gabriel'
+    avatar: https://p.zhheo.com/20222323bb515a0055e5db1b2165631955c5035111.png!cover_mini
+    url: 'https://pochacco.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 森语'
+    avatar: https://p.zhheo.com/2022c94c6482ba5fc5f1f0196f19fcda60d2044111.png!cover_mini
+    url: 'https://blog.lsenyu.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> False'
+    avatar: https://p.zhheo.com/202250b1d6a2eee27635f217f90ddd3d10ae070811.png!cover_mini
+    url: 'http://blogcn.ml/'    
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> SkyReeves'
+    avatar: https://p.zhheo.com/2022913942a2ade05c78b957f7850bc57566083511.png!cover_mini
+    url: 'https://skyreeves.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 猪里程'
+    avatar: https://p.zhheo.com/202226acfdc0181f7ce8605972c7f8b99b14160811.jpg!cover_mini
+    url: 'https://www.zoulicheng.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 会飞的鱼'
+    avatar: https://p.zhheo.com/20225a69d8a36a4f0c62e11b4b91c29a1c17160211.png!cover_mini
+    url: 'https://qiandao.space/'    
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Raindy'
+    avatar: https://p.zhheo.com/2022a0c2d6e0e14e05a64639d084a36146a4230311.png!cover_mini
+    url: 'https://www.raindy.xyz/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小吉崽汁'
+    avatar: https://p.zhheo.com/202236fd2df89ae36f17913955ded113c7c7231711.png!cover_mini
+    url: 'https://wuxingzzz.top/'  
 pyq2d:
   title: 朋友圈新一代框架
   description: 此框架形状为小电视(此版本框架bug极多)

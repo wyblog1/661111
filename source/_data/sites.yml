@@ -1,3 +1,37 @@
+ny:
+  title: 冰糖红茶
+  description: 此栏目为朋友圈友链项目成员和大佬准备,致敬.(排名不分先后)
+  items:
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 张洪Heo'
+    avatar: https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png
+    url: 'https://blog.zhheo.com'
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小嘉的部落格'
+    avatar: https://npm.elemecdn.com/nanshen/avatar.jpg
+    url: 'https://blog.imzjw.cn'  
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Black Flies'
+    avatar: https://npm.elemecdn.com/imgscdn/img/202111191951780.JPG
+    url: "https://www.yyyzyyyz.cn/"   
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小冰博客'
+    avatar: https://zfe.space/images/headimage.png
+    url: 'https://zfe.one'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Akilarの糖果屋'
+    avatar: https://npm.elemecdn.com/akilar-friends@latest/siteshot/akilar.top.jpg
+    url: 'https://akilar.top/'
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 羿潇贤鱼の窝'
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=1025212779&s=5
+    url: 'https://blog.raxianch.moe'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 贰猹的小窝'
+    avatar: https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
+    url: 'https://noionion.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 陈YFの博客(￣▽￣)'
+    avatar: https://npm.elemecdn.com/chenyfan-oss@4/512.jpg
+    url: 'https://blog.cyfan.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> CC的部落格'
+    avatar: https://jsd.cdn.zzko.cn/gh/ccknbc-backup/cdn/logo/ccknbc.png
+    url: 'https://blog.ccknbc.cc/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 木木木木木'
+    avatar: https://immmmm.com/favicon.ico
+    url: 'https://immmmm.com/'
 qz:  
   title: 友情链接
   description: 该分组为友情链接
@@ -983,42 +1017,7 @@ qz:
     url: 'https://hipeach.eu.org/'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 包子哟'
     avatar: https://p.zhheo.com/20227ed64fe217e6eb8a902533c1bcf0c980253310.png!cover_mini
-    url: 'https://blog.bugjava.cn/'    
-    
-ny:
-  title: 冰糖红茶
-  description: 此栏目为朋友圈友链项目成员和大佬准备,致敬.(排名不分先后)
-  items:
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 张洪Heo'
-    avatar: https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png
-    url: 'https://blog.zhheo.com'
-  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小嘉的部落格'
-    avatar: https://npm.elemecdn.com/nanshen/avatar.jpg
-    url: 'https://blog.imzjw.cn'  
-  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Black Flies'
-    avatar: https://npm.elemecdn.com/imgscdn/img/202111191951780.JPG
-    url: "https://www.yyyzyyyz.cn/"   
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小冰博客'
-    avatar: https://zfe.space/images/headimage.png
-    url: 'https://zfe.one'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Akilarの糖果屋'
-    avatar: https://npm.elemecdn.com/akilar-friends@latest/siteshot/akilar.top.jpg
-    url: 'https://akilar.top/'
-  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 羿潇贤鱼の窝'
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=1025212779&s=5
-    url: 'https://blog.raxianch.moe'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 贰猹的小窝'
-    avatar: https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
-    url: 'https://noionion.top/'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 陈YFの博客(￣▽￣)'
-    avatar: https://npm.elemecdn.com/chenyfan-oss@4/512.jpg
-    url: 'https://blog.cyfan.top/'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> CC的部落格'
-    avatar: https://jsd.cdn.zzko.cn/gh/ccknbc-backup/cdn/logo/ccknbc.png
-    url: 'https://blog.ccknbc.cc/'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 木木木木木'
-    avatar: https://immmmm.com/favicon.ico
-    url: 'https://immmmm.com/'  
+    url: 'https://blog.bugjava.cn/'      
 dl:
   title: 大佬
   description: 此栏目为大佬准备,致敬.(排名不分先后)

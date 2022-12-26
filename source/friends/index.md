@@ -3,9 +3,9 @@ layout: page
 title: 友情链接
 ---
 
-{% sites only:qz %}
-
 {% sites only:ny %}
+
+{% sites only:qz %}
 
 {% sites only:dl %}
 

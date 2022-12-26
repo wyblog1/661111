@@ -12,6 +12,8 @@ title: 友情链接
 {% sites only:examples %}
 
 {% sites only:pyq2d %}
+
+{% sites only:zlys %}
 > 名称：无影博客
 站标：https://unpkg.com/volantis-static@0.0.1660614606622/media/org.volantis/blog/Logo-NavBar@3x.png
 网址：https://effulgent-kringle-368d41.netlify.app/

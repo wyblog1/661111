@@ -1023,15 +1023,18 @@ dl:
   title: 大佬
   description: 此栏目为大佬准备,致敬.(排名不分先后)
   items:
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 企鹅的博客'
-    avatar: https://www.lydqe.com/upload/2022/04/LOGO.jpg
-    url: 'https://www.lydqe.com'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 阿飞博客'
-    avatar: http://www.lzfyhm.love/logo.png
-    url: 'http://www.lzfyhm.love'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 知兮寒兮'
-    avatar: https://applyset.xyz/logo
-    url: 'https://applyset.xyz'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> M酷的前端Blog'
+    avatar: https://bbchin.com/logo
+    url: 'https://bbchin.com' 
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 芈亓的Blog'
+    avatar: https://lx95.top/logo
+    url: 'https://lx95.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 武小袁'
+    avatar: https://dudewu.top/attach/20220413/eb2d93bc4dd44dfa863101e776075871.jpg
+    url: 'https://dudewu.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 云遇未晚-集大家之所长 补其吾所短'
+    avatar: https://blog.tryrun.top/logo
+    url: 'https://blog.tryrun.top'  
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 探人间'
     avatar: https://p.zhheo.com/2022283e174c5b59fd02b22b94adae7d09a2112911.png!cover_mini
     url: 'https://www.hydsb0.com/'  
@@ -1204,6 +1207,15 @@ zlys:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小吉崽汁'
     avatar: https://p.zhheo.com/202236fd2df89ae36f17913955ded113c7c7231711.png!cover_mini
     url: 'https://wuxingzzz.top/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 企鹅的博客'
+    avatar: https://www.lydqe.com/upload/2022/04/LOGO.jpg
+    url: 'https://www.lydqe.com'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 阿飞博客'
+    avatar: http://www.lzfyhm.love/logo.png
+    url: 'http://www.lzfyhm.love'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 知兮寒兮'
+    avatar: https://applyset.xyz/logo
+    url: 'https://applyset.xyz'    
 pyq2d:
   title: 朋友圈新一代框架
   description: 此框架形状为小电视(此版本框架bug极多)

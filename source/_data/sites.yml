@@ -983,6 +983,15 @@ zlys:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 毒 Blog'
     avatar: http://cdn.ftit.top/fbbaa536a9584769a7cf07781f6dd85c.png
     url: 'http://ftit.top'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 北岛林屿'
+    avatar: https://resources.shang.ac.cn/20221026/favicon.jpg
+    url: 'https://www.shang.ac.cn' 
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> MoyuqLのBlog'
+    avatar: https://alpha-q3.sourcegcdn.com/2022/12/19/ax7FLzxG.jpg
+    url: 'https://blog.moyuql.top/'     
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Heyiki'Bolg'
+    avatar: https://npm.elemecdn.com/heyiki-cdn/img/1.jpg
+    url: 'https://www.heyiki.top'        
 pyq2d:
   title: 朋友圈新一代框架
   description: 此框架形状为小电视(此版本框架bug极多)

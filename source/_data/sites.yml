@@ -1012,7 +1012,13 @@ zlys:
     url: 'https://chen-ruo.top/' 
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小孙同学'
     avatar: https://sunguoqi.com/images/avatar.jpg
-    url: 'https://sunguoqi.com/'       
+    url: 'https://sunguoqi.com/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 慕木的小天地'
+    avatar: https://cdn.jsdelivr.net/gh/Iori-yimaga/PicBed/MyBlog/avatar.jpg
+    url: 'https://iori-yimaga.top'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Harris Blog'
+    avatar: https://cdn.jsdelivr.net/npm/hassan-assets/img/avatar_blog.jpg
+    url: 'https://hassanwong.top'    
 pyq2d:
   title: 朋友圈新一代框架
   description: 此框架形状为小电视(此版本框架bug极多)

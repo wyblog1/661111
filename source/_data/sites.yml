@@ -991,7 +991,19 @@ zlys:
     url: 'https://blog.moyuql.top/'     
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Heyiki'
     avatar: https://npm.elemecdn.com/heyiki-cdn/img/1.jpg
-    url: 'https://www.heyiki.top'        
+    url: 'https://www.heyiki.top'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i>  爱rua猫的李同学'
+    avatar: http://xn--yetu62gmga.top/i/2022/08/02/62e89cad099eb.jpg
+    url: 'https://qxxmx.com/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小吉崽汁の窝'
+    avatar: https://www.wuxingzzz.top/hexo/IMG_3969.JPG
+    url: 'https://wuxingzzz.top' 
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> TSUKI'
+    avatar: https://tsuk1pic.oss-cn-chengdu.aliyuncs.com/blogimg/20220924123055.png
+    url: 'https://tsuk1.com/'     
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> A2u13 Blog'
+    avatar: https://a2u13-pic.oss-accelerate.aliyuncs.com/pic/4A56A073590349364F32B58397E8B06C.jpg
+    url: 'https://a2u13.com/'          
 pyq2d:
   title: 朋友圈新一代框架
   description: 此框架形状为小电视(此版本框架bug极多)

@@ -448,6 +448,9 @@ dl:
   title: 大佬
   description: 此栏目为大佬准备,致敬.(排名不分先后)
   items:
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 蝉时雨'
+    avatar: https://chanshiyu.com/apple-touch-icon.png
+    url: 'https://chanshiyu.com/'  
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 探人间'
     avatar: https://p.zhheo.com/2022283e174c5b59fd02b22b94adae7d09a2112911.png!cover_mini
     url: 'https://www.hydsb0.com/'  
@@ -614,6 +617,15 @@ zlys:
   title: 左邻右舍
   description: 
   items:
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 心念个人博客'
+    avatar: https://www.hyl999.co/favicon.ico
+    url: 'https://www.hyl999.co/article?category'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 米米的博客'
+    avatar: https://zhangshuqiao.org/images/icon.gif
+    url: 'https://zhangshuqiao.org/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Bai’s Blog'
+    avatar: https://blog.baiyz.top/images/avatar.jpg
+    url: 'https://blog.baiyz.top'  
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> iMaeGoo Blog'
     avatar: https://cravatar.cn/avatar/05bb2aa29c9da6ef65fabd321135e7b6?s=200
     url: 'https://www.imaegoo.com/'

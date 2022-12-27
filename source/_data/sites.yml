@@ -1168,17 +1168,20 @@ dl:
     url: 'https://dudewu.top/'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 云遇未晚-集大家之所长 补其吾所短'
     avatar: https://blog.tryrun.top/logo
-    url: 'https://blog.tryrun.top'    
+    url: 'https://blog.tryrun.top'   
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 远方博客'
+    avatar: https://tucdn.ltyuanfang.cn/images/2020/11/26/eebc2ac86abd7.jpg
+    url: 'https://blog.ltyuanfang.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 银河舰队'
+    avatar: https://img.iyinhe.cn/wp-content/uploads/2020/02/1c63ad95e5f8e3.svg
+    url: 'https://iyinhe.cn/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小柒资源网'
+    avatar: https://thirdqq.qlogo.cn/g?b=qq&nk=2131456789&s=100
+    url: 'https://www.17only.net/'  
 zlys:
   title: 左邻右舍
   description: 
   items:   
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Mufanc'
-    avatar: https://blog.mufanc.xyz/assets/images/avatar.jpeg
-    url: 'https://blog.mufanc.xyz'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> MghyのBlog'
-    avatar: https://tu.mghy.top/i/2022/12/10/j364kb-1.webp
-    url: 'https://lmghy.top/'  
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Rootlex'
     avatar: https://bu.dusays.com/2022/10/21/63527e104561f.png
     url: 'https://blog.nalex.top'   
@@ -1226,33 +1229,17 @@ zlys:
     url: 'https://applyset.xyz'  
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> M酷的前端Blog'
     avatar: https://bbchin.com/logo
-    url: 'https://bbchin.com'   
+    url: 'https://bbchin.com'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Mufanc'
+    avatar: https://blog.mufanc.xyz/assets/images/avatar.jpeg
+    url: 'https://blog.mufanc.xyz'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> MghyのBlog'
+    avatar: https://tu.mghy.top/i/2022/12/10/j364kb-1.webp
+    url: 'https://lmghy.top/'    
 pyq2d:
   title: 朋友圈新一代框架
   description: 此框架形状为小电视(此版本框架bug极多)
   items:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> DORAKIKA'
     avatar: https://dorakika.cn/img/favicon.jpg
-    url: 'https://dorakika.cn'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> DORAKIKA'
-    avatar: https://dorakika.cn/img/favicon.jpg
-    url: 'https://blog.dorakika.cn'  
-examples: 
-  title: 网站
-  description: 
-  items:
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> github'
-    avatar: https://github.githubassets.com/favicons/favicon.svg
-    url: 'https://github.com/'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> gitee'
-    avatar: https://next.gitee.com/_next/static/media/logo-black.0c964084.svg!/quality/100
-    url: 'https://gitee.com/' 
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 抖音'
-    avatar: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/public/favicon.ico
-    url: 'https://www.douyin.com/'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 快手'
-    avatar: data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxyZWN0IGZpbGw9IiNGRjQ5MDYiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMjIuNSIvPjxnIGZpbGw9IiNGRkYiPjxwYXRoIGQ9Ik03MCA0OWM3IDAgMTMgNiAxMyAxNHYxMGMwIDctNiAxMy0xMyAxM0g1MGMtNyAwLTEzLTYtMTMtMTNWNjNjMC04IDYtMTQgMTMtMTRoMjB6bTAgN0g1MGE3IDcgMCAwMC02IDd2MTBhNyA3IDAgMDA2IDZoMjBhNyA3IDAgMDA2LTZWNjNhNyA3IDAgMDAtNi03eiIvPjxwYXRoIGQ9Ik00MiAxMGExOCAxOCAwIDExMCAzNiAxOCAxOCAwIDAxMC0zNnptMCA3YTExIDExIDAgMTAwIDIyIDExIDExIDAgMDAwLTIyeiIgZmlsbC1ydWxlPSJub256ZXJvIi8+PHBhdGggZD0iTTY4IDE1YTE1IDE1IDAgMTEwIDMxIDE1IDE1IDAgMDEwLTMxem0wIDdhOCA4IDAgMTAwIDE3IDggOCAwIDAwMC0xN3oiIGZpbGwtcnVsZT0ibm9uemVybyIvPjxwYXRoIGQ9Ik0yMyA1MmwzIDEgMTggOXYxMmwtMTggOWE2IDYgMCAwMS05LTZWNThhNiA2IDAgMDE2LTZ6bTIgOGwtMSAydjEyYTIgMiAwIDAwMiAxbDExLTV2LTRsLTExLTZhMiAyIDAgMDAtMSAweiIvPjwvZz48L2c+PC9zdmc+
-    url: 'https://kuaishou.com'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 哔哩哔哩'
-    avatar: https://www.bilibili.com/favicon.ico?v=1
-    url: 'https://www.bilibili.com/'   
+    url: 'https://blog.dorakika.cn'    

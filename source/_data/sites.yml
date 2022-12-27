@@ -1019,6 +1019,9 @@ zlys:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Harris Blog'
     avatar: https://cdn.jsdelivr.net/npm/hassan-assets/img/avatar_blog.jpg
     url: 'https://hassanwong.top'    
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 饼铛'
+    avatar: https://cakepanit.com/img/avatar.jpg
+    url: 'https://cakepanit.com/'    
 pyq2d:
   title: 朋友圈新一代框架
   description: 此框架形状为小电视(此版本框架bug极多)

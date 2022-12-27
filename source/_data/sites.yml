@@ -68,10 +68,6 @@ qz:
     avatar: https://blog.beacox.space/img/avatar.png
     url: 'https://blog.beacox.space'
     screenshot: https://bu.dusays.com/2022/10/26/635916434c597.png
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Cold’blog'
-    avatar: https://ucdn.coldyun.cn/handsome/handsome8.00/assets/img/tou.jpg
-    url: 'https://www.coldyun.cn'
-    screenshot: https://bu.dusays.com/2022/10/11/63453844d294f.jpg
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 轻淡时光'
     avatar: https://www.lybblog.cn/logo/logoico.jpg
     url: 'https://www.lybblog.cn'
@@ -144,10 +140,6 @@ ny:
   title: 内页链接
   description: 该分组为内页友情链接，仅会显示在本页内，本博只做同级友链。
   items:
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Ray’s Blog'
-    avatar: https://static.mk1.io/img/202212101330771.png
-    url: 'https://blog.mk1.io'
-    screenshot: https://bu.dusays.com/2022/10/11/634545726abf0.jpg
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> qinxs'
     avatar: https://bu.dusays.com/2022/02/23/d33773a046c64.png
     url: 'https://7bxing.com'
@@ -160,10 +152,6 @@ ny:
     avatar: https://stephen520.cn/storage/images/201911/688286d1aee05a71a55943d2b8436ced.jpg
     url: 'https://www.stephen520.cn'
     screenshot: https://bu.dusays.com/2022/10/11/634546111bb97.jpg
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 肥虫汽水摊'
-    avatar: https://bu.dusays.com/2022/02/23/695eed9a45a72.png
-    url: 'https://blog.bugcola.com'
-    screenshot: https://bu.dusays.com/2022/10/11/634546af8940c.jpg
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 骑猪看月亮'
     avatar: https://bu.dusays.com/2022/02/23/1bb06115b299a.png
     url: 'https://qzkyl.ml'
@@ -192,10 +180,6 @@ ny:
     avatar: https://vian.top/avatar.ico
     url: 'https://www.vian.top'
     screenshot: https://bu.dusays.com/2022/10/11/6345480d97b31.jpg
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 沐印小站'
-    avatar: https://c.undf.top/icon/android-chrome-144x144.png
-    url: 'https://undf.top'
-    screenshot: https://bu.dusays.com/2022/10/11/634548690c3ac.jpg
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> L1nSn0w’s Blog'
     avatar: https://blog.linsnow.cn/img/avatar.png
     url: 'https://blog.linsnow.cn'
@@ -216,10 +200,6 @@ ny:
     avatar: https://bu.dusays.com/2022/06/20/62affefe3f2d4.png
     url: 'https://bbing.com.cn'
     screenshot: https://bu.dusays.com/2022/10/11/634549f5ab763.jpg
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> ZkeqのCoding日志'
-    avatar: https://img.onmicrosoft.cn/Avatar.jpg
-    url: 'https://icodeq.com'
-    screenshot: https://bu.dusays.com/2022/10/11/63454a2a79b99.jpg
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 张时贰'
     avatar: https://zhangshier.vip/Hexo_img/avatar.jpg
     url: 'https://zhangshier.vip'
@@ -228,14 +208,6 @@ ny:
     avatar: https://bu.dusays.com/2022/07/25/62ddad6056eda.png
     url: 'https://blog.whispery.cn'
     screenshot: https://bu.dusays.com/2022/10/11/63454a4a1fb33.jpg
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 叶开博客'
-    avatar: https://xn--qpru0x.cn/tx.png
-    url: 'https://xn--qpru0x.cn'
-    screenshot: https://bu.dusays.com/2022/10/11/63454abea37a0.jpg
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> LYXの小破站'
-    avatar: https://bu.dusays.com/2022/10/22/6352dfd1f3fa3.png
-    url: 'https://yisous.xyz'
-    screenshot: https://bu.dusays.com/2022/10/11/63454aca8923d.jpg
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 是非题'
     avatar: https://other.shifeiti.com/logo/logo.png
     url: 'https://www.shifeiti.com'
@@ -248,10 +220,6 @@ ny:
     avatar: https://bu.dusays.com/2022/09/11/631d4b4d338c0.png
     url: 'https://blog.yfun.top'
     screenshot: https://bu.dusays.com/2022/10/11/63454b38ea9f8.jpg
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Yang’s Blog'
-    avatar: https://16634.cn/img/ico.png
-    url: 'https://16634.cn'
-    screenshot: https://bu.dusays.com/2022/10/11/63454b4d4bd58.jpg
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 今夕何夕兮'
     avatar: https://cdn.jsdelivr.net/gh/lyboy-wp/jscdn/img/favicon.ico
     url: 'https://www.ginc.site'
@@ -260,10 +228,6 @@ ny:
     avatar: https://static.windback.xyz/avatar.jpg
     url: 'https://windback.xyz'
     screenshot: https://bu.dusays.com/2022/11/19/6378b0fa1e6a3.png
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> XKの博客'
-    avatar: https://www.xukaiyyds.cn/img/favicon.png
-    url: 'https://blog.xukaiyyds.cn'
-    screenshot: https://bu.dusays.com/2022/10/11/63457f27a606d.jpg
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 一蓑烟雨的博客'
     avatar: https://img.easyf12.top/images/2022/10/15/634a8b4186889.webp
     url: 'https://www.easyf12.top'
@@ -284,14 +248,6 @@ ny:
     avatar: https://seersu.me/favicon/avatar.jpg
     url: 'https://seersu.me'
     screenshot: https://bu.dusays.com/2022/11/06/6367565e3c62b.jpg
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 钧言极客'
-    avatar: https://www.jinjun.top/img/avatar.jpg
-    url: 'https://www.jinjun.top'
-    screenshot: https://bu.dusays.com/2022/11/09/636b5219722fa.jpg
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 七云’s Blog'
-    avatar: https://q.qlogo.cn/g?b=sdk&k=UeVu6eVo5SdL2Eu7PiczvTw&s=640
-    url: 'https://blog.zets.cn'
-    screenshot: https://bu.dusays.com/2022/11/10/636bdb36d7572.jpg
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> DeCheng'
     avatar: https://q1.qlogo.cn/g?b=qq&nk=20852109&s=640
     url: 'https://cyolc932.github.io'
@@ -355,9 +311,6 @@ ny:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> BOY-WDY'
     avatar: https://p.zhheo.com/TCT4J420591081665132365696.jpg!cover_mini
     url: 'https://boyblog.pages.dev/'  
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小k'
-    avatar: https://p.zhheo.com/6SBhPt23591081665328955203.jpg!cover_mini
-    url: 'https://xkboi.cnblogs.com/'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> howcode'
     avatar: https://p.zhheo.com/6FRguf20791081666059547044.jpg!cover_mini
     url: 'https://howcode.online/'

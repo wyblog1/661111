@@ -973,7 +973,16 @@ zlys:
     url: 'https://www.ydyno.com/'  
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 风吹流年'
     avatar: http://wj.12043.cn/wp-content/uploads/2022/08/AFFF6AAD-FB1E-4DE9-B1D1-856B8BBBEF93.png
-    url: 'https://www.ydyno.com/'    
+    url: 'https://www.ydyno.com/' 
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Abyss-博客'
+    avatar: https://www.rsnocsi.cn/logo.jpg
+    url: 'https://www.rsnocsi.cn'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 青山小站'
+    avatar: https://blog.yanqingshan.com/favicon.ico
+    url: 'https://blog.yanqingshan.com/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 毒's Blog'
+    avatar: http://cdn.ftit.top/fbbaa536a9584769a7cf07781f6dd85c.png
+    url: 'http://ftit.top'  
 pyq2d:
   title: 朋友圈新一代框架
   description: 此框架形状为小电视(此版本框架bug极多)
@@ -981,7 +990,3 @@ pyq2d:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> DORAKIKA'
     avatar: https://dorakika.cn/img/favicon.jpg
     url: 'https://blog.dorakika.cn'    
-git:
-  title: github和gitee的友链
-  description:
-  api: https://unpkg.com/friendsofmj@latest/friend.json

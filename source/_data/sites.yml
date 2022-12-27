@@ -613,7 +613,16 @@ dl:
 zlys:
   title: 左邻右舍
   description: 
-  items:   
+  items:
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> iMaeGoo Blog'
+    avatar: https://cravatar.cn/avatar/05bb2aa29c9da6ef65fabd321135e7b6?s=200
+    url: 'https://www.imaegoo.com/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 雾时之森'
+    avatar: https://cravatar.cn/avatar/222f6efd128063e196b82d6fb9b10452
+    url: 'https://fairysen.com'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 团团生活日记'
+    avatar: https://t-t.live/images/logo.png
+    url: 'https://t-t.live/'  
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Rootlex'
     avatar: https://bu.dusays.com/2022/10/21/63527e104561f.png
     url: 'https://blog.nalex.top'   

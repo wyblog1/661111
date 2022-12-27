@@ -448,6 +448,9 @@ dl:
   title: 大佬
   description: 此栏目为大佬准备,致敬.(排名不分先后)
   items:
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Gao'
+    avatar: https://gaoziman.oss-cn-hangzhou.aliyuncs.com/img/14.jpg
+    url: 'https://manamn.space/'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 蝉时雨'
     avatar: https://chanshiyu.com/apple-touch-icon.png
     url: 'https://chanshiyu.com/'  

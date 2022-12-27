@@ -1016,7 +1016,16 @@ zlys:
     url: 'https://acmezone.top/'  
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 霖梦小屋'
     avatar: https://www.my2022.top/wp-content/uploads/2022/11/1667408586-logo.png
-    url: 'https://www.my2022.top/'    
+    url: 'https://www.my2022.top/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 简艺社区'
+    avatar: https://tuchuangs.com/imgs/2022/11/18/4c91eca7875cfa40.png
+    url: 'http://xzjysq.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 知了小站'
+    avatar: https://s3.bmp.ovh/imgs/2022/06/10/644ac8767630888b.png
+    url: 'https://www.ydyno.com/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 风吹流年'
+    avatar: http://wj.12043.cn/wp-content/uploads/2022/08/AFFF6AAD-FB1E-4DE9-B1D1-856B8BBBEF93.png
+    url: 'https://www.ydyno.com/'    
 pyq2d:
   title: 朋友圈新一代框架
   description: 此框架形状为小电视(此版本框架bug极多)

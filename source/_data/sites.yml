@@ -1,6 +1,6 @@
 bthc:
   title: 冰糖红茶
-  description: 此栏目为朋友圈友链项目成员和大佬准备,致敬.(排名不分先后)
+  description: 此栏目为朋友圈友链项目成员,致敬.(排名不分先后)
   items:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 张洪Heo'
     avatar: https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png
@@ -32,6 +32,9 @@ bthc:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 木木木木木'
     avatar: https://immmmm.com/favicon.ico
     url: 'https://immmmm.com/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 安知鱼'
+    avatar: https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg
+    url: 'https://anzhiy.cn'
 qz:
   title: 全站链接
   description: 该分组为全站友情链接，不仅显示在本页内，同时显示在全站的底部。
@@ -292,14 +295,6 @@ ny:
     avatar: https://finisky.github.io/images/avatar.png
     url: 'https://blog.lovelu.top'
     screenshot: https://bu.dusays.com/2022/12/21/63a2a27e81687.jpg
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 张洪Heo'
-    avatar: https://finisky.github.io/images/avatar.png
-    url: 'https://blog.zhheo.com'
-    screenshot: https://bu.dusays.com/2022/12/21/63a2a28775457.jpg
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 安知鱼'
-    avatar: https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg
-    url: 'https://anzhiy.cn'
-    screenshot: https://bu.dusays.com/2022/12/21/63a2cacf346ce.jpg
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 呆鱼'
     avatar: https://daiyu-233.top/img/avatar.png
     url: 'https://daiyu-233.top'

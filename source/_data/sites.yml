@@ -1002,6 +1002,21 @@ zlys:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> iYuan'
     avatar: https://p.zhheo.com/0X71HS23890281645691738958.jpg!cover_mini
     url: 'https://o0.work/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 欣七博客'
+    avatar: http://x7bk.com/wp-content/uploads/2022/11/mmexport1669193059383.png
+    url: 'https://www.zibll.com'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小熊猫博客'
+    avatar: https://blog.8d2.net/zb_users/upload/2022/11/202211061667713340246502.png
+    url: 'https://blog.8d2.net'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Terorの客栈'
+    avatar: https://blog.trfox.ml/img/avatar.png
+    url: 'https://blog.trfox.ml'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> AcmeZone'
+    avatar: https://acmezone.top/images/logo.svg
+    url: 'https://acmezone.top/'  
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 霖梦小屋'
+    avatar: https://www.my2022.top/wp-content/uploads/2022/11/1667408586-logo.png
+    url: 'https://www.my2022.top/'    
 pyq2d:
   title: 朋友圈新一代框架
   description: 此框架形状为小电视(此版本框架bug极多)

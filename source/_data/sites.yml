@@ -675,3 +675,7 @@ pyq2d:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> DORAKIKA'
     avatar: https://dorakika.cn/img/favicon.jpg
     url: 'https://blog.dorakika.cn'    
+git:
+  title: github和gitee的友链
+  description:
+  api: https://unpkg.com/friendsofmj@1.6.65986936626/friend.json

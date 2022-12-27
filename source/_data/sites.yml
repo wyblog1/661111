@@ -678,4 +678,4 @@ pyq2d:
 git:
   title: github和gitee的友链
   description:
-  api: https://unpkg.com/friendsofmj@1.6.65986936626/friend.json
+  api: https://unpkg.com/friendsofmj@latest/friend.json

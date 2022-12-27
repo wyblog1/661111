@@ -31,7 +31,7 @@ bthc:
     url: 'https://blog.ccknbc.cc/'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 木木木木木'
     avatar: https://immmmm.com/favicon.ico
-    url: 'https://immmmm.com/'
+    url: 'https://immmmm.com/'  
 qz:
   title: 全站链接
   description: 该分组为全站友情链接，不仅显示在本页内，同时显示在全站的底部。

@@ -36,10 +36,6 @@ qz:
   title: 全站链接
   description: 该分组为全站友情链接，不仅显示在本页内，同时显示在全站的底部。
   items:
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 贝贝吧'
-    avatar: https://bu.dusays.com/2022/12/03/638a38dc5b3d8.png
-    url: 'https://www.hibbba.com'
-    screenshot: https://bu.dusays.com/2022/10/11/634535998a9a9.jpg
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Colsrch'
     avatar: https://bu.dusays.com/2022/02/23/cb173cbdcc7c6.png
     url: 'https://colsrch.cn'
@@ -1045,7 +1041,55 @@ zlys:
     url: 'https://blog.mufanc.xyz'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> MghyのBlog'
     avatar: https://tu.mghy.top/i/2022/12/10/j364kb-1.webp
-    url: 'https://lmghy.top/'    
+    url: 'https://lmghy.top/'  
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Echocbx'
+    avatar: https://p.zhheo.com/2022a80fcd29302d1c8f88f2dc3a1bc7218c155412.png!cover_mini"},
+    url: 'https://wlopck.gitee.io/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 宋子宪'
+    avatar: https://p.zhheo.com/YnggYW25590981664158435270.jpg!cover_mini
+    url: 'https://songzixian.com/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 滑稽'
+    avatar: https://p.zhheo.com/cDSxby22590381616321305906.jpg!cover_mini
+    url: 'https://huajibk.cn/'    
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> WUYONGZHI'
+    avatar: https://p.zhheo.com/b0bf06596d732cef940f986f176fc696dfd98809.jpg!cover_mini
+    url: 'https://wuyongzhi.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 顾思维'
+    avatar: https://p.zhheo.com/waKgK424090281612689760244.jpeg!cover_mini
+    url: 'https://aoswi.com/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Just'
+    avatar: https://p.zhheo.com/b3wPFU24490181610030204935.jpg!cover_mini
+    url: 'https://blog.just-null.cn/'    
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Random Forest'
+    avatar: https://p.zhheo.com/tNBjaB24390481618802023106.jpg!cover_mini
+    url: 'https://blog.micomint.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> HopeLight'
+    avatar: https://p.zhheo.com/HBL6fM25990481617380579178.png!cover_mini
+    url: 'https://ranas.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Jesse'
+    avatar: https://p.zhheo.com/b8bb87fab94b621c2a324f5016facfdf7c0b5918.jpeg!cover_mini
+    url: 'https://findjesse.cn/'    
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> imagine'
+    avatar: hhttps://p.zhheo.com/D3NMom21590881628672535112.jpg!cover_mini
+    url: 'https://www.imagineblog.host/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 百般美好'
+    avatar: https://p.zhheo.com/0b644ee13898ac3670aaea1eb2552f84d258a045.jpeg!cover_mini
+    url: 'https://ply.cool/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Alex'
+    avatar: https://p.zhheo.com/76df07a75cc8a0e8879696fc4fb785c216decf58.jpg!cover_mini
+    url: 'https://alexcld.com/'    
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 常瑞'
+    avatar: https://p.zhheo.com/TED2sr21590281644576135793.jpg!cover_mini
+    url: 'https://lp.blog2009.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 呆逼'
+    avatar: https://p.zhheo.com/IN64tD24090181610675740935.png!cover_mini
+    url: 'https://blog.keepdai.cn/'
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> ChenShang'
+    avatar: https://p.zhheo.com/0V1aAY23290781626675032790.jpg!cover_mini
+    url: 'https://cn.weikecc.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> iYuan'
+    avatar: https://p.zhheo.com/0X71HS23890281645691738958.jpg!cover_mini
+    url: 'https://o0.work/'  
 pyq2d:
   title: 朋友圈新一代框架
   description: 此框架形状为小电视(此版本框架bug极多)

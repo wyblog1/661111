@@ -974,7 +974,46 @@ zlys:
     url: 'https://foolishfox.cn/' 
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> CAYZLH'
     avatar: https://www.cayzlh.com/avatar.svg
-    url: 'https://www.cayzlh.com/' 
+    url: 'https://www.cayzlh.com/'
+    - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Ln'
+    avatar: https://p.zhheo.com/4jMaRD21990181611242119020.png!cover_mini
+    url: 'https://weilining.cf/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> PluShine'
+    avatar: https://p.zhheo.com/eb394cef2e71c75e6b54cb55163f0b77a7916148.jpg!cover_mini
+    url: 'https://plushine.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 流恋'
+    avatar: https://p.zhheo.com/S5gRlM22591081633352125904.jpg!cover_mini
+    url: 'https://yuanyuanzi.gitee.io/'    
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> evrStr'
+    avatar: https://p.zhheo.com/9be10b963e5b4de8bfb6fc73bb6010ae85867911.png!cover_mini
+    url: 'https://evrstr.cc/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 可以清心'
+    avatar: https://p.zhheo.com/XRVWur24990981630563349145.jpg!cover_mini
+    url: 'https://www.keyiqingxin.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 上帝的笑'
+    avatar: https://p.zhheo.com/P2uVbJ23190781658916331562.jpg!cover_mini
+    url: 'https://kevinknow.cn/'    
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> HuRan'
+    avatar: https://p.zhheo.com/OksDZG20391281640625363581.jpg!cover_mini
+    url: 'https://blog.huran.xyz/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Yのケイ'
+    avatar: https://p.zhheo.com/5FruiR24590381615863705287.jpeg!cover_mini
+    url: 'https://www.aprilcherryblossom.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 葱苓'
+    avatar: https://p.zhheo.com/M81kOO22290681654830382223.jpg!cover_mini
+    url: 'https://www.ciraos.top/'    
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Jer'
+    avatar: https://p.zhheo.com/2022dc1e3e9a857b85b44f27bd75c9ccd75f125512.png!cover_mini
+    url: 'https://blog.jersite.gq/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 方糖'
+    avatar: https://p.zhheo.com/L7rrcZ20290981663900442696.png!cover_mini
+    url: 'https://www.iftft.com/'
+  - name: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小佑前端'
+    avatar: https://p.zhheo.com/sCMxqO25090781626848210411.jpg!cover_mini
+    url: 'https://lordblog.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Jason'
+    avatar: https://p.zhheo.com/yoVzxw24290881659410502409.jpg!cover_mini
+    url: 'https://freeaas.com/'  
     
 pyq2d:
   title: 朋友圈新一代框架

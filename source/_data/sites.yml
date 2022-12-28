@@ -831,7 +831,16 @@ dl:
     url: 'https://www.mahaofei.com/' 
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 阿小州博客'
     avatar: https://axznb.cn/wp-content/themes/zt/img/logo.png
-    url: 'https://axznb.cn/'    
+    url: 'https://axznb.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> yiyun's Blog'
+    avatar: https://moeci.com/images/apple-touch-icon-next.png
+    url: 'https://moeci.com/'    
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小高导航'
+    avatar: https://www.dhw22.com/wp-content/uploads/2021/12/ywdh-logo-1.png
+    url: 'https://www.dhw22.com/blog/' 
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 运维随笔'
+    avatar: https://wandouduoduo.github.io/images/yunwei.png
+    url: 'https://wandouduoduo.github.io/'    
 zlys:
   title: 左邻右舍
   description: 

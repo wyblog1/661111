@@ -825,7 +825,10 @@ dl:
     url: 'https://blog.asever.top/'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> PrettySheep'
     avatar: https://p.zhheo.com/2022235ceef3639cb63182cf4d3139e62fcb232511.png!cover_mini
-    url: 'https://www.prettysheep.cn/'      
+    url: 'https://www.prettysheep.cn/'    
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> HalfA博客'
+    avatar: https://image.mahaofei.com/avatar.jpg
+    url: 'https://www.mahaofei.com/'  
 zlys:
   title: 左邻右舍
   description: 

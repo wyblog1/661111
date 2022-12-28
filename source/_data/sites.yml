@@ -557,9 +557,6 @@ dl:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Gao'
     avatar: https://gaoziman.oss-cn-hangzhou.aliyuncs.com/img/14.jpg
     url: 'https://manamn.space/'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 蝉时雨'
-    avatar: https://chanshiyu.com/apple-touch-icon.png
-    url: 'https://chanshiyu.com/'  
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 探人间'
     avatar: https://p.zhheo.com/2022283e174c5b59fd02b22b94adae7d09a2112911.png!cover_mini
     url: 'https://www.hydsb0.com/'  
@@ -587,9 +584,6 @@ dl:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Adil'
     avatar: https://adil.com.cn/img/touxiang.jpg
     url: 'https://adil.com.cn'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 安知鱼`Blog'
-    avatar: https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg
-    url: 'https://anzhiy.cn/'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 一念倾城'
     avatar: https://wo.aziyuan.cn/zjs/ico.png
     url: 'https://wo.aziyuan.cn'
@@ -643,28 +637,19 @@ dl:
     url: 'https://studio.yhdzz.cn/'  
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 小满の窝'
     avatar: https://s-bj-1934-cdn-yhdzz-blog.oss.dogecdn.com/xiaoman1221s-blog-logo.png
-    url: 'https://www.yhdzz.cn/'  
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> June 12'
-    avatar: https://www.wxmin.cn:9000/ants-file/imgUrl/logo_1661824383783.png
-    url: 'https://www.wxmin.cn' 
+    url: 'https://www.yhdzz.cn/'   
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 张时贰'
     avatar: https://zhangshier.vip/Hexo_img/avatar.jpg
     url: 'https://zhangshier.vip/' 
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 你真是一个美好的人类'
     avatar: https://blog.juanertu.com/images/avatar.png
     url: 'https://blog.juanertu.com/'    
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Sato'
-    avatar: https://cloud.fullcomb.top/private/source/image/build/Ryza/avatar.png
-    url: 'https://blog.fullcomb.top'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> Lan'
     avatar: https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2022/11/8d414a386fd54ec3a78e40d87f1909d5.png
     url: 'https://www.lanol.cn/'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 木木博客'
     avatar: https://www.whbblog.cn/ico/blog_logo1.png
     url: 'https://www.whbblog.cn/'
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 奥奥的学习分享窝'
-    avatar: https://blog.fiime.cn/data/image/2022/08/29/16186_cxjx_7741.png?2090929514
-    url: 'https://blog.fiime.cn/'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> LinkinStar Blog'
     avatar: https://blog.linkinstars.com/blog-static/LLX.jpg
     url: 'https://www.linkinstars.com/'
@@ -776,9 +761,6 @@ dl:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 二兔'
     avatar: https://p.zhheo.com/647151567cb8a7fc1695a453db7f7abfe1cf7127.png!cover_mini
     url: 'https://blog.juanertu.com/'  
-  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 未央'
-    avatar: https://p.zhheo.com/vCXqHw23790181610092837008.jpeg!cover_mini
-    url: 'https://forever97.top/'
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> HalfA'
     avatar: https://p.zhheo.com/rqACiQ22690581651626566711.jpg!cover_mini
     url: 'https://www.mahaofei.com/'

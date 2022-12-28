@@ -828,7 +828,10 @@ dl:
     url: 'https://www.prettysheep.cn/'    
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> HalfA博客'
     avatar: https://image.mahaofei.com/avatar.jpg
-    url: 'https://www.mahaofei.com/'  
+    url: 'https://www.mahaofei.com/' 
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 阿小州博客'
+    avatar: https://axznb.cn/wp-content/themes/zt/img/logo.png
+    url: 'https://axznb.cn/'    
 zlys:
   title: 左邻右舍
   description: 
@@ -1024,7 +1027,13 @@ zlys:
     url: 'https://hassanwong.top'    
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 饼铛'
     avatar: https://cakepanit.com/img/avatar.jpg
-    url: 'https://cakepanit.com/'    
+    url: 'https://cakepanit.com/' 
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 今天是晴天'
+    avatar: https://imgfiles-debin.oss-accelerate.aliyuncs.com/base_imgfiles/Head.jpg
+    url: 'https://www.luodeb.top/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 胖虎同学'
+    avatar: https://cos.youngsay.cn/blog/202208021722670.png
+    url: 'https://blog.youngsay.cn/'
 pyq2d:
   title: 朋友圈新一代框架
   description: 此框架形状为小电视(此版本框架bug极多)

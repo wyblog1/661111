@@ -1034,6 +1034,12 @@ zlys:
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 胖虎同学'
     avatar: https://cos.youngsay.cn/blog/202208021722670.png
     url: 'https://blog.youngsay.cn/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> FF'
+    avatar: https://sdn.geekzu.org/avatar/53bc457fbba563ce1ce80edda8310241
+    url: 'https://foolishfox.cn/' 
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> CAYZLH'
+    avatar: https://www.cayzlh.com/avatar.svg
+    url: 'https://www.cayzlh.com/'  
 pyq2d:
   title: 朋友圈新一代框架
   description: 此框架形状为小电视(此版本框架bug极多)

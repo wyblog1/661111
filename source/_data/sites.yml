@@ -840,7 +840,10 @@ dl:
     url: 'https://www.dhw22.com/blog/' 
   - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 运维随笔'
     avatar: https://wandouduoduo.github.io/images/yunwei.png
-    url: 'https://wandouduoduo.github.io/'    
+    url: 'https://wandouduoduo.github.io/'
+  - title: '<i class="fas fa-comment fa-fw" aria-hidden="true"></i> 抵到烂'
+    avatar: https://p.zhheo.com/fee24f2a5df528fea6ed355e0f545ffe2f0ea011.png!cover_mini
+    url: 'https://www.didaolan.cn/'  
 zlys:
   title: 左邻右舍
   description: 

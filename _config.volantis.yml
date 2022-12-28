@@ -72,7 +72,11 @@ navbar:
                    url: https://alist-replit-2.661111.repl.co/
              - name: 朋友圈api
                icon: fas fa-user-group
-               url: https://wyblog.eu.org
+               rows:
+                 - name: 1
+                   url: https://fcircle.wyblog1.tk/
+                 - name: 2
+                   url: https://wyblog.eu.org
              - name: musicapi
                icon: fas fa-music
                rows:
@@ -93,10 +97,13 @@ navbar:
                        url: https://effulgent-kringle-368d41.netlify.app/
                      - name: 2
                        icon: fas fa-tags
-                       url: https://wyblog1.eu.org
+                       url: https://wyblog1.tk
     - name: 更多
       icon: fa-solid fa-ellipsis-v
       rows:
+        - name: 每日日报
+          icon: fas fa-newspaper
+          url: https://news.wyblog1.tk
         - name: 深色模式
           icon: fa-light fa-moon POMEGRANATE faa-vertical
           toggle: darkmode
@@ -118,12 +125,6 @@ navbar:
         - name: 说说
           icon: fa-fw iconfont icon-shejiao
           url: shuoshuo/
-        - name: 追番页
-          icon: fa-solid fa-comment fa-fw 
-          rows:
-             - name: 1
-               icon: fa-light fa-folder-open TURQUOISE faa-vertical
-               url: bangumis/
 site_footer:
   layout: [aplayer, social, source, analytics, copyright]
   copyright: '[Copyright © Since 2017 Volantis Team](https://github.com/volantis-x/)'

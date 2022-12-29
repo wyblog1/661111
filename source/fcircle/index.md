@@ -1,3 +1,6 @@
+---
+sidebar: [blogger, music, guide, lastupdate]
+---
 <!-- 友链朋友圈样式 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/css/fcircle-lmm.css">
 

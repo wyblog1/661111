@@ -122,8 +122,16 @@ site_footer:
       enable: true                        # 是否开启右键模块的消息通知
       notice: true                        # 唤醒原右键菜单的通知   
 sidebar:
-  for_page: [qgroup, post, category, guide]
+  for_page: [qgroup, post, category, guide, blogger, music]
   for_post: [toc]
+  blogger:
+      class: blogger
+      display: [desktop] # [desktop, mobile]
+      avatar: https://661111.github.io/media/images/custom-headerLogo.ico
+      title: 无影
+      subtitle:
+      jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
+      social: true      
   widget_library:
     toc:
       class: toc
@@ -134,6 +142,10 @@ sidebar:
       list_number: true
       min_depth: 2
       max_depth: 5
+    music:
+      class: music
+      display: [desktop, mobile] # [desktop, mobile]
+      pjaxReload: ture   
     post:
       class: text
       display: [desktop, mobile] # [desktop, mobile]
@@ -167,16 +179,3 @@ sidebar:
         - name: 音乐盒
           icon: fa-solid fa-compact-disc 
           url: https://api.wyblog.repl.co
-    music:
-      class: music
-      display: [desktop, mobile] # [desktop, mobile]
-      pjaxReload: ture   
-blogger:
-  class: blogger
-  display: [desktop] # [desktop, mobile]
-  avatar: https://661111.github.io/media/images/custom-headerLogo.ico
-  title: 无影
-  subtitle:
-  jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
-  social: true        
-   

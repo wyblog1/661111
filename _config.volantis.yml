@@ -158,7 +158,7 @@ sidebar:
       header:
         icon: fa-solid fa-map-signs
         title: 分类导航
-      fixed: true # 固定宽度
+      fixed: flase # 固定宽度
       rows:
         - name: 友链
           icon: fa-solid fa-link

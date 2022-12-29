@@ -28,7 +28,7 @@ navbar:
       icon: fa-solid fa-archive
       url: archives/
     - name: 关于
-      icon: fa-duotone fa-user-tie fa-fw
+      icon: fas fa-info-circle fa-fw
       rows:
         - name: 版权声明
           url: 2022/09/17/copyright/
@@ -170,7 +170,7 @@ sidebar:
           icon: fa-solid fa-archive
           url: /archives/
         - name: 个人主页
-          icon: fa-duotone fa-user-tie fa-fw
+          icon: fas fa-info-circle fa-fw
           url: https://wyblog1.tk 
         - name: 音乐盒
           icon: fa-solid fa-compact-disc 

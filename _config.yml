@@ -82,6 +82,12 @@ theme: volantis
 deploy:
   type:
 
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
+  
 cinema: # 追剧设置
   enable: true
   path:

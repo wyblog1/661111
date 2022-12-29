@@ -6,48 +6,32 @@ navbar:
     icon: https://661111.github.io/media/images/custom-headerLogo.ico
     title: '无影博客<sup style="color:#ff9800">blog.wyblog1.tk'
   menu:
+    - name: 首页
+      icon: fa-duotone fa-home WISTERIA fa-fw fa-fw
+      url: /
     - name: 分类
-      icon: fa-solid fa-folder-open fa-fw
+      icon: fa-duotone fa-folder-open AMETHYST fa-fw
       rows:  
         - name: gridea
-          icon: fa-solid fa-folder-open fa-fw
+          icon: fa-duotone fa-folder-open AMETHYST fa-fw
           url: tags/gridea/
         - name: bilbil
-          icon: fa-solid fa-folder-open fa-fw
+          icon: fa-duotone fa-folder-open AMETHYST fa-fw
           url: tags/blibli/
         - name: 学科
-          icon: fa-solid fa-folder-open fa-fw
+          icon: fa-duotone fa-folder-open AMETHYST fa-fw
           url: tags/学科/ 
         - name: bilbilpage2
-          icon: fa-solid fa-folder-open fa-fw
+          icon: fa-duotone fa-folder-open AMETHYST fa-fw
           url: tags/blibli-page-2/
         - name: 相册集
-          icon: fa-solid fa-folder-open fa-fw
+          icon: fa-duotone fa-folder-open AMETHYST fa-fw
           url: tags/相册/     
     - name: 归档
       icon: fa-solid fa-archive fa-fw
       url: archives/
-    - name: 社交
-      icon: fas fa-bars
-      rows:
-        - name: 友链
-          icon: fa-solid fa-external-link fa-fw
-          url: friends/
-        - name: 朋友圈
-          icon: fa-solid fa-feed fa-fw
-          url: links/
-          rows:      
-             - name: 朋友圈模板1
-               icon: fa-solid fa-feed fa-fw
-               url: links/
-             - name: 朋友圈模板2
-               icon: fa-solid fa-feed fa-fw
-               url: fcircle/
-        - name: 开往
-          icon: fas fa-link
-          url: https://travellings.link/
     - name: 关于
-      icon: fas fa-user
+      icon: fa-duotone fa-info-circle ORANGE fa-fw
       rows:
         - name: 版权声明
           url: 2022/09/17/copyright/
@@ -57,59 +41,32 @@ navbar:
           url: 2022/09/24/list/
         - name: 关于
           url: /2022/08/20/about/
-        - name: 我的项目
-          icon: fas fa-user
-          rows:
-             - name: musicapi
-               icon: fa-fw iconfont icon-jiankong
-               url: https://api.wyblog.repl.co
-             - name: alist
-               icon: fa-light fa-folder-open TURQUOISE faa-vertical
-               rows:
-                 - name: 1
-                   url: https://alist.661111.repl.co/
-                 - name: 2
-                   url: https://alist-replit-2.661111.repl.co/
-             - name: 朋友圈api
-               icon: fas fa-user-group
-               rows:
-                 - name: 1
-                   url: https://fcircle.wyblog1.tk/
-                 - name: 2
-                   url: https://wyblog.eu.org
-             - name: musicapi
-               icon: fas fa-music
-               rows:
-                 - name: gridea博客
-                   icon: fas fa-tags
-                   rows:
-                     - name: 1
-                       icon: fas fa-tags
-                       url: https://timely-griffin-781b87.netlify.app
-                     - name: 2
-                       icon: fas fa-tags
-                       url: https://661111.github.io 
-                 - name: 博客镜像
-                   icon: fas fa-tags
-                   rows:
-                     - name: 1
-                       icon: fas fa-tags
-                       url: https://effulgent-kringle-368d41.netlify.app/
-                     - name: 2
-                       icon: fas fa-tags
-                       url: https://wyblog1.tk
+    - name: 小功能
+      icon: fa-fw fa-duotone fa-bars TURQUOISE fa-fw
+      rows: 
+        - name: 友链
+          icon: fa-duotone fa-link ALIZARIN fa-fw
+          url: friends/
+        - name: 朋友圈
+          icon: fa-duotone fa-user-friends PUMPKIN fa-fw
+          url: links/
+          rows:      
+             - name: 朋友圈模板1
+               icon: fa-duotone fa-user-friends PUMPKIN fa-fw
+               url: links/
+             - name: 朋友圈模板2
+               icon: fa-duotone fa-user-friends PUMPKIN fa-fw
+               url: fcircle/
+        - name: 开往
+          icon: fa-duotone fa-paper-plane PETERRIVE fa-fw
+          url: https://travellings.link/
+        - name: hr
     - name: 更多
       icon: fa-solid fa-ellipsis-v
       rows:
         - name: 每日日报
           icon: fas fa-newspaper
-          url: https://news.wyblog1.tk
-        - name: 深色模式
-          icon: fa-light fa-moon POMEGRANATE faa-vertical
-          toggle: darkmode
-        - name: 背景音乐
-          icon: fa-solid fa-compact-disc
-        - name: hr        
+          url: https://news.wyblog1.tk       
         - name: 音乐盒
           icon: fas fa-music
           url: https://api.wyblog.repl.co
@@ -117,14 +74,21 @@ navbar:
           icon: fa-solid fa-comment fa-fw 
           rows:
              - name: 1
-               icon: fa-light fa-folder-open TURQUOISE faa-vertical
+               icon: fa-duotone fa-folder-open AMETHYST fa-fw
                url: tags/blibli/
              - name: 2
-               icon: fa-light fa-folder-open TURQUOISE faa-vertical
+               icon: fa-duotone fa-folder-open AMETHYST fa-fw
                url: tags/blibli-page-2/           
         - name: 说说
           icon: fa-fw iconfont icon-shejiao
           url: shuoshuo/
+        - name: hr  
+        - name: 深色模式
+          icon: fa-duotone fa-adjust CARROT fa-fw
+          toggle: darkmode
+        - name: 背景音乐
+          icon: fa-solid fa-compact-disc   
+          
 site_footer:
   layout: [aplayer, social, source, analytics, copyright]
   copyright: '[Copyright © Since 2017 Volantis Team](https://github.com/volantis-x/)'

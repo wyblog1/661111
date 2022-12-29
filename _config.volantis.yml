@@ -172,5 +172,6 @@ sidebar:
         - name: 个人主页
           icon: fa-duotone fa-user-tie fa-fw
           url: https://wyblog1.tk 
-        - name: 背景音乐
-          icon: fa-solid fa-compact-disc  
+        - name: 音乐盒
+          icon: fa-solid fa-compact-disc 
+          url: https://api.wyblog.repl.co

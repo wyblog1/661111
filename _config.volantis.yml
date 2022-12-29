@@ -191,6 +191,10 @@ sidebar:
         - name: 去追番吧
           icon: fa-solid fa-comment fa-fw 
           url: /bangumi/  
+        - name: 留言板
+          icon: fa-solid fa-comment fa-fw 
+          url: /messages/  
+          
 
 search:
   enable: true

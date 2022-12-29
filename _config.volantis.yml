@@ -4,7 +4,7 @@ navbar:
   logo: # choose [img] or [icon + title]
     img: '' # volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png
     icon: https://661111.github.io/media/images/custom-headerLogo.ico
-    title: '无影博客<sup style="color:#ff9800">一个非常简约的博客'
+    title: '无影博客<sup style="color:#ff9800">blog.wyblog1.tk'
   menu:
     - name: 分类
       icon: fa-solid fa-folder-open fa-fw

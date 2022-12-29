@@ -193,10 +193,10 @@ cover:
       icon: #
       img: https://api.champhoon.xyz/asset/svg/1f375.svg # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
       url: /links/
-    - name: 十年之约
+    - name: 开往
       icon: #
-      img: https://api.champhoon.xyz/asset/svg/1f9ed.svgg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
-      url: https://www.foreverblog.cn/
+      img: https://api.champhoon.xyz/asset/svg/1f9ed.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
+      url: https://travellings.link/
 ############################### Cover ############################### > end
 
 pages:

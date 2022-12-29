@@ -1,34 +1,31 @@
 debug: false
 content_visibility: true
 navbar:
-  logo: # choose [img] or [icon + title]
+  logo: https://661111.github.io/media/images/custom-headerLogo.ico # choose [img] or [icon + title]
     img: '' # volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png
     icon: https://661111.github.io/media/images/custom-headerLogo.ico
-    title: '无影博客<sup style="color:#ff9800">blog.wyblog1.tk'
+    title: '无影博客'
   menu:
-    - name: 首页
-      icon: fa-duotone fa-home WISTERIA fa-fw fa-fw
-      url: /
     - name: 分类
-      icon: fa-duotone fa-folder-open AMETHYST fa-fw
+      icon: fa-solid fa-folder-open
       rows:  
         - name: gridea
-          icon: fa-duotone fa-folder-open AMETHYST fa-fw
+          icon: fa-solid fa-folder-open
           url: tags/gridea/
         - name: bilbil
-          icon: fa-duotone fa-folder-open AMETHYST fa-fw
+          icon: fa-solid fa-folder-open
           url: tags/blibli/
         - name: 学科
-          icon: fa-duotone fa-folder-open AMETHYST fa-fw
+          icon: fa-solid fa-folder-open
           url: tags/学科/ 
         - name: bilbilpage2
-          icon: fa-duotone fa-folder-open AMETHYST fa-fw
+          icon: fa-solid fa-folder-open
           url: tags/blibli-page-2/
         - name: 相册集
-          icon: fa-duotone fa-folder-open AMETHYST fa-fw
+          icon: fa-solid fa-folder-open
           url: tags/相册/     
     - name: 归档
-      icon: fa-solid fa-archive fa-fw
+      icon: fa-solid fa-archive
       url: archives/
     - name: 关于
       icon: fa-duotone fa-info-circle ORANGE fa-fw
@@ -42,20 +39,20 @@ navbar:
         - name: 关于
           url: /2022/08/20/about/
     - name: 小功能
-      icon: fa-fw fa-duotone fa-bars TURQUOISE fa-fw
+      icon: fa-solid fa-link
       rows: 
         - name: 友链
-          icon: fa-duotone fa-link ALIZARIN fa-fw
+          icon: fa-solid fa-link
           url: friends/
         - name: 朋友圈
-          icon: fa-duotone fa-user-friends PUMPKIN fa-fw
+          icon: fa-solid fa-feed
           url: links/
           rows:      
              - name: 朋友圈模板1
-               icon: fa-duotone fa-user-friends PUMPKIN fa-fw
+               icon: fa-solid fa-feed
                url: links/
              - name: 朋友圈模板2
-               icon: fa-duotone fa-user-friends PUMPKIN fa-fw
+               icon: fa-solid fa-feed
                url: fcircle/
         - name: 开往
           icon: fa-duotone fa-paper-plane PETERRIVE fa-fw
@@ -84,7 +81,7 @@ navbar:
           url: shuoshuo/
         - name: hr  
         - name: 深色模式
-          icon: fa-duotone fa-adjust CARROT fa-fw
+          icon: fa-solid fa-moon
           toggle: darkmode
         - name: 背景音乐
           icon: fa-solid fa-compact-disc   
@@ -129,3 +126,41 @@ music:
   class: music
   display: [desktop, mobile] # [desktop, mobile]
   pjaxReload: false
+sidebar:
+  for_page: [qgroup, post, category, guide]
+  for_post: [toc]
+  widget_library:
+    toc:
+      class: toc
+      display: [desktop, mobile] # [desktop, mobile]
+      header:
+        icon: fa-solid fa-list
+        title: 本文目录
+      list_number: true
+      min_depth: 2
+      max_depth: 5
+    post:
+      class: text
+      display: [desktop, mobile] # [desktop, mobile]
+      sticky: true
+      header:
+        icon: fa-solid fa-plus
+        title: 公告
+        url: /
+      content:
+        - '网站域名已更换新域名,新地址:[https://blog.wyblog1.tk](https://blog.wyblog1.tk)'
+    # 文档导航
+    guide:
+      class: grid
+      display: [desktop, mobile] # [desktop, mobile]
+      header:
+        icon: fa-solid fa-map-signs
+        title: 分类导航
+      fixed: true # 固定宽度
+      rows:
+        - name: 友链
+          icon: fa-solid fa-link
+          url: /friends/
+        - name: 朋友圈
+          icon: fa-solid fa-feed
+          url: /links/

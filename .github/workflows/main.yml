@@ -1,51 +1,51 @@
-name: 自动部署 Hexo
-
+name: CI
+env:
+  TZ: Asia/Shanghai
 on:
   push:
-    branches:
-      - master
-
+    branches: [ "main" ]
+  workflow_dispatch:
+  schedule:
+    - cron: '30 16 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [10.x]
-
     steps:
-      - name: 开始运行
-        uses: actions/checkout@v1
-
-      - name: 设置 Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v1
-        with:
-          node-version: ${{ matrix.node-version }}
-
-      - name: 安装 Hexo CI
-        run: 
-          export TZ='Asia/Shanghai'
-          npm install hexo-cli -g
-
-      - name: 缓存
-        uses: actions/cache@v1
-        id: cache-dependencies
-        with:
-          path: node_modules
-          key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
-
-      - name: 安装插件
-        if: steps.cache-dependencies.outputs.cache-hit != 'true'
-        run: 
-          npm install
-
-      - name: 部署博客
-        run: 
-          hexo clean && hexo g && hexo douban && gulp
-          cd ./public
-          git init
-          git config user.name "${{secrets.GIT_NAME}}"
-          git config user.email "${{secrets.GIT_EMAIL}}"
-          git add .
-          git commit -m "Update"
-          git push --force --quiet "https://${{secrets.GH_TOKEN}}@${{secrets.GH_REF}}" master:master
-          git push --force --quiet "https://${{secrets.CD_TOKEN}}@${{secrets.CD_REF}}" master:master
+    - uses: actions/checkout@v1
+    - uses: actions/setup-node@v3
+      with:
+        node-version: '16.17'
+        cache: 'npm'
+        cache-dependency-path: package-lock.json
+    - name: npm
+      run: |
+        npm i -g hexo-cli
+        npm i
+    - name: Cache node modules
+      id: cache-npm
+      uses: actions/cache@v3
+      env:
+        cache-name: cache-node-modules
+      with:
+        path: |
+          ~/node_modules
+          ~/.npm
+        key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-build-${{ env.cache-name }}-
+          ${{ runner.os }}-build-
+          ${{ runner.os }}-
+    - name: hexo
+      run: |
+        hexo g --slient
+        hexo algolia
+        gulp
+        # curl -X DELETE 'https://m.dusays.com/indexes/hexo' -H "Authorization: Bearer ${{secrets.MEILISEARCH_KEY}}"
+        # curl -X POST 'https://m.dusays.com/indexes/hexo/documents/?primaryKey=uuid' -H "Authorization: Bearer ${{secrets.MEILISEARCH_KEY}}" -H "Content-Type: application/json" --data-binary '@public/content.json'
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        external_repository: penndu/my-website
+        publish_branch: master
+        publish_dir: ./public

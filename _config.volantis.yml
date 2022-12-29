@@ -1,7 +1,7 @@
 debug: false
 content_visibility: true
 navbar:
-  logo: https://661111.github.io/media/images/custom-headerLogo.ico # choose [img] or [icon + title]
+  logo: # choose [img] or [icon + title]
     img: '' # volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png
     icon: https://661111.github.io/media/images/custom-headerLogo.ico
     title: '无影博客'

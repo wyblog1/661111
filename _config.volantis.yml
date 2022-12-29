@@ -1,8 +1,8 @@
 debug: false
 content_visibility: true
 navbar:
-  logo: https://blog.wyblog1.tk//1.png # choose [img] or [icon + title]
-    img: '/1.png' # volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png
+  logo: https://github.com/612901/661111/blob/main/1.png?raw=true # choose [img] or [icon + title]
+    img: 'https://github.com/612901/661111/blob/main/1.png?raw=true' # volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png
     icon: https://661111.github.io/media/images/custom-headerLogo.ico
     title: '<sup style="color:#ff9800">无影博客'
   menu:

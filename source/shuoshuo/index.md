@@ -1,5 +1,5 @@
 ---
-sidebar: [blogger, music, guide, lastupdate]
+sidebar: []
 ---
 <script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
 <link href='//unpkg.com/@waline/client@v2/dist/waline.css' rel='stylesheet' />

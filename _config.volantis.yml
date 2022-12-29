@@ -122,7 +122,7 @@ site_footer:
       enable: true                        # 是否开启右键模块的消息通知
       notice: true                        # 唤醒原右键菜单的通知   
 sidebar:
-  for_page: [qgroup, post, category, blogger, music, guide]
+  for_page: [qgroup, blogger, music, guide, category,  post]
   for_post: [toc]
   blogger:
       class: blogger

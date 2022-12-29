@@ -161,6 +161,8 @@ sidebar:
         title: 公告
       content:
         - '网站域名已更换新域名,新地址: [https://blog.wyblog1.tk](https://blog.wyblog1.tk),另外,本博客计划将会在2023.1.1开启右键自定义菜单.会开发出一些符合自己的美观'
+        - '【提示】'
+        - '本站默认替换了右键菜单，可使用「Ctrl + 右键」唤醒原菜单'
     # 文档导航
     guide:
       class: grid

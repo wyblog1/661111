@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 友情链接
-sidebar: [blogger, music, guide, lastupdate]
+sidebar: []
 ---
 
 {% sites only:qz %}

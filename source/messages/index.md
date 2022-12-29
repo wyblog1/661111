@@ -2,6 +2,7 @@
 title: 留言板
 layout: page
 seo_title: 留言板
+sidebar: [blogger, music, guide, lastupdate]
 valine:
   placeholder: 有什么想对我说的呢？
 twikoo:

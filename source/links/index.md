@@ -3,6 +3,7 @@ title: 标签
 date: 2016-04-18 08:33:54
 type: "links"
 comments: flase
+sidebar: [blogger, music, guide, lastupdate]
 ---
 <div id="hexo-circle-of-friends-root"></div>
 <script>

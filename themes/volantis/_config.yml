@@ -553,21 +553,17 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
-      avatar: volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
+      avatar: https://661111.github.io/media/images/custom-headerLogo.ico # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
       shape: rectangle # circle, rectangle
       url: /about/
       title:
       subtitle:
       jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
       social:
-        - icon: fa-solid fa-rss
-          url: /atom.xml
         - icon: fa-solid fa-envelope
-          url: mailto:me@xxx.com
+          url: mailto:xiaoxin104@outlook.com
         - icon: fab fa-github
-          url: https://github.com/volantis-x/
-        - icon: fa-solid fa-headphones-alt
-          url: /
+          url: https://github.com/wyblog1/
     # ---------------------------------------
     # toc widget (valid only in articles)
     toc:
@@ -664,8 +660,8 @@ sidebar:
       class: grid
       display: [desktop, mobile] # [desktop, mobile]
       header:
-        icon: fa-solid fa-map-signs
-        title: 分类导航
+      icon: fa-solid fa-map-signs
+      title: 分类导航
       fixed: true # 固定宽度
       rows:
         - name: 常见问题

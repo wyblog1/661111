@@ -71,10 +71,10 @@ navbar:
           icon: fa-solid fa-comment fa-fw 
           rows:
              - name: 1
-               icon: fa-duotone fa-folder-open AMETHYST fa-fw
+               icon: fa-solid fa-comment fa-fw 
                url: tags/blibli/
              - name: 2
-               icon: fa-duotone fa-folder-open AMETHYST fa-fw
+               icon: fa-solid fa-comment fa-fw 
                url: tags/blibli-page-2/           
         - name: 说说
           icon: fa-fw iconfont icon-shejiao
@@ -179,3 +179,9 @@ sidebar:
         - name: 音乐盒
           icon: fa-solid fa-compact-disc 
           url: https://api.wyblog.repl.co
+        - name: 个人主页
+          icon: fas fa-info-circle fa-fw
+          url: https://wyblog1.tk 
+        - name: 去追番吧
+          icon: fa-solid fa-comment fa-fw 
+          url: /bangumi/  

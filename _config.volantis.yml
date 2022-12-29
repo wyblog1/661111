@@ -191,3 +191,14 @@ sidebar:
         - name: 去追番吧
           icon: fa-solid fa-comment fa-fw 
           url: /bangumi/  
+
+search:
+  enable: true
+  algolia:
+    searchAsYouType: false
+    placeholder: '输关键词后「回车」搜索' # The placeholder text of the input.
+  meilisearch:
+    placeholder: 'Search...'
+    searchKey: '162d226211d1dd3c5a3dfedbefcb1d349c5d84f00ecc76397677879d8850c317'
+    indexName: 'hexo'
+    hostUrl: 'https://search.szyink.com/'

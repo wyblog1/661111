@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/di-yi-ci-yue-kao-mei-kao-hao-bu-jin-shi-yin-wei-cu-xin-gen-ben-yuan-yin-shi-zhe-4-dian.png
 isTop: false
+description: 1
 ---
 很多学校都已经考过月考并且出成绩了，有些同学在感叹月考没考好，但对于没考好的原因，有很多孩子和家长都会这样说——
 

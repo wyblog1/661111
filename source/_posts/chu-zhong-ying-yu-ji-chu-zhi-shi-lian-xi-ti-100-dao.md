@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-ying-yu-ji-chu-zhi-shi-lian-xi-ti-100-dao.jpg
 isTop: false
+description: 1
 ---
 1. My ________(学生) like me and I like them.
 

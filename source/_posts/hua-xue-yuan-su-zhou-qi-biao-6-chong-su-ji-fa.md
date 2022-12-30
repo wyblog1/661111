@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/hua-xue-yuan-su-zhou-qi-biao-6-chong-su-ji-fa.jpg
 isTop: false
+description: 1
 ---
 拼音助记法
 

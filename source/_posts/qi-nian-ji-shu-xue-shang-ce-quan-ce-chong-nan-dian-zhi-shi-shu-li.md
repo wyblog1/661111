@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/qi-nian-ji-shu-xue-shang-ce-quan-ce-chong-nan-dian-zhi-shi-shu-li.jpg
 isTop: false
+description: 1
 ---
 第一章  有理数
 

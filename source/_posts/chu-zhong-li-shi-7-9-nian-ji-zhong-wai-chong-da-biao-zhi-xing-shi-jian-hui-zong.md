@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-li-shi-7-9-nian-ji-zhong-wai-chong-da-biao-zhi-xing-shi-jian-hui-zong.jpg
 isTop: false
+description: 1
 ---
 <!-- more -->
 七年级上册

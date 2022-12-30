@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-wu-li-wu-tai-bian-hua-zhi-shi-dian-zong-jie.jpg
 isTop: false
+description: 1
 ---
 一、温度
 

@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-shu-xue-ya-zhou-ti.jpg
 isTop: false
+description: 1
 ---
 九种题型：
 

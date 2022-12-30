@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/link.jpg
 isTop: false
+description: 1
 ---
 本站开通友链交换申请通道，满足一下条件的网友可在本页留言
 1、域名注册一年以上；

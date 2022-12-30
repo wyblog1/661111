@@ -7,6 +7,7 @@ hideInList: false
 feature: /post-images/chu-zhong-li-shi-hui-yi-shi-jian-zhou.jfif
 isTop: false
 ---
+<!-- more -->
 会议要点
 
 1894年 兴中会成立（檀香山）

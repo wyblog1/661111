@@ -7,6 +7,7 @@ hideInList: false
 feature: /post-images/ba-nian-ji-ying-yu-shang-ce-ge-dan-yuan-hua-ti-zuo-wen-fan-wen.jpg
 isTop: false
 ---
+<!-- more -->
 八年级上册
 
 Unit1  Where did you go on vacation?

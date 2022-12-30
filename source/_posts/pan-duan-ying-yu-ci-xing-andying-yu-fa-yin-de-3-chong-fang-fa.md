@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/pan-duan-ying-yu-ci-xing-andying-yu-fa-yin-de-3-chong-fang-fa.jpg
 isTop: false
+description: 1
 ---
 *一.判断英语词性的方法*
 

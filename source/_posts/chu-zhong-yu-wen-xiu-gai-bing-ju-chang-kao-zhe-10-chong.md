@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-yu-wen-xiu-gai-bing-ju-chang-kao-zhe-10-chong.jpg
 isTop: false
+description: 1
 ---
 一、发现介宾短语开头的句子，看是否缺少主语。
 

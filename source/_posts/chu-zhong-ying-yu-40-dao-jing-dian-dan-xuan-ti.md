@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-ying-yu-40-dao-jing-dian-dan-xuan-ti.jpg
 isTop: false
+description: 1
 ---
 (    ) 1. ________ it is today!
 A. What fine weather 

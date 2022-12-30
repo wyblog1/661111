@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-yu-wen-qi-zhong-kao-qian-bi-kan-10-pian-kao-chang-zuo-wen.jpg
 isTop: false
+description: 1
 ---
 同在一个屋檐下
 推荐理由：切入角度小，主题小中见大

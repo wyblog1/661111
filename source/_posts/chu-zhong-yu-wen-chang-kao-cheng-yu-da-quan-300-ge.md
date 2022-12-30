@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-yu-wen-chang-kao-cheng-yu-da-quan-300-ge.jpg
 isTop: false
+description: 1
 ---
 1.爱憎分明：对人或事物喜爱和憎恨的界限非常清楚。
 2.安然无恙：平安无事，没有受到损害。

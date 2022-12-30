@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-shu-xue-bi-xu-zhang-wo-de-28-ge-kao-dian.jpg
 isTop: false
+description: 1
 ---
 一、相似三角形 (7个考点) 
 

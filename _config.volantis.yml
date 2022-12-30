@@ -1,4 +1,4 @@
-debug: false
+debug: ture
 content_visibility: true
 navbar:
   logo: # choose [img] or [icon + title]

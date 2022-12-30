@@ -58,6 +58,9 @@ navbar:
           icon: fa-duotone fa-paper-plane PETERRIVE fa-fw
           url: https://travellings.link/
         - name: hr
+        - name: homepage
+          icon: fa-duotone fa-paper-plane PETERRIVE fa-fw
+          url: /homepage/      
     - name: 更多
       icon: fa-solid fa-ellipsis-v
       rows:

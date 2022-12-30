@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-yu-wen-ming-zhu-lesslessai-qing-shi-xuan-greatergreater-chao-quan-zong-jie.jpg
 isTop: false
+description: 1
 ---
 一、基础知识
 1. 作者简介

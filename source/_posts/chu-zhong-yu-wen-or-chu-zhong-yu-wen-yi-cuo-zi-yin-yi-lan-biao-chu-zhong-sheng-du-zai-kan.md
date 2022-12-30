@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-yu-wen-or-chu-zhong-yu-wen-yi-cuo-zi-yin-yi-lan-biao-chu-zhong-sheng-du-zai-kan.jpg
 isTop: false
+description: 1
 ---
 ## 前言
 今天颜老师给大家分享一份初中语文易错字音，这是一位语文老师耗时两周，从近5年全国各地中考卷、期中期末考试卷中整理出来的，异常珍贵，家长一定要替孩子收藏。

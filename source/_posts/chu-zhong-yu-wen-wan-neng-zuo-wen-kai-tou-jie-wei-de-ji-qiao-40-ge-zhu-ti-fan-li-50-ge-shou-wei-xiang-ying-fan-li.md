@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-yu-wen-wan-neng-zuo-wen-kai-tou-jie-wei-de-ji-qiao-40-ge-zhu-ti-fan-li-50-ge-shou-wei-xiang-ying-fan-li.jpg
 isTop: false
+description: 1
 ---
 中考作文万能开头结尾五原则
 

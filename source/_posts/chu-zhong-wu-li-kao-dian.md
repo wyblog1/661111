@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-wu-li-kao-dian.jpg
 isTop: false
+description: 1
 ---
 ## 一、声现象
 1 声音的产生与传播 是声音的产生及其传播

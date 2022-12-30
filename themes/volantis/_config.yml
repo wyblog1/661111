@@ -627,12 +627,12 @@ sidebar:
           text: '文章数目：'
           unit: '篇'
         runtime:
-          enable: false
-          data: '2020/01/01'    # 填写建站日期
+          enable: ture
+          data: '2022/01/01'    # 填写建站日期
           text: '已运行时间：'
           unit: '天'
         wordcount:
-          enable: false
+          enable: ture
           text: '本站总字数：'   # 需要启用 wordcount
           unit: '字'
         visitcounter:

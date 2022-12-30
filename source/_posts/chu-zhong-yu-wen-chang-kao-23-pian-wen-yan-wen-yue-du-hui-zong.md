@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-yu-wen-chang-kao-23-pian-wen-yan-wen-yue-du-hui-zong.jpg
 isTop: false
+description: 1
 ---
 (一)《论语》十二章
 

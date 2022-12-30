@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-wu-li-gong-shi-ding-lu-da-hui-zong.jpg
 isTop: false
+description: 1
 ---
 ## 一、测量
 1.长度 L：主单位:米；测量工具:刻度尺；测量时要估读到最小刻度的下一位；

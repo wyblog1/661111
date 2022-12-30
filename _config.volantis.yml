@@ -199,7 +199,12 @@ sidebar:
         - name: 留言板
           icon: fa-solid fa-comment fa-fw 
           url: /messages/  
-         
+cover:
+  ...
+  display:
+    home: true
+    archive: false
+    others: false # can be written in front-matter 'cover: true'         
 search:
   enable: true
   algolia:

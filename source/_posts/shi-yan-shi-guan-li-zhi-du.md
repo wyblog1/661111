@@ -6,6 +6,7 @@ published: true
 hideInList: true
 feature: https://www.gd1214b.icu/post-images/lab.png
 isTop: false
+description: 1
 ---
 1.实验室确定仪器、安全、卫生责任人，负责实验室仪器、安全及卫生管理工作。
 

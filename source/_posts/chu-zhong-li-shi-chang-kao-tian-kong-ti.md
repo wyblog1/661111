@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-li-shi-chang-kao-tian-kong-ti.jpg
 isTop: false
+description: 1
 ---
 <!-- more -->
 第一类—标志类

@@ -722,7 +722,6 @@ site_footer:
       url:
   # site source
   source: https://github.com/volantis-x/volantis-docs/
-  <a href="https://vercel.com" target="_blank">本网站由vercel提供加速</a><a href="https://github.com" target="_blank">本网站由github提供代码存储</a>
   # analytics using busuanzi
   analytics: >
     <span>本站总访问量为 <span id='busuanzi_value_site_pv'><i class="fa-solid fa-loader fa-spin fa-fw" aria-hidden="true"></i></span> 次</span>
@@ -731,6 +730,7 @@ site_footer:
   copyright: '[Copyright © since 2022 无影博客](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '<br>'
+  ss: '<a href="https://vercel.com" target="_blank">本网站由vercel提供加速</a><a href="https://github.com" target="_blank">本网站由github提供代码存储</a>'
 ############################### Site Footer ############################### > end
 
 ############################### Plugins ############################### > start

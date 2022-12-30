@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-wu-li-or-chu-zhong-wu-li-60-ge-yi-cuo-zhi-shi-dian-hui-zong-xin-chu-er-chu-san-bi-kan.jpg
 isTop: false
+description: 1
 ---
 1.匀速直线运动的物体，速度一定不变，速度一定是一个定值，与路程不成正比，时间不成反比。
 

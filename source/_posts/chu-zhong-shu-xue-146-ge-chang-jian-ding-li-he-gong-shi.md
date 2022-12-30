@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-shu-xue-146-ge-chang-jian-ding-li-he-gong-shi.jpg
 isTop: false
+description: 1
 ---
 01
 基本定理

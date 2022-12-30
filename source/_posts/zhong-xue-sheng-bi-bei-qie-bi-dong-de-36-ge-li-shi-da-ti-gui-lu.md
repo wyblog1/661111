@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/zhong-xue-sheng-bi-bei-qie-bi-dong-de-36-ge-li-shi-da-ti-gui-lu.jpg
 isTop: false
+description: 1
 ---
 <!-- more -->
 **1. 政治经济、思想科技文化**

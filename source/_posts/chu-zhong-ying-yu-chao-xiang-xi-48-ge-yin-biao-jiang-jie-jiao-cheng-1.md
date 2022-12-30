@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-ying-yu-chao-xiang-xi-48-ge-yin-biao-jiang-jie-jiao-cheng-1.jpg
 isTop: false
+description: 1
 ---
 # 一.学习英标的好处
 ## 1.发音准确，说地道的英语

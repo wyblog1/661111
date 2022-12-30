@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/ying-yu-kao-shi-chu-xian-zui-duo-de-530-ge-ying-yu-ci-zu.jpg
 isTop: false
+description: 1
 ---
 1. be good at sth.擅长做某事
 

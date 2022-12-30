@@ -88,7 +88,7 @@ navbar:
           
 site_footer:
   layout: [aplayer, social, source, analytics, copyright]
-  copyright: '[Copyright © Since 2021-2022 无影博客](https://github.com/612901/)'
+  copyright: '[Copyright © Since 2021-2022 无影博客](https://github.com/612901/)'<a href="https://vercel.com" target="_blank">本网站由vercel提供加速</a>''<a href="https://github.com" target="_blank">本网站由github提供代码存储</a>'
   social:
     - img: volantis-static/media/org.volantis/icon/1322024-social-media/029-github.svg
       url: https://github.com/612901/

@@ -7,6 +7,7 @@ hideInList: false
 feature: /post-images/zhong-xue-sheng-bi-bei-qie-bi-dong-de-36-ge-li-shi-da-ti-gui-lu.jpg
 isTop: false
 ---
+<!-- more -->
 **1. 政治经济、思想科技文化**
 *古代中国*
 1、中国古代早期政治制度

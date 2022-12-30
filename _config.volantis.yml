@@ -210,9 +210,11 @@ search:
     indexName: 'hexo'
     hostUrl: 'https://search.szyink.com/'
 cover:
+  enable: false
+  height_scheme: full
+  layout_scheme: dock
   display:
     home: true
-    archive: ture
-    others: ture # can be written in front-matter 'cover: true'
-    post: ture
-  scheme: dock  
+    archive: true
+    others: true
+ 

@@ -7,6 +7,7 @@ hideInList: false
 feature: /post-images/ba-nian-ji-li-shi-shang-ce-wen-da-shi-fu-xi-ti-gang.jpg
 isTop: false
 ---
+<!-- more -->
 第1课 鸦片战争
 
 1、 中国近代史的开端是什么？ 鸦片战争

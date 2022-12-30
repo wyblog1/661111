@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-yu-wen-7-9-nian-ji-shang-ce-wen-xue-chang-shi-hui-zong-zheng-li.jpg
 isTop: false
+description: 1
 ---
 七年级上册文学常识梳理
 

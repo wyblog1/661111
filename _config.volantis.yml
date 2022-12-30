@@ -214,5 +214,5 @@ cover:
     home: true
     archive: ture
     others: ture # can be written in front-matter 'cover: true'
-    _post: ture
+    post: ture
   scheme: dock  

@@ -7,6 +7,7 @@ hideInList: false
 feature: /post-images/chu-zhong-hua-xue-quan-ce-zhi-shi-dian-jing-bian-hui-zong.jpg
 isTop: false
 ---
+<!-- more -->
 一、初中化学常见物质的分类
 
 

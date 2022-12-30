@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/qi-nian-ji-shu-xue-shang-ce-he-xin-kao-dian-jing-bian.jpg
 isTop: false
+description: 1
 ---
 有理数 
 

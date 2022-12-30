@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-ying-yu-zuo-wen-man-fen-bi-bei-de-10-ge-ju-xing.jpg
 isTop: false
+description: 1
 ---
 句型一：分词作状语 
 

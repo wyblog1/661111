@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-shu-xue-han-shu-ji-yi-kou-jue-da-quan.jpg
 isTop: false
+description: 1
 ---
 函数学习口决
 

@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-ying-yu-100-ge-chong-dian-ying-yu-ju-xing.jpg
 isTop: false
+description: 1
 ---
 1.want to do sth 想做某事
 I want to go to school.

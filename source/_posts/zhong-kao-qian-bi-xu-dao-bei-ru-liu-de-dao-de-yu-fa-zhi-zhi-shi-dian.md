@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/zhong-kao-qian-bi-xu-dao-bei-ru-liu-de-dao-de-yu-fa-zhi-zhi-shi-dian.jpg
 isTop: false
+description: 1
 ---
 一. 国策、战略、理念（4个考点）
 

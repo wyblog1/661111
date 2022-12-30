@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-li-shi.jpg
 isTop: false
+description: 1
 ---
 ## 前言
 今天无影就给大家整理了一份初中历史重点知识，特别全，一定要转给孩子让孩子全部掌握！

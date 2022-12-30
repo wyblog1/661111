@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-yu-wen-qi-ba-jiu-nian-ji-shang-ce-gu-shi-ci.png
 isTop: false
+description: 1
 ---
 01
 七年级语文上册古诗词

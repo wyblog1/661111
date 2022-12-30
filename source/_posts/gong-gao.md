@@ -7,7 +7,7 @@ hideInList: false
 feature: /post-images/gong-gao.jpg
 isTop: true
 ---
-<!-- more -->
+<!-- more
 2022年9月21日
 [友链招收,请看招收标准](https://661111.github.io/post/link/)
 2022年9月28日
@@ -16,7 +16,7 @@ isTop: true
 之前github无法上传,现在文章可以上传.(每天只能上传3测)
 2022.10.11
 两条好听歌 
-<!-- more -->
+ -->
  <iframe 
  height=850 
  width=90% 

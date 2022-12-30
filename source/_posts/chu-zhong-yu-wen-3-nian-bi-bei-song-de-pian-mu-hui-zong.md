@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-yu-wen-3-nian-bi-bei-song-de-pian-mu-hui-zong.jpg
 isTop: false
+description: 1
 ---
 【观沧海】（曹操·东汉）
 

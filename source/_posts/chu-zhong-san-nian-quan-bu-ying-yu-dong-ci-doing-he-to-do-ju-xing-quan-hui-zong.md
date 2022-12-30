@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-san-nian-quan-bu-ying-yu-dong-ci-doing-he-to-do-ju-xing-quan-hui-zong.jpg
 isTop: false
+description: 1
 ---
 一、带动词ing形式
 

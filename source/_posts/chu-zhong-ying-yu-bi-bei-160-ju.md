@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-ying-yu-bi-bei-160-ju.jpg
 isTop: false
+description: 1
 ---
 1. It is reported that last Tuesday, a young traffic policeman was knocked down by accident and sent to the nearby hospital. 
 据报道，上周二一名年轻的交警意外地被撞倒，然后送 往了就近的医院。 

@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/zhong-kao-man-fen-zuo-wen-lesslesspei-ban-greatergreater-fan-wen-8-pian.jpg
 isTop: false
+description: 1
 ---
 【满分作文1】
 

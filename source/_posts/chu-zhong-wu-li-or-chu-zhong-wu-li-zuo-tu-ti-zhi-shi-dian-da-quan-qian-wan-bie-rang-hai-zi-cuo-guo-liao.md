@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-wu-li-or-chu-zhong-wu-li-zuo-tu-ti-zhi-shi-dian-da-quan-qian-wan-bie-rang-hai-zi-cuo-guo-liao.jpg
 isTop: false
+description: 1
 ---
 ## 重点公式换算
 ## 一.力学部分

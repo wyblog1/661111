@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/jiu-nian-ji-wu-li-dian-xue-chang-kao-zhi-shi-dian-29-tiao.png
 isTop: false
+description: 1
 ---
 1、电路：把电源、用电器、开关、导线连接起来组成的电流的路径。
 

@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/qi-ba-jiu-nian-ji-shang-ce-yi-cuo-yi-hun-yi-kao-zhi-shi-dian.jpg
 isTop: false
+description: 1
 ---
 七年级历史上册
 

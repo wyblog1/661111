@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-shu-xue-san-jiao-xing-si-bian-xing-yuan-fu-zhu-xian-de-tian-jia-fang-fa.jpg
 isTop: false
+description: 1
 ---
 ## 1.三角形中常见辅助线的添加 
 

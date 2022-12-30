@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-shu-xue-chong-yao-kao-dian-ding-li-gong-shi-su-ji-fa-ze-quan-hui-zong.jpg
 isTop: false
+description: 1
 ---
 1、一元一次方程根的情况
 

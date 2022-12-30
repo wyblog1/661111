@@ -7,6 +7,7 @@ hideInList: false
 feature: /post-images/zhong-kao-ying-yu-man-fen-zuo-wen-ji-qiao.jpg
 isTop: false
 ---
+<!-- more -->
 如何写好中考作文
 
 那么，如何写好中考作文？阅卷老师喜欢什么样的作文呢？

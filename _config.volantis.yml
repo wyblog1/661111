@@ -87,7 +87,7 @@ navbar:
           icon: fa-solid fa-compact-disc   
           
 site_footer:
-  layout: [aplayer, social, source, analytics, bs, copyright]
+  layout: [aplayer, social, source, bs, analytics, copyright]
   bs: <a href="https://vercel.com" target="_blank">本网站由vercel提供加速</a>|<a href="https://github.com" target="_blank">本网站由github提供代码存储</a>
   copyright: '[Copyright © Since 2021-2022 无影博客](https://github.com/612901/)'
   social:

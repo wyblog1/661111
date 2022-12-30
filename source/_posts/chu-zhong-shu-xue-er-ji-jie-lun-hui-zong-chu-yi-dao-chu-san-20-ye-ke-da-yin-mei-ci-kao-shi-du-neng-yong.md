@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-shu-xue-er-ji-jie-lun-hui-zong-chu-yi-dao-chu-san-20-ye-ke-da-yin-mei-ci-kao-shi-du-neng-yong.jpg
 isTop: false
+description: 1
 ---
 <img src = 'https://lateextraneousinversion.661111.repl.co//imgs/2022/08/a472a41dea4758de.png' />
 <img src = 'https://lateextraneousinversion.661111.repl.co//imgs/2022/08/e089714adc57a04a.png' />

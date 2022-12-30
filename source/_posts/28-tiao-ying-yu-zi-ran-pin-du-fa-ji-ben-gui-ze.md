@@ -7,6 +7,7 @@ hideInList: false
 feature: /post-images/28-tiao-ying-yu-zi-ran-pin-du-fa-ji-ben-gui-ze.jpg
 isTop: false
 ---
+<!-- more -->
 *前言*
 英语国家的孩子，记单词不是靠“背”，而是靠“拼读”，这就是所谓的“自然拼读”法。
 自然拼读法是目前国际主流的英语教学法，是增进阅读能力与理解力的教学法，更是以英语为第二语言的英语初学者学习发音规则与拼读技巧的教学方法。

@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-ying-yu-san-nian-bi-bei-dong-ci-duan-yu-240-tiao.jpg
 isTop: false
+description: 1
 ---
 1)be back/in/out 回来/在家/外出
 2)be at home/work 在家/上班

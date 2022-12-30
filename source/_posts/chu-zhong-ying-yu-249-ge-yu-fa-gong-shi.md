@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-ying-yu-249-ge-yu-fa-gong-shi.jpg
 isTop: false
+description: 1
 ---
 1 (see 、hear 、notice 、listen to 、look at (感官动词)+do ing
 4 agree with sb 赞成某人

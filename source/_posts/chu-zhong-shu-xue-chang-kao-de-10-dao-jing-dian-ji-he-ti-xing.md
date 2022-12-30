@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-shu-xue-chang-kao-de-10-dao-jing-dian-ji-he-ti-xing.jpg
 isTop: false
+description: 1
 ---
 ## 一.解决几何最值问题的通常思路
 

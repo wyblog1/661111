@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-shu-xue-ti-gao-kao-shi-cheng-ji-de-fang-fa.jpg
 isTop: false
+description: 1
 ---
 1、主动预习
 

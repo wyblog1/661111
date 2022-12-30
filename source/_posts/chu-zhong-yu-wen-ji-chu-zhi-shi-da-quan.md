@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-yu-wen-ji-chu-zhi-shi-da-quan.jpg
 isTop: false
+description: 1
 ---
 *基础类型*
 二种语言类型：口语、书面语。

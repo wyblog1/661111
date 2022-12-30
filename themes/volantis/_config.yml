@@ -168,18 +168,18 @@ cover:
     others: false # can be written in front-matter 'cover: true'
   background: https://gcore.jsdelivr.net/gh/MHG-LAB/cron@gh-pages/bing/bing.jpg
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
-  logo: https://661111.github.io/media/images/custom-headerLogo.ico # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
+  logo:  # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
   title: '无影博客'
   subtitle: ''
   search: A Wonderful Theme for Hexo # search bar placeholder
   features:
     - name: 首页
       icon: #
-      img: https://api.champhoon.xyz/asset/svg/1f3db.svg
+      img: https://cdn.dearxuan.com/website/custom/svg/blog.svg
       url: /
     - name: 归档
       icon: #
-      img: https://api.champhoon.xyz/asset/svg/1f4d2.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
+      img: https://cdn.dearxuan.com/website/custom/svg/archives.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
       url: /archives/
     - name: 友链
       icon: #

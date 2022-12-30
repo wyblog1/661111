@@ -7,6 +7,7 @@ hideInList: false
 feature: /post-images/chu-zhong-dao-de-yu-fa-zhi-130-ge-shi-zheng-re-ci-da-hui-zong.jpg
 isTop: false
 ---
+<!-- more -->
 1.“一府两院”
 
 “一府”是指人民政府，“两院”是指人民法院、人民检察院。

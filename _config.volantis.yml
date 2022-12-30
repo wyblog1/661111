@@ -212,5 +212,6 @@ search:
 cover:
   display:
     home: true
-    archive: false
-    others: false # can be written in front-matter 'cover: true'
+    archive: ture
+    others: ture # can be written in front-matter 'cover: true'
+  scheme: dock  

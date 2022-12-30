@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/ba-nian-ji-ying-yu-shang-ce-ge-dan-yuan-hua-ti-zuo-wen-fan-wen.jpg
 isTop: false
+description: 1
 ---
 <!-- more -->
 八年级上册

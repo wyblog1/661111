@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/jing-xuan-zuo-wen-su-cai-50-tiao.jpg
 isTop: false
+description: 1
 ---
 一、初中作文开头小技巧，怎样写一篇优秀作文
 

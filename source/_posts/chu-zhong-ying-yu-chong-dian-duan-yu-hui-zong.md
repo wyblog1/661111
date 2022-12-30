@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-ying-yu-chong-dian-duan-yu-hui-zong.jpg
 isTop: false
+description: 1
 ---
 ## 初中英语重点短语汇总—A	
 a few 一些；少数几个

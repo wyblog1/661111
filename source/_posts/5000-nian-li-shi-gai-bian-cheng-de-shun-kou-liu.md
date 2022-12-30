@@ -7,6 +7,7 @@ hideInList: false
 feature: /post-images/5000-nian-li-shi-gai-bian-cheng-de-shun-kou-liu.jpg
 isTop: false
 ---
+<!-- more -->
 ## 一、祖国境内的远古居民
 (一)
 一百七十万年前， 云南“元谋人”出现，

@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-shu-xue-ji-he-da-ti-de-zheng-ming-si-lu-ji-chang-yong-yuan-li-hui-zong.jpg
 isTop: false
+description: 1
 ---
 很多几何证明题的思路往往是填加辅助线，分析已知、求证与图形，探索证明。
 

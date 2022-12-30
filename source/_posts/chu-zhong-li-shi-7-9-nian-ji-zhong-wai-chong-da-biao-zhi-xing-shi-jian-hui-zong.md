@@ -7,6 +7,7 @@ hideInList: false
 feature: /post-images/chu-zhong-li-shi-7-9-nian-ji-zhong-wai-chong-da-biao-zhi-xing-shi-jian-hui-zong.jpg
 isTop: false
 ---
+<!-- more -->
 七年级上册
 
 1.我国是世界上最早种水稻的国家：生活于长江流域的河姆渡原始居民，种植水稻，住干栏式房子。

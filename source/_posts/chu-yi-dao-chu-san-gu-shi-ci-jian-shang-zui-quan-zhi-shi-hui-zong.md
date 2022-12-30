@@ -7,6 +7,7 @@ hideInList: false
 feature: /post-images/chu-yi-dao-chu-san-gu-shi-ci-jian-shang-zui-quan-zhi-shi-hui-zong.jpg
 isTop: false
 ---
+<!-- more -->
 *一.初中语文古诗词常见意象归纳*
 1.酒、饮酒
 

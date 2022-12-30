@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-ying-yu-bi-xu-zhang-wo-de-jin-2000-ge-gu-ding-da-pei.jpg
 isTop: false
+description: 1
 ---
 *前言*
 初中英语中的固定搭配非常多，今天总结的近2000个固定搭配，建议收藏起来慢慢学习。

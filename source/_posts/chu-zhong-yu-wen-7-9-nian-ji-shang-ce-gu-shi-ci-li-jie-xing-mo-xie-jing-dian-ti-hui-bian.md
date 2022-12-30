@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-yu-wen-7-9-nian-ji-shang-ce-gu-shi-ci-li-jie-xing-mo-xie-jing-dian-ti-hui-bian.jpg
 isTop: false
+description: 1
 ---
 （一）《观沧海》（曹操）
 

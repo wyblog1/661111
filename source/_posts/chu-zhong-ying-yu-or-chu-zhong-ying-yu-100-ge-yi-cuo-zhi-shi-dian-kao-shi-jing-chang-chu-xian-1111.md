@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-ying-yu-or-chu-zhong-ying-yu-100-ge-yi-cuo-zhi-shi-dian-kao-shi-jing-chang-chu-xian-1111.jpg
 isTop: false
+description: 1
 ---
 ## 一. 名词
 写作中，同学们常把握不好名词的数、所有格以及一些集合名词的用法。

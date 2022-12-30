@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-ying-yu-wan-xing-tian-kong-chang-kao-de-100-ge-xing-rong-ci-he-fu-ci-888888.jpg
 isTop: false
+description: 1
 ---
 1、immediate adj 立即的，立刻的，马上
 

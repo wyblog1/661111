@@ -7,6 +7,7 @@ hideInList: false
 feature: /post-images/chu-zhong-dao-de-yu-fa-zhi-lesslesshe-xin-kao-dian-greatergreater-da-hui-zong.jpg
 isTop: false
 ---
+<!-- more -->
 ## 【考点一：要点名词识记】
 发展战略
 创新驱动发展战略，科教兴国战略，人才强国战略，可持续发展战略

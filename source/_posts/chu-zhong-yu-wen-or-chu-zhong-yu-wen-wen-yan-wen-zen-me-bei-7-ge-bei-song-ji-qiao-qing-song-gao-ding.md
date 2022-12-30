@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-yu-wen-or-chu-zhong-yu-wen-wen-yan-wen-zen-me-bei-7-ge-bei-song-ji-qiao-qing-song-gao-ding.jpg
 isTop: false
+description: 1
 ---
 ## **利用文中关键字词背诵**
 

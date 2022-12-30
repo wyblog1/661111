@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/kao-shi-jia-fen-bi-bei-de-100-ju-ying-yu-zuo-wen-jin-ju-han-yi-wen-dui-bi.jpg
 isTop: false
+description: 1
 ---
 1. It is important for everyone to learn English well in our rapidly developing world. 
 在这个迅速发展的世界里，对每个人来说，学好英语是非常重要的。 

@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/list.jpg
 isTop: false
+description: 1
 ---
 ##主题与框架
 本站主题为[breek](https://github.com/612901),框架为[gridea](https://gridea.dev/)

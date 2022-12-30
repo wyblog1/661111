@@ -7,6 +7,7 @@ hideInList: false
 feature: /post-images/chu-zhong-dao-de-yu-fa-zhi-quan-liu-ce-zhi-shi-qing-dan.jpg
 isTop: false
 ---
+<!-- more -->
 【第一单元：成长的节拍】
 1.中学时代对我们的成长有什么意义？
 

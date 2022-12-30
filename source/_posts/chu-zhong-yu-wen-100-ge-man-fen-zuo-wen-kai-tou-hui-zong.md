@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-yu-wen-100-ge-man-fen-zuo-wen-kai-tou-hui-zong.jpg
 isTop: false
+description: 1
 ---
 1.沙漠中的荆棘，也有权利向着太阳微笑；被狂风吹散的云，也可以凝聚起化作甘霖的梦；滩边搁浅的船只，也有着扬帆破浪的希望……身处恶境的人们啊，更应该用自己的雄心和意志去锻造自己美好的未来。（《每朵花都有开放的权利》）
 

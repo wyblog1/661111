@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-shu-xue-xuan-ze-ti-he-tian-kong-ti-jie-ti-ji-qiao.jpg
 isTop: false
+description: 1
 ---
 选择题解法大全
 方法一：排除选项法

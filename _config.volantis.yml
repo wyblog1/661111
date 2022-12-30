@@ -128,7 +128,7 @@ site_footer:
       enable: true                        # 是否开启右键模块的消息通知
       notice: true                        # 唤醒原右键菜单的通知   
 sidebar:
-  for_page: [qgroup, category, post, blogger, guide, music, lastupdate, webinfo]
+  for_page: [qgroup, category, post, blogger, guide, music, webinfo, lastupdate]
   for_post: [toc]
   lastupdate:
       class: lastupdate
@@ -176,7 +176,7 @@ sidebar:
       header:
         icon: fa-solid fa-map-signs
         title: 分类导航
-      fixed: flase # 固定宽度
+      fixed: ture # 固定宽度
       rows:
         - name: 友链
           icon: fa-solid fa-link

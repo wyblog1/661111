@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-shu-xue-99-ge-he-xin-kao-dian.jpg
 isTop: false
+description: 1
 ---
 一、数与运算（10个考点）
 

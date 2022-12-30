@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/wt.jpg
 isTop: false
+description: 1
 ---
 1.名词的可数与不可数
 可数名词指表示的人或事物可以用数来计量，它有单数与复数两种形式。不可数名词指所表示的事物不能用数来计量。物质名词与抽象名词一般无法用数目，来统计，都成为不可数名词。

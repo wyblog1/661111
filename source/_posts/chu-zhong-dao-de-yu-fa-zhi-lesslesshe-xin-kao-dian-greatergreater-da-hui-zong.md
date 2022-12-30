@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-dao-de-yu-fa-zhi-lesslesshe-xin-kao-dian-greatergreater-da-hui-zong.jpg
 isTop: false
+description: 1
 ---
 <!-- more -->
 ## 【考点一：要点名词识记】

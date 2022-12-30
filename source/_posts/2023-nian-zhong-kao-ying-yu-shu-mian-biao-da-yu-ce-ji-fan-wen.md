@@ -7,6 +7,7 @@ hideInList: false
 feature: /post-images/2023-nian-zhong-kao-ying-yu-shu-mian-biao-da-yu-ce-ji-fan-wen.jpg
 isTop: false
 ---
+<!-- more -->
 一）
 
 上周你去你市科技馆进行了参观,你对“未来机器人与人类生活”主题展厅的一款家庭医生机器人很感兴趣,你打算在本周英语课的duty report(值日生报告)上向你班同学介绍它。请你根据下面的要点提示写一篇短文做准备。

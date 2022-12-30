@@ -88,7 +88,7 @@ navbar:
           
 site_footer:
   layout: [aplayer, social, source, analytics, copyright]
-  copyright: '[Copyright © Since 2017 Volantis Team](https://github.com/volantis-x/)'
+  copyright: '[Copyright © Since 2021-2022 无影博客](https://github.com/612901/)'
   social:
     - img: volantis-static/media/org.volantis/icon/1322024-social-media/029-github.svg
       url: https://github.com/612901/
@@ -122,7 +122,7 @@ site_footer:
       enable: true                        # 是否开启右键模块的消息通知
       notice: true                        # 唤醒原右键菜单的通知   
 sidebar:
-  for_page: [qgroup, blogger, tags, music, guide, lastupdate, category, post]
+  for_page: [qgroup, blogger, tags, music, guide, lastupdate, category, post, webinfo]
   for_post: [toc]
   lastupdate:
       class: lastupdate

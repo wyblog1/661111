@@ -7,6 +7,7 @@ hideInList: false
 feature: /post-images/chu-zhong-dao-de-yu-fa-zhi-he-xin-zhi-shi-dian-fen-lei.jpg
 isTop: false
 ---
+<!-- more -->
 （一） 精神
 
 

@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-yu-wen-si-wei-dao-tu-zui-quan-hui-zong.jpg
 isTop: false
+description: 1
 ---
 ## 基础字词,值得收藏.
 <img src = 'https://lateextraneousinversion.661111.repl.co//imgs/2022/08/9fa93eff7c4f049a.png' />

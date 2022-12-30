@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-shu-xue.jpg
 isTop: false
+description: 1
 ---
 
 ## 全 等 变 换 ：

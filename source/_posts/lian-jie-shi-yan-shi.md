@@ -6,6 +6,7 @@ published: true
 hideInList: true
 feature: https://www.gd1214b.icu/post-images/lab.png
 isTop: false
+description: 1
 ---
 ***网易云音乐第三方播放器***
 [https://yesplaymusic.15918932901.repl.co/](https://yesplaymusic.15918932901.repl.co/)

@@ -6,6 +6,7 @@ published: true
 hideInList: false
 feature: /post-images/chu-zhong-wu-li-93-ge-bi-kao-zhi-shi-dian.jpg
 isTop: false
+description: 1
 ---
 第一章 声现象
 

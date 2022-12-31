@@ -122,8 +122,8 @@
         line-height: 0
         &.circle
           border-radius: 100%
-          width: 100px
-          height: 100px
+          width: 128px
+          height: 128px
           margin-top: $gap * 2
           margin-bottom: $gap-p
           img
@@ -133,14 +133,14 @@
             left: 50%
             transform: translate(-50%, -50%)
         @media screen and (max-width: $device-tablet)
-          width: 20px
-          height: 20px
-          border-radius: 50%
+          width: 80px
+          height: 80px
+          border-radius: 100%
           border: 2px solid white
           img
             display: block
-            top: 20%
-            left: 20%
+            top: 50%
+            left: 50%
             transform: translate(-50%, -50%)
             position: absolute
       .text
@@ -172,8 +172,8 @@
             display: flex
             justify-content: center
             align-items: center
-            width: 100px
-            height: 100px
+            width: 32px
+            height: 32px
             margin: 4px
             border-radius: 100px
             &:hover
@@ -192,7 +192,6 @@
       color: var(--color-site-inner)
 
 
-
   &.text
     .content
       &,p
@@ -205,7 +204,7 @@
         &:hover
           color: $color-hover
         &:active
-          color: darken($color-hover, 25%)
+          color: darken($color-hover, 105%)
 
 
   &.list

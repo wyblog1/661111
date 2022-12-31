@@ -1282,14 +1282,14 @@ custom_css:
   fontfamily:
     logofont:
       fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
-      name: 'Arial'
-      url: volantis-static/media/fonts/VarelaRound/Arial.ttf # https://gcore.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
+      name: 'Avenir'
+      url: volantis-static/media/fonts/Avenir/Avenir.ttf # https://gcore.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
       weight: normal
       style: normal
     bodyfont:
       fontfamily: 'UbuntuMono, "Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
-      name: 'Helvetica'
-      url: volantis-static/media/fonts/UbuntuMono/Helvetica.ttf # https://gcore.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf
+      name: 'Calibri'
+      url: volantis-static/media/fonts/Calibri/Calibri.ttf # https://gcore.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf
       weight: normal
       style: normal
     codefont:

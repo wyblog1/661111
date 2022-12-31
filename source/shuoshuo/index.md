@@ -7,7 +7,7 @@ sidebar: []
   <script>
         Waline.init({
       el: '#waline',
-      serverURL: 'https://e8pks7.deta.dev/',
+      serverURL: 'waline.wyblog1.tk',
       locale: {
       level0: '炼体',
       level1: '炼气',

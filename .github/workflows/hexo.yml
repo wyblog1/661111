@@ -1,5 +1,6 @@
 name: Hexo SEO Auto Push
-push:
+on:
+  push:
     branches: [ "main" ]
     types: [started]
 on:

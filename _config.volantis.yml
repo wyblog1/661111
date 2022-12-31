@@ -1,3 +1,20 @@
+custom_css:
+  cursor:
+      enable: true
+  fontfamily:
+    logofont:
+      fontfamily: 'MaShanZheng'
+      name: 'MaShanZheng'
+      url: 'https://cdn.sakurasep.top/fonts-cdn/canva/MaShanZheng-Regular.woff2'
+    bodyfont:
+      fontfamily: 'MiSans'
+      name: 'MiSans'
+      url: 'https://cdn.sakurasep.top/fonts-cdn/MiSans/MiSans-Regular.woff'
+    codefont:
+      fontfamily: 'JetBrainsMono'
+      name: 'JetBrainsMono'
+      url: 'https://cdn.sakurasep.top/fonts-cdn/jetbrains/JetBrainsMono-Bold.woff2'
+
 debug: ture
 content_visibility: true
 navbar:

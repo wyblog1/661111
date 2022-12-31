@@ -1282,18 +1282,18 @@ custom_css:
   fontfamily:
     logofont:
       fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial, SentyTEA'
-      name: 'SentyTEA'
-      url: https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/SentyTEA.woff2 # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
+      name: 'SentySnowMountain'
+      url: https://npm.elemecdn.com/qycdn/fonts/SentySnowMountain.woff2 # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
       weight: normal
       style: normal
     bodyfont:
       fontfamily: 'UbuntuMono, "Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial, SentyTEA'
-      name: 'SentyTEA'
-      url: https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/SentyTEA.woff2 # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf
+      name: 'SentySnowMountain'
+      url: https://npm.elemecdn.com/qycdn/fonts/SentySnowMountain.woff2 # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf
       weight: normal
       style: normal
     codefont:
-      fontfamily: 'SentyTEA, Menlo, UbuntuMono, Monaco'
+      fontfamily: 'SentySnowMountain, Menlo, UbuntuMono, Monaco'
       # name: 'Monaco'
       # url: volantis-static/media/fonts/Monaco/Monaco.ttf # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/Monaco/Monaco.ttf
       # weight: normal

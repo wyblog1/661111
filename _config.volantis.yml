@@ -147,7 +147,7 @@ site_footer:
       enable: true                        # 是否开启右键模块的消息通知
       notice: true                        # 唤醒原右键菜单的通知   
 sidebar:
-  for_page: [qgroup, category, post, blogger, mrfw, guide, music, webinfo, lastupdate]
+  for_page: [qgroup, category, post, blogger, qrcode, guide, music, webinfo, lastupdate]
   for_post: [toc]
   lastupdate:
       class: lastupdate
@@ -155,6 +155,12 @@ sidebar:
       header:
         icon: fa-light fa-clock WISTERIA
         title: 最近更新
+  donate:
+  class: qrcode
+  display: [desktop, mobile] # [desktop, mobile]
+  height: 70px  # Automatic height if not set
+  images:
+    - https://cdn.jsdelivr.net/gh/612901/661111@main/R8%5D%409CBKKDK_T59HJ(NH(S2.png
   blogger:
       class: blogger
       display: [desktop] # [desktop, mobile]

@@ -7,13 +7,13 @@ custom_css:
       name: 'SentySnowMountain'
       url: 'https://npm.elemecdn.com/qycdn/fonts/SentySnowMountain.woff2'
     bodyfont:
-      fontfamily: 'fzlty'
-      name: 'fzlty'
-      url: 'https://npm.elemecdn.com/qycdn/fonts/fzlty.woff2'
+      fontfamily: 'MiSans'
+      name: 'MiSans'
+      url: 'https://cdn.sakurasep.top/fonts-cdn/MiSans/MiSans-Regular.woff'
     codefont:
-      fontfamily: 'fzlty'
-      name: 'fzlty'
-      url: 'https://npm.elemecdn.com/qycdn/fonts/fzlty.woff2'
+      fontfamily: 'JetBrainsMono'
+      name: 'JetBrainsMono'
+      url: 'https://cdn.sakurasep.top/fonts-cdn/jetbrains/JetBrainsMono-Bold.woff2'
 
 debug: ture
 content_visibility: true

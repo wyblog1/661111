@@ -117,8 +117,14 @@ site_footer:
   social:
     - img: volantis-static/media/org.volantis/icon/1322024-social-media/029-github.svg
       url: https://github.com/612901/
-    - img: /media/org.volantis/icon/1322024-social-media/006-youtube.svg  
+    - img: volantis-static/media/org.volantis/icon/1322024-social-media/006-youtube.svg  
       url: https://www.kuaishou.com/profile/3xh4ut4ekexbr7a
+    - img: https://661111.github.io/media/images/custom-headerLogo.ico 
+      url: /  
+    - img: volantis-static/media/org.volantis/icon/1322024-social-media//017-picasa.svg
+      url: https://7bu.top/login
+    - img: volantis-static/media/org.volantis/icon/1322024-social-media/011-team-viewer.svg 
+      url: https://gitee.com/wuyingblog/
       
   message:
     enable: true

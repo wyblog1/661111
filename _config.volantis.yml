@@ -130,7 +130,7 @@ site_footer:
       enable: true                        # 是否开启右键模块的消息通知
       notice: true                        # 唤醒原右键菜单的通知   
 sidebar:
-  for_page: [qgroup, category, post, blogger, qrcode, guide, music, webinfo, lastupdate]
+  for_page: [qgroup, category, post, blogger, text, guide, music, webinfo, lastupdate]
   for_post: [toc]
   lastupdate:
       class: lastupdate
@@ -138,12 +138,14 @@ sidebar:
       header:
         icon: fa-light fa-clock WISTERIA
         title: 最近更新
-  donate:
-  class: qrcode
-  display: [desktop, mobile] # [desktop, mobile]
-  height: 64px  # Automatic height if not set
-  images:
-    - https://api.azpay.cn/814/2.php
+  repos:
+  class: text
+  display: [desktop] # [desktop, mobile]
+  header:
+    icon: fab fa-github
+    title: 每日访问
+  content:
+    - '[<img src="https://api.azpay.cn/814/2.php" height="100px">](https://api.azpay.cn/814/2.php)'
   blogger:
       class: blogger
       display: [desktop] # [desktop, mobile]

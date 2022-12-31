@@ -5,74 +5,61 @@
       layout = config.theme_config.footer.layout;
     }
     let theme_version = theme.info.theme_version
-    // 未发布的 alpha 版本
-    if (theme_version.indexOf("alpha")!=-1) {
-      theme_version = "dev"
-    }
+    // // 未发布的 alpha 版本
+    // if (theme_version.indexOf("alpha")!=-1) {
+    //   theme_version = "dev"
+    // }
+    // // 从 5.7.2 以后的版本以 v开头（release-please的奇怪设定）
+    // else if (theme_version.indexOf("beta")==-1||theme_version.indexOf("rc")==-1) {
+    //   theme_version = "v" + theme_version
+    // }
   %>
-  <footer class="site-footer"  itemscope itemtype="http://schema.org/WPFooter">
-    <div id="footer_icon">
-      <div class="icon_left">
-        <a class="icon_link" href="https://travellings.cn" title="开往-随机跳转到另一个加入开往的网页"><i class="fa-solid fa-subway fa-fw"></i></a>
-        <a class="icon_link" href="https://github.com/qystudio0" title="我的Github主页"><i class="fa-brands fa-github fa-fw"></i></a>
-        <a class="icon_link" href="/about" title="关于本站"><i class="fa-solid fa-info-circle fa-fw"></i></a>
-      </div>
-      <div class="icon_left">
-        <a class="icon_link" href="https://qystu.cc/atom.xml" title="网站订阅"><i class="fa-solid fa-compass fa-fw"></i></a>
-        <a class="icon_link" href="https://qm.qq.com/cgi-bin/qm/qr?k=TjbIk84fDNYu4UAzA4xDzRk53hkKABh_&authKey=St%2F%2B%2FHaVkOvMkzZAqWXC5jfovqmrVqIStz5FL9o2oOCxZYAVth5ywkwnShxmf8X%2B&noverify=0&group_code=660414614" title="联系QQ"><i class="fa-brands fa-qq fa-fw"></i></a>
-        <a class="icon_link" href="mailto:admin@qystu.cc" title="联系邮箱"><i class="fa-solid fa-envelope fa-fw"></i></a>
-      </div>
-    </div>
-    <div id="crl-footer">
-      <div class="footer-group">
-          <h3 class="footer-title">直达</h3>
-          <div class="footer-links">
-              <a class="footer-item" href="/talk">我的说说</a>
-              <a class="footer-item" href="/messages">网站留言</a>
-              <a class="footer-item" href="/archives">文章归档</a>
-              <a class="footer-item" href="about/#网站数据">站点统计</a>
-              <a class="footer-item" href=""></a>
-          </div>
-      </div>
-      <div class="footer-group">
-          <h3 class="footer-title">分类</h3>
-          <div class="footer-links">
-            <a class="footer-item" href="/tags/博客/">博客</a>
-            <a class="footer-item" href="/tags/系统/">系统</a>
-            <a class="footer-item" href="/tags/前端/">前端</a>
-            <a class="footer-item" href="/tags/图床/">图床</a>
-          </div>
-      </div>
-      <div class="footer-group">
-          <h3 class="footer-title">其他</h3>
-          <div class="footer-links">
-            <a class="footer-item" href="/privacy">隐私协议</a>
-            <a class="footer-item" href="https://qystu.cc/sitemap.xml">网站地图</a>
-            <a class="footer-item" href="https://qystu.cc/atom.xml">我的订阅</a>
-            <a class="footer-item" href="/join">加入我们</a>
-          </div>
-      </div>
-      <div class="footer-group" id="friend-links-in-footer">
-        <h3 class="footer-title">友链</h3>
-        <div class="footer-links">
-          <a class="footer-item" href="">随机加载中...</a>
-          <a class="footer-item" href="">随机加载中...</a>
-          <a class="footer-item" href="">随机加载中...</a>
-          <a class="footer-item" href="/links">查看更多</a>
+  <footer class="footer clearfix"  itemscope itemtype="http://schema.org/WPFooter">
+    <br><br>
+    <% layout.forEach(function(item){ %>
+      <% if (item == 'social') { %>
+        <br>
+        <div class="social-wrapper" itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <% getList(theme.site_footer.social).forEach(function(value){ %>
+            <% if (value.url && (value.icon || value.img || value.avatar)) { %>
+              <a href="<%= url_for(value.url) %>"
+                class="social <%- value.icon %> flat-btn"
+                target="_blank"
+                rel="external nofollow noopener noreferrer" itemprop="url">
+                <% if (value.img) { %>
+                  <img src="<%- value.img %>"/>
+                <% } else if (value.avatar) { %>
+                  <img src="<%- value.avatar %>" style="border-radius:120px"/>
+                <% } %>
+              </a>
+            <% } %>
+          <% }) %>
         </div>
-      </div>
-    </div>
-    <div id="footer-bottom">
-      <div class="footer-bottom-links">
-          <div class="footer-bottom-left">
-              <div id="footer-bottom-tips">©2020 - 2022 By QY Studio</div>
-          </div>
-          <div class="footer-bottom-right">
-              <a class="footer-bottom-link">|</a><a class="footer-bottom-link" href="https://vlts.cc/" title="主题">Volantis</a>
-              <a class="footer-bottom-link">|</a><a class="footer-bottom-link" href="https://beian.miit.gov.cn/" title="备案号">沪ICP备2021023713号-16</a>
-          </div>
-      </div>
-    </div>
+      <% } else if (item == 'aplayer') { %>
+        <div class="aplayer-container">
+          <%- partial('../_plugins/aplayer/layout', {post: null, where: 'footer'}) %>
+        </div>
+      <% } else if (item == 'license') { %>
+        <div><%- markdown(__('footer.license')) %></div>
+      <% } else if (item == 'info') { %>
+        <%- __('footer.use') %>
+        <a href="https://github.com/volantis-x/hexo-theme-volantis/#<%- theme_version %>" target="_blank" class="codename">Volantis</a>
+        <%- __('footer.theme') %><% if (theme.plugins.busuanzi.enable) { %><%- __('symbol.comma') %><%- __('footer.total_views') %>
+          <span id="busuanzi_value_site_pv"><i class="fa-solid fa-loader fa-spin fa-fw" aria-hidden="true"></i></span>
+          <%- __('footer.times') %>
+        <% } %>
+      <% } else if (item == 'source') { %>
+        <%- markdown(__('footer.site_source', '[Volantis](https://github.com/volantis-x/hexo-theme-volantis/#'+theme_version+')', 'GitHub', 'https://github.com/volantis-x/volantis-docs')) %>
+      <% } else if (item == 'copyright') { %>
+        <div class='copyright'>
+        <%- markdown(theme.site_footer.copyright) %>
+        </div>
+      <% } else { %>
+        <% if (item in theme.site_footer) { %>
+          <div><%- markdown(theme.site_footer[item]) %></div>
+        <% } %>
+      <% } %>
+    <% }) %>
     <!-- Custom Files footer begin-->
     <%- volantis_inject('footer') %>
     <!-- Custom Files footer end-->

@@ -1281,9 +1281,9 @@ custom_css:
     footnote: .78125rem
   fontfamily:
     logofont:
-      fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
-      name: 'Varela Round'
-      url: volantis-static/media/fonts/VarelaRound/VarelaRound-Regular.ttf # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
+      fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial, SentyTEA'
+      name: 'SentyTEA'
+      url: https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/SentyTEA.woff2 # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
       weight: normal
       style: normal
     bodyfont:

@@ -1282,14 +1282,14 @@ custom_css:
   fontfamily:
     logofont:
       fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
-      name: 'Avenir'
-      url: volantis-static/media/fonts/Avenir/Avenir.ttc # https://gcore.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
+      name: 'PingFang SC'
+      url: https://static.codemao.cn/coco/player/unstable/r1oA8Jiti.font/ttf?hash=lqxAHHQkc-oqaE-WDBgunFyGVW-y # https://gcore.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
       weight: normal
       style: normal
     bodyfont:
       fontfamily: 'UbuntuMono, "Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
-      name: 'Calibri'
-      url: volantis-static/media/fonts/Calibri/Calibri.ttf # https://gcore.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf
+      name: 'PingFang SC'
+      url: https://static.codemao.cn/coco/player/unstable/r1oA8Jiti.font/ttf?hash=lqxAHHQkc-oqaE-WDBgunFyGVW-y # https://gcore.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf
       weight: normal
       style: normal
     codefont:

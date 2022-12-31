@@ -147,7 +147,7 @@ site_footer:
       enable: true                        # 是否开启右键模块的消息通知
       notice: true                        # 唤醒原右键菜单的通知   
 sidebar:
-  for_page: [qgroup, category, post, blogger, qrcode, guide, music, webinfo, lastupdate]
+  for_page: [qgroup, category, post, blogger, text, qrcode, guide, music, webinfo, lastupdate]
   for_post: [toc]
   lastupdate:
       class: lastupdate
@@ -188,7 +188,7 @@ sidebar:
       display: [desktop, mobile] # [desktop, mobile]
       sticky: true
       header:
-        icon: fa-solid fa-plus
+        icon: fa-light fa-ghost PETERRIVE faa-vertical fa-fw
         title: 公告
       content:
         - '每日必备访问'

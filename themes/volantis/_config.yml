@@ -1283,13 +1283,13 @@ custom_css:
     logofont:
       fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial, SentyTEA'
       name: 'SentySnowMountain'
-      url: https://npm.elemecdn.com/qycdn/fonts/SentySnowMountain.woff2 # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
+      url: https://static.colsrch.cn/storage/font/Sxls.ttf # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
       weight: normal
       style: normal
     bodyfont:
       fontfamily: 'UbuntuMono, "Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial, SentyTEA'
       name: 'SentySnowMountain'
-      url: https://npm.elemecdn.com/qycdn/fonts/SentySnowMountain.woff2 # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf
+      url: https://static.colsrch.cn/storage/font/Sxls.ttf # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf
       weight: normal
       style: normal
     codefont:

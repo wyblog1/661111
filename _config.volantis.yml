@@ -117,7 +117,7 @@ site_footer:
   social:
     - img: volantis-static/media/org.volantis/icon/1322024-social-media/029-github.svg
       url: https://github.com/612901/
-    - img: https://unpkg.com/browse/volantis-static@0.0.1660614606622/media/org.volantis/icon/1322024-social-media/006-youtube.svg  
+    - img: /media/org.volantis/icon/1322024-social-media/006-youtube.svg  
       url: https://www.kuaishou.com/profile/3xh4ut4ekexbr7a
       
   message:

@@ -75,7 +75,7 @@
       a
         color: var(--color-meta)
         padding: 0 $gap
-        padding-left: $gap * 0.5 + 4px
+        padding-left: $gap * 0.5 + 10px
         line-height: 2
         display: flex
         justify-content: space-between
@@ -122,15 +122,15 @@
         line-height: 0
         &.circle
           border-radius: 100%
-          width: 128px
-          height: 128px
+          width: 200px
+          height: 200px
           margin-top: $gap * 2
           margin-bottom: $gap-p
           img
             display: block
             position: absolute
-            top: 50%
-            left: 50%
+            top: 100%
+            left: 100%
             transform: translate(-50%, -50%)
         @media screen and (max-width: $device-tablet)
           width: 80px
@@ -139,8 +139,8 @@
           border: 2px solid white
           img
             display: block
-            top: 50%
-            left: 50%
+            top: 100%
+            left: 100%
             transform: translate(-50%, -50%)
             position: absolute
       .text
@@ -172,8 +172,8 @@
             display: flex
             justify-content: center
             align-items: center
-            width: 32px
-            height: 32px
+            width: 100px
+            height: 100px
             margin: 4px
             border-radius: 100px
             &:hover
@@ -353,7 +353,7 @@
     justify-content: space-between
     font-size: 0.8rem
   .item-title
-    width: 100%  // 设定宽度
+    width: 300%  // 设定宽度
     display: inline-block  // 将 span 当作块级元素
     white-space: nowrap  // 不换行
     overflow: hidden  // 超出宽度部分隐藏

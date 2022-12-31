@@ -3,13 +3,17 @@ custom_css:
       enable: true
   fontfamily:
     logofont:
-      fontfamily: 'BrilliantSignature'
-      name: 'BrilliantSignature'
-      url: 'https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/BrilliantSignature.woff2'
+      fontfamily: 'SentyGoldenBell'
+      name: 'SentyGoldenBell'
+      url: 'https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/SentyGoldenBell.woff2'
     bodyfont:
-      fontfamily: 'fzlty'
-      name: 'fzlty'
-      url: 'https://npm.elemecdn.com/qycdn/fonts/fzlty.woff2'
+      fontfamily: 'SentyGoldenBell'
+      name: 'SentyGoldenBell'
+      url: 'https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/SentyGoldenBell.woff2'
+    codefont:
+      fontfamily: 'JetBrainsMono'
+      name: 'JetBrainsMono'
+      url: 'https://cdn.sakurasep.top/fonts-cdn/jetbrains/JetBrainsMono-Bold.woff2'  
 
 debug: ture
 content_visibility: true

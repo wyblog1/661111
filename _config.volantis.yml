@@ -3,17 +3,17 @@ custom_css:
       enable: true
   fontfamily:
     logofont:
-      fontfamily: 'MaShanZheng'
-      name: 'MaShanZheng'
-      url: 'https://cdn.sakurasep.top/fonts-cdn/canva/MaShanZheng-Regular.woff2'
+      fontfamily: 'SentySnowMountain'
+      name: 'SentySnowMountain'
+      url: 'https://npm.elemecdn.com/qycdn/fonts/SentySnowMountain.woff2'
     bodyfont:
-      fontfamily: 'MiSans'
-      name: 'MiSans'
-      url: 'https://cdn.sakurasep.top/fonts-cdn/MiSans/MiSans-Regular.woff'
+      fontfamily: 'fzlty'
+      name: 'fzlty'
+      url: 'https://npm.elemecdn.com/qycdn/fonts/fzlty.woff2'
     codefont:
-      fontfamily: 'JetBrainsMono'
-      name: 'JetBrainsMono'
-      url: 'https://cdn.sakurasep.top/fonts-cdn/jetbrains/JetBrainsMono-Bold.woff2'
+      fontfamily: 'fzlty'
+      name: 'fzlty'
+      url: 'https://npm.elemecdn.com/qycdn/fonts/fzlty.woff2'
 
 debug: ture
 content_visibility: true

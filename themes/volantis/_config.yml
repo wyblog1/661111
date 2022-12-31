@@ -609,10 +609,9 @@ sidebar:
     qrcode:
       class: qrcode
       display: [desktop, mobile] # [desktop, mobile]
-      height: 64px  # Automatic height if not set
+      height: 70px  # Automatic height if not set
       images:
-        - volantis-static/media/org.volantis/blog/qrcode/github@volantis.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/qrcode/github@volantis.png
-        - volantis-static/media/org.volantis/blog/qrcode/github@volantis.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/qrcode/github@volantis.png
+        - https://cdn.jsdelivr.net/gh/612901/661111@main/R8%5D%409CBKKDK_T59HJ(NH(S2.png
     # ---------------------------------------
     # webinfo widget
     webinfo:

@@ -3,17 +3,17 @@ custom_css:
       enable: true
   fontfamily:
     logofont:
-      fontfamily: 'LiuJianMaoCao'
-      name: 'LiuJianMaoCao'
-      url: 'https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/LiuJianMaoCao.woff2'
+      fontfamily: 'SentySnowMountain'
+      name: 'SentySnowMountain'
+      url: 'https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/SentySnowMountain.woff2'
     bodyfont:
       fontfamily: 'SentyGoldenBell'
       name: 'SentyGoldenBell'
       url: 'https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/SentyGoldenBell.woff2'
     codefont:
-      fontfamily: 'JetBrainsMono'
-      name: 'JetBrainsMono'
-      url: 'https://cdn.sakurasep.top/fonts-cdn/jetbrains/JetBrainsMono-Bold.woff2'  
+      fontfamily: 'SentyTEA'
+      name: 'SentyTEA'
+      url: 'https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/SentyTEA.woff2'  
 
 debug: ture
 content_visibility: true

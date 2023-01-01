@@ -195,7 +195,7 @@ sidebar:
       display: [desktop, mobile] # [desktop, mobile]
       sticky: true
       header:
-        icon: iconfont icon-tips fa-fw
+        icon: fa-leaf
         title: 公告
       content:
         - '新年新气象,博客这几天会对网站的一些功能进行更新,到时,网站会以全新的形象展现给大家.'
@@ -235,7 +235,7 @@ sidebar:
           icon: fa-solid fa-subway
           url: https://travellings.now.sh/
         - name: 新冠疫情图
-          icon: iconfont icon-xgyq fa-fw
+          icon: fa-bar-chart
           url: /xg/
 search:
   enable: true

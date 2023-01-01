@@ -170,7 +170,8 @@ cover:
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
   logo:  # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
   title: '无影博客'
-  subtitle: '一个无名小卒'
+  subtitle: ''
+  jinrishici: true
   search: A Wonderful Theme for Hexo # search bar placeholder
   features:
     - name: 首页

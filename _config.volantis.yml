@@ -235,7 +235,7 @@ sidebar:
           icon: fa-solid fa-subway
           url: https://travellings.now.sh/
         - name: 新冠疫情图
-          icon: menuitem flat-box faa-parent animated-hover
+          icon: fas fa-newspaper
           url: /xg/
 search:
   enable: true

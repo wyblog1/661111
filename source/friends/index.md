@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 友情链接
+title: 心怀感恩，砥砺前行
 sidebar: []
 ---
 

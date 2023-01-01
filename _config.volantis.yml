@@ -195,12 +195,12 @@ sidebar:
       display: [desktop, mobile] # [desktop, mobile]
       sticky: true
       header:
-        icon: fa-light fa-ghost PETERRIVE faa-vertical fa-fw
+        icon: iconfont icon-tips fa-fw
         title: 公告
       content:
+        - '新年新气象,博客这几天会对网站的一些功能进行更新,到时,网站会以全新的形象展现给大家.'
         - '网站域名已更换新域名,新地址: [https://blog.wyblog1.tk](https://blog.wyblog1.tk),另外,本博客计划将会在2023.1.1开启右键自定义菜单.会开发出一些符合自己的美观'
-        - '博客已经开放右键,修改了一些UI.'
-        - '本站默认替换了右键菜单，可使用「Ctrl + 右键」唤醒原菜单'
+        - '本站默认替换了右键菜单，可使用「Ctrl + 右键」唤醒原菜单博客已经开放右键,修改了一些UI.'
     # 文档导航
     guide:
       class: grid
@@ -219,9 +219,6 @@ sidebar:
         - name: 归档
           icon: fa-solid fa-archive
           url: /archives/
-        - name: 个人主页
-          icon: fas fa-info-circle fa-fw
-          url: https://wyblog1.tk 
         - name: 音乐盒
           icon: fa-solid fa-compact-disc 
           url: https://api.wyblog.repl.co
@@ -237,6 +234,9 @@ sidebar:
         - name: 开往
           icon: fa-solid fa-subway
           url: https://travellings.now.sh/
+        - name: 新冠疫情图
+          icon: iconfont icon-xgyq fa-fw
+          url: /xg/
 search:
   enable: true
   algolia:

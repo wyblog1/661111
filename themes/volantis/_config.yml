@@ -1252,7 +1252,7 @@ custom_css:
       language: true # show language of codeblock
       grayscale: false # Enable grayscale effect
     text_align: # left, right, justify, center
-      h1: left
+      h1: center
       h2: left
       h3: left
       h4: left

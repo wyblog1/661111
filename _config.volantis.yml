@@ -204,6 +204,39 @@ sidebar:
         - '本站默认替换了右键菜单，可使用「Ctrl + 右键」唤醒原菜单博客已经开放右键,修改了一些UI.'
         - '本站主只是一个萌新,部分配置是博主去主题官方群询问得到的'
     # 文档导航
+    webinfo:
+      class: webinfo
+      display: [desktop]
+      header:
+        icon: fa-solid fa-award
+        title: 站点信息
+      type:
+        article:
+          enable: true
+          text: '文章数目：'
+          unit: '篇'
+        runtime:
+          enable: ture
+          data: '2021/09/01'    # 填写建站日期
+          text: '已运行时间：'
+          unit: '天'
+        wordcount:
+          enable: false
+          text: '本站总字数：'   # 需要启用 wordcount
+          unit: '字'
+        visitcounter:
+          enable: true
+          siteuv:
+            text: '本站访客数：'
+            unit: '人'
+          sitepv:
+            text: '本站总访问量：'
+            unit: '次'
+        lastupd:
+          enable: true
+          friendlyShow: true    # 更友好的时间显示
+          text: '最后活动时间：'
+          unit: '日'
     guide:
       class: grid
       display: [desktop, mobile] # [desktop, mobile]
@@ -239,6 +272,7 @@ sidebar:
         - name: 新冠疫情图
           icon: fas fa-newspaper
           url: /xg/
+          
 search:
   enable: true
   algolia:

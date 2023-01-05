@@ -190,7 +190,7 @@ sidebar:
     music:
       class: music
       display: [desktop, mobile] # [desktop, mobile]
-      pjaxReload: ture   
+      pjaxReload: flase  
     post:
       class: text
       display: [desktop, mobile] # [desktop, mobile]

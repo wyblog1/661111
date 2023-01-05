@@ -880,9 +880,9 @@ plugins:
         cover: '/music/Avem.jpg'
     # ============= local end ================
     # Optional
-    fixed: false      # enable fixed mode
+    fixed: falsh      # enable fixed mode
     theme: '#1BCDFC'  # main color
-    autoplay: ture   # audio autoplay
+    autoplay: audio   # audio autoplay
     order: list       # player play order, values: 'list', 'random'
     loop: all         # player loop play, values: 'all', 'one', 'none'
     volume: 0.7       # default volume, notice that player will remember user setting, default volume will not work after user set volume themselves

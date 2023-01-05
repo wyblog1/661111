@@ -831,27 +831,8 @@ plugins:
     duration: 10000       # Duration (ms)
     fade: 1500            # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-      - volantis-static/media/wallpaper/minimalist/2020/001.webp
-      - volantis-static/media/wallpaper/minimalist/2020/002.webp
-      - volantis-static/media/wallpaper/minimalist/2020/003.webp
-      - volantis-static/media/wallpaper/minimalist/2020/004.webp
       - volantis-static/media/wallpaper/minimalist/2020/005.webp
-      - volantis-static/media/wallpaper/minimalist/2020/006.webp
-      - volantis-static/media/wallpaper/minimalist/2020/012.webp
-      - volantis-static/media/wallpaper/minimalist/2020/016.webp
-      - volantis-static/media/wallpaper/minimalist/2020/019.webp
-      - volantis-static/media/wallpaper/minimalist/2020/025.webp
-      - volantis-static/media/wallpaper/minimalist/2020/033.webp
-      - volantis-static/media/wallpaper/minimalist/2020/034.webp
-      - volantis-static/media/wallpaper/minimalist/2020/035.webp
-      - volantis-static/media/wallpaper/minimalist/2020/038.webp
-      - volantis-static/media/wallpaper/minimalist/2020/039.webp
-      - volantis-static/media/wallpaper/minimalist/2020/042.webp
-      - volantis-static/media/wallpaper/minimalist/2020/046.webp
-      - volantis-static/media/wallpaper/minimalist/2020/051.webp
-      - volantis-static/media/wallpaper/minimalist/2020/052.webp
-      - volantis-static/media/wallpaper/minimalist/2020/054.webp
-      - volantis-static/media/wallpaper/minimalist/2020/056.webp
+      - volantis-static/media/wallpaper/minimalist/2020/009.webp
 
   # APlayer is only available in mainland China.
   # https://aplayer.js.org/#/zh-Hans/
@@ -882,10 +863,10 @@ plugins:
     # Optional
     fixed: falsh      # enable fixed mode
     theme: '#1BCDFC'  # main color
-    autoplay: audio   # audio autoplay
+    autoplay: falsh   # audio autoplay
     order: list       # player play order, values: 'list', 'random'
     loop: all         # player loop play, values: 'all', 'one', 'none'
-    volume: 0.7       # default volume, notice that player will remember user setting, default volume will not work after user set volume themselves
+    volume: 1.0       # default volume, notice that player will remember user setting, default volume will not work after user set volume themselves
     list_max_height: 320px # list max height
     list_folded: true
     autoHide: true    # hide automaticaly

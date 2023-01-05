@@ -206,7 +206,7 @@ sidebar:
     # 文档导航
     webinfo:
       class: webinfo
-      display: [desktop]
+      display: [desktop, mobile]
       header:
         icon: fa-solid fa-award
         title: 站点信息

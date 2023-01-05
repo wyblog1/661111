@@ -831,7 +831,7 @@ plugins:
     duration: 10000       # Duration (ms)
     fade: 1500            # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-      - https://cdn.jsdelivr.net/gh/612901/661111@main/4K/6b6dbf33b2c8c5f2ee3d25430808075.jpgvolantis-static/media/wallpaper/minimalist/2020/005.webp
+      - https://cdn.jsdelivr.net/gh/612901/661111@main/4K/6b6dbf33b2c8c5f2ee3d25430808075.jpg
 
   # APlayer is only available in mainland China.
   # https://aplayer.js.org/#/zh-Hans/

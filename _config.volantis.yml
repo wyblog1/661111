@@ -155,7 +155,7 @@ site_footer:
       notice: true                        # 唤醒原右键菜单的通知   
 sidebar:
   position: left
-  for_page: [qgroup, category, post, blogger, text, qrcode, guide, music,webinfo]
+  for_page: [qgroup, category, post, blogger, text, qrcode, guide, webinfo]
   for_post: [toc]
   lastupdate:
       class: lastupdate
@@ -187,10 +187,6 @@ sidebar:
       list_number: true
       min_depth: 2
       max_depth: 5
-    music:
-      class: music
-      display: [desktop, mobile] # [desktop, mobile]
-      pjaxReload: flase  
     post:
       class: text
       display: [desktop, mobile] # [desktop, mobile]

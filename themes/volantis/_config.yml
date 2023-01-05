@@ -861,7 +861,7 @@ plugins:
         cover: '/music/Avem.jpg'
     # ============= local end ================
     # Optional
-    fixed: falsh      # enable fixed mode
+    fixed: false      # enable fixed mode
     theme: '#1BCDFC'  # main color
     autoplay: falsh   # audio autoplay
     order: list       # player play order, values: 'list', 'random'

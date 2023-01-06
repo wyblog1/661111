@@ -3,9 +3,9 @@ custom_css:
       enable: true
   fontfamily:
     logofont:
-      fontfamily: 'SentySnowMountain'
-      name: 'SentySnowMountain'
-      url: 'https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/SentySnowMountain.woff2'
+      fontfamily: 'MaShanZheng'
+      name: 'MaShanZheng'
+      url: 'https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/MaShanZheng.woff2'
     bodyfont:
       fontfamily: 'SentyGoldenBell'
       name: 'SentyGoldenBell'

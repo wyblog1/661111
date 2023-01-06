@@ -144,6 +144,8 @@ site_footer:
     messageColor: 'var(--color-text)'    # 消息颜色
     backgroundColor: 'var(--color-card)' # 默认背景色
     zindex: 2147483647                   # 层级
+    darkmode:
+      enable: true
     copyright:                           # 是否在复制时弹出版权提示，影响范围：ctrl+c、代码块复制按钮、右键复制选项
       enable: true
       title: '知识共享许可协议'

@@ -108,7 +108,7 @@ navbar:
           icon: fa-solid fa-compact-disc   
           
 site_footer:
-  layout: [aplayer, social, bs, bq, wy, mz]
+  layout: [aplayer, social, bs, bq, wy, mz, analytics]
   bq: 博客内容遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank">署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 协议</a>
   bs: 本网站由<a href="https://vercel.com" target="_blank">vercel</a>提供加速|本网站由<a href="https://github.com" target="_blank">github</a>提供代码存储|本网站由<a href="https://hexo.io/zh-cn/" target="_blank">hexo</a>提供博客框架|本网站以<a href="https://github.com/volantis-x/hexo-theme-volantis/" target="_blank">volantis</a>为主题
   wy: Copyright © Since 2021-2022 无影博客 All Rights Reserved
@@ -197,7 +197,6 @@ sidebar:
       content:
         - 'wyblog1.1版本'
         - '1.将侧边栏弄到左边 2.将原图片加载替换成windows4K图片'
-        - '等一会,音乐会自动播放'
         - '新年新气象,博客这几天会对网站的一些功能进行更新,到时,网站会以全新的形象展现给大家.'
         - '网站域名已更换新域名,新地址: [https://blog.wyblog1.tk](https://blog.wyblog1.tk),另外,本博客计划将会在2023.1.1开启右键自定义菜单.会开发出一些符合自己的美观'
         - '本站默认替换了右键菜单，可使用「Ctrl + 右键」唤醒原菜单博客已经开放右键,修改了一些UI.'

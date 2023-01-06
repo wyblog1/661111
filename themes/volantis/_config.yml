@@ -831,8 +831,8 @@ plugins:
     duration: 10000       # Duration (ms)
     fade: 1500            # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-      - https://cn-beijing-data.aliyundrive.net/5fb75ed11e3c54a0175e4332b5a63fb8ec025c21%2F5fb75ed187763b29bb9941389d856d48aaedc56e?security-token=CAIS%2BgF1q6Ft5B2yfSjIr5fcANnV2rhGx5iASWHAgTJkQe1Km5LPmzz2IHFPeHJrBeAYt%2FoxmW1X5vwSlq5rR4QAXlDfNWC0XxHnqVHPWZHInuDox55m4cTXNAr%2BIhr%2F29CoEIedZdjBe%2FCrRknZnytou9XTfimjWFrXWv%2Fgy%2BQQDLItUxK%2FcCBNCfpPOwJms7V6D3bKMuu3OROY6Qi5TmgQ41Uh1jgjtPzkkpfFtkGF1GeXkLFF%2B97DRbG%2FdNRpMZtFVNO44fd7bKKp0lQLukMWr%2Fwq3PIdp2ma447NWQlLnzyCMvvJ9OVDFyN0aKEnH7J%2Bq%2FzxhTPrMnpkSlacGoABh3oK6cNH%2Bro%2BzxYvn5qkpPguda9gZOF2a2jyyoItCwJZPyRnxlpGO6lAyYAx2zioDqDyZOUehofiHUA9OKW4vADLrW4amc83a%2By4mEg4YZUbwAST3d%2BrCc%2FiJQ09CH9hyyMskvQxfhO6mtN%2FFUmK4EdDfXqKDRf4BQInOjqqFHM%3D&x-oss-access-key-id=STS.NTiKca7ggpZkKGqe21MbftWdy&x-oss-additional-headers=referer&x-oss-expires=1673014280&x-oss-process=image%2Fresize%2Cw_1920%2Fformat%2Cjpeg%2Finterlace%2C1&x-oss-signature=ovwViC68t%2BVbbHs4TfboQ5hMd3ryBJtCfbrCutLRqOw%3D&x-oss-signature-version=OSS2
-
+      - https://cdn.jsdelivr.net/gh/612901/661111@main/5fb75ed11e3c54a0175e4332b5a63fb8ec025c21_5fb75ed187763b29bb9941389d856d48aaedc56e.jpg
+      
   # APlayer is only available in mainland China.
   # https://aplayer.js.org/#/zh-Hans/
   # APlayer config: https://github.com/metowolf/MetingJS

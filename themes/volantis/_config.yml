@@ -817,11 +817,11 @@ plugins:
   # fontawesome V6:  https://fontawesome.com/docs/web/style/animate
   # fontawesome animation for fontawesome V5
   fontawesome_animation:
-    enable: #true
+    enable: true
  
   # Typing Effects
   comment_typing:
-    enable: #true
+    enable: true
  
   # 视差滚动效果 Slide Background
   parallax:

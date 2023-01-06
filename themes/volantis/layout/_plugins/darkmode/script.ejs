@@ -111,7 +111,7 @@ const darkModelListeners={
 }
 window.matchMedia('(prefers-color-scheme: dark)').addListener(darkModelListeners.dark)
 window.matchMedia('(prefers-color-scheme: light)').addListener(darkModelListeners.light)
-var res = computeSunRiseSunSet(纬度,经度,8);
+var res = computeSunRiseSunSet(116.765315,23.473582,8);
 res.str; //日出时间 | 正午时间 | 日落时间
 res.strSunRise; //日出时间
 res.strNoon; //正午时间

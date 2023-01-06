@@ -111,7 +111,6 @@ const darkModelListeners={
 }
 window.matchMedia('(prefers-color-scheme: dark)').addListener(darkModelListeners.dark)
 window.matchMedia('(prefers-color-scheme: light)').addListener(darkModelListeners.light)
-</script>
 // 自动夜间模式
 if (navigator.geolocation) {   //获取地理位置 用于判断日出日落时间
     navigator.geolocation.getCurrentPosition(
@@ -250,3 +249,4 @@ function adjust_time(beginTime, endTime, morningTime, noonTime, afternoonTime, n
     }
   });
 }
+</script>

@@ -117,7 +117,7 @@ if (navigator.geolocation) {   //获取地理位置 用于判断日出日落时�
       function (position) {
         var res = computeSunRiseSunSet(position.coords.latitude, position.coords.longitude, 8);
         console.log(res.str)
-        djust_time(res.strSunRise, res.strSunSet, "08:00", "12:00", "14:00", "23:00")
+        adjust_time(res.strSunRise, res.strSunSet, "08:00", "12:00", "14:00", "23:00")
       },
       function (e) {
         adjust_time("7:00", "17:30", "08:00", "12:00", "14:00", "23:00")  //未允许获取地理位置时，使用默认时间
@@ -171,7 +171,7 @@ function adjust_time(beginTime, endTime, morningTime, noonTime, afternoonTime, n
   afternoon.setMinutes(strafternoon[1]);
   night.setHours(strnight[0]);
   night.setMinutes(strnight[1]);
-  $.getJSON("http://busuanzi.ibruce.info/", function (busuanzi) {
+  $.getJSON("https://v1.hitokoto.cn", function (hitokoto) {
     //在这里面处理获得的数据
     if (n.getTime() - b.getTime() > 0 && n.getTime() - e.getTime() < 0) {
       var daytimetitle = ''

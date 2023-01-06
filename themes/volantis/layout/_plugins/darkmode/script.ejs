@@ -111,8 +111,8 @@ const darkModelListeners={
 }
 window.matchMedia('(prefers-color-scheme: dark)').addListener(darkModelListeners.dark)
 window.matchMedia('(prefers-color-scheme: light)').addListener(darkModelListeners.light)
-
-if (navigator.geolocation) {   //获取地理位置 用于判断日出日落时间
+// 自动夜间模式
+if (navigator.geolocation) {
     navigator.geolocation.getCurrentPosition(
       function (position) {
         var res = computeSunRiseSunSet(position.coords.latitude, position.coords.longitude, 8);
@@ -120,7 +120,7 @@ if (navigator.geolocation) {   //获取地理位置 用于判断日出日落时�
         adjust_time(res.strSunRise, res.strSunSet, "08:00", "12:00", "14:00", "23:00")
       },
       function (e) {
-        adjust_time("7:00", "17:30", "08:00", "12:00", "14:00", "23:00")  //未允许获取地理位置时，使用默认时间
+        adjust_time("7:00", "17:30", "08:00", "12:00", "14:00", "23:00")
         console.log("未允许获取地理位置，使用默认配置时间")
         throw (e.message);
       }
@@ -136,19 +136,19 @@ function adjust_time(beginTime, endTime, morningTime, noonTime, afternoonTime, n
   if (stre.length != 2) {
     return false;
   }
-  var strmorning = morningTime.split(":");   //12点
+  var strmorning = morningTime.split(":");
   if (stre.length != 2) {
     return false;
   }
-  var strnoon = noonTime.split(":");   //12点
+  var strnoon = noonTime.split(":");
   if (stre.length != 2) {
     return false;
   }
-  var strafternoon = afternoonTime.split(":");   //13点
+  var strafternoon = afternoonTime.split(":");
   if (stre.length != 2) {
     return false;
   }
-  var strnight = nightTime.split(":");   //23点
+  var strnight = nightTime.split(":");
   if (stre.length != 2) {
     return false;
   }

@@ -3,9 +3,9 @@ custom_css:
       enable: true
   fontfamily:
     logofont:
-      fontfamily: 'SentyTEA'
-      name: 'SentyTEA'
-      url: 'https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/SentyTEA.woff2'
+      fontfamily: '庞门正道粗书体'
+      name: '庞门正道粗书体'
+      url: 'https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/%E5%BA%9E%E9%97%A8%E6%AD%A3%E9%81%93%E7%B2%97%E4%B9%A6%E4%BD%93.woff2'
     bodyfont:
       fontfamily: 'SentyGoldenBell'
       name: 'SentyGoldenBell'

@@ -1,3 +1,4 @@
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Colsrch/CDN@master/judge_time/js.js"></script>
 <script>
 const rootElement = document.documentElement;
 const darkModeStorageKey = "color-scheme";
@@ -110,4 +111,12 @@ const darkModelListeners={
 }
 window.matchMedia('(prefers-color-scheme: dark)').addListener(darkModelListeners.dark)
 window.matchMedia('(prefers-color-scheme: light)').addListener(darkModelListeners.light)
+//自动暗黑模式
+var res = computeSunRiseSunSet(纬度,经度,8);
+res.str; //日出时间 | 正午时间 | 日落时间
+res.strSunRise; //日出时间
+res.strNoon; //正午时间
+res.strSunSet; //日落时间
+res.SunRise; //Date型
+res.SunSet; //Date型
 </script>

@@ -26,8 +26,7 @@ navbar:
   menu:
     - name: 分类
       icon: fa-solid fa-folder-open
-      rows:  
-        - name: hr  
+      rows:    
         - name: bilbil
           icon: fa-solid fa-folder-open
           url: tags/blibli/
@@ -49,7 +48,6 @@ navbar:
     - name: 关于
       icon: fas fa-info-circle fa-fw
       rows:
-        - name: hr  
         - name: 版权声明
           url: 2022/09/17/copyright/
         - name: hr  
@@ -63,8 +61,7 @@ navbar:
           url: /about/   
     - name: 小功能
       icon: fa-solid fa-link
-      rows: 
-        - name: hr  
+      rows:  
         - name: 友链
           icon: fa-solid fa-link
           url: friends/
@@ -91,8 +88,7 @@ navbar:
       toggle: darkmode
     - name: 更多
       icon: fa-solid fa-ellipsis-v
-      rows:
-        - name: hr  
+      rows: 
         - name: 每日日报
           icon: fas fa-newspaper
           url: https://news.wyblog1.tk       

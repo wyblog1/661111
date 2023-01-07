@@ -83,7 +83,7 @@ deploy:
   type:
 
 search:
-  path: search.xml
+  path: content.json
   field: post
   content: true
   format: html

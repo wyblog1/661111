@@ -27,18 +27,19 @@ navbar:
     - name: 分类
       icon: fa-solid fa-folder-open
       rows:  
-        - name: gridea
-          icon: fa-solid fa-folder-open
-          url: tags/gridea/
+        - name: hr  
         - name: bilbil
           icon: fa-solid fa-folder-open
           url: tags/blibli/
+        - name: hr  
         - name: 学科
           icon: fa-solid fa-folder-open
           url: tags/学科/ 
+        - name: hr  
         - name: bilbilpage2
           icon: fa-solid fa-folder-open
           url: tags/blibli-page-2/
+        - name: hr  
         - name: 相册集
           icon: fa-solid fa-folder-open
           url: tags/相册/     
@@ -48,30 +49,40 @@ navbar:
     - name: 关于
       icon: fas fa-info-circle fa-fw
       rows:
+        - name: hr  
         - name: 版权声明
           url: 2022/09/17/copyright/
+        - name: hr  
         - name: 免责声明
           url: 2022/09/17/mian-ze-sheng-ming-1/
+        - name: hr  
         - name: 关于本站
           url: 2022/09/24/list/
+        - name: hr  
         - name: 关于
-          url: /2022/08/20/about/
+          url: /about/
     - name: 小功能
       icon: fa-solid fa-link
       rows: 
+        - name: hr  
         - name: 友链
           icon: fa-solid fa-link
           url: friends/
+        - name: hr  
         - name: 朋友圈
           icon: fa-solid fa-feed
           url: links/
           rows:      
+             - name: hr  
              - name: 朋友圈模板1
                icon: fa-solid fa-feed
                url: links/
+             - name: hr  
              - name: 朋友圈模板2
                icon: fa-solid fa-feed
                url: fcircle/
+             - name: hr    
+        - name: hr  
         - name: 开往
           icon: fa-solid fa-subway
           url: https://travellings.link/
@@ -79,33 +90,40 @@ navbar:
         - name: homepage
           icon: fa-solid fa-subway
           url: /homepage/      
+    - name: 深色模式
+      icon: fa-solid fa-moon
+      toggle: darkmode
     - name: 更多
       icon: fa-solid fa-ellipsis-v
       rows:
+        - name: hr  
         - name: 每日日报
           icon: fas fa-newspaper
           url: https://news.wyblog1.tk       
+        - name: hr  
         - name: 音乐盒
           icon: fas fa-music
           url: https://api.wyblog.repl.co
+        - name: hr  
         - name: 哔哩哔哩
           icon: fa-solid fa-comment fa-fw 
           rows:
+             - name: hr  
              - name: 1
                icon: fa-solid fa-comment fa-fw 
                url: tags/blibli/
+             - name: hr  
              - name: 2
                icon: fa-solid fa-comment fa-fw 
-               url: tags/blibli-page-2/           
+               url: tags/blibli-page-2/    
+             - name: hr    
         - name: 说说
           icon: fa-fw iconfont icon-shejiao
           url: shuoshuo/
         - name: hr  
-        - name: 深色模式
-          icon: fa-solid fa-moon
-          toggle: darkmode
         - name: 背景音乐
-          icon: fa-solid fa-compact-disc   
+          icon: fa-solid fa-compact-disc 
+        - name: hr    
           
 site_footer:
   layout: [aplayer, social, bs, bq, wy, analytics, mz]

@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "hexo": "^5.3.0",
+    "live2d-widget-snow_miku": "^1.0.0",
     "hexo-generator-search": "^1.0.0",
     "hexo-helper-live2d": "^3.0.3",
     "hexo-bilibili-bangumi": "^1.8.3",

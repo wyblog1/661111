@@ -116,6 +116,7 @@ navbar:
                icon: fa-solid fa-comment fa-fw 
                url: tags/blibli-page-2/    
              - name: hr    
+        - name: hr
         - name: 说说
           icon: fa-fw iconfont icon-shejiao
           url: shuoshuo/

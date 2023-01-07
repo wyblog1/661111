@@ -27,7 +27,7 @@ function BackTOP() {
     })
 }
 
-('#readmode').click(function () {
+    $('#readmode').click(function () {
         $('body').toggleClass('read-mode')
     })
     

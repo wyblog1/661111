@@ -42,8 +42,7 @@ navbar:
         - name: hr  
         - name: 相册集
           icon: fa-solid fa-folder-open
-          url: tags/相册/
-        - name: hr    
+          url: tags/相册/    
     - name: 归档
       icon: fa-solid fa-archive
       url: archives/
@@ -61,8 +60,7 @@ navbar:
           url: 2022/09/24/list/
         - name: hr  
         - name: 关于
-          url: /about/
-        - name: hr    
+          url: /about/   
     - name: 小功能
       icon: fa-solid fa-link
       rows: 
@@ -88,7 +86,6 @@ navbar:
         - name: 开往
           icon: fa-solid fa-subway
           url: https://travellings.link/
-        - name: hr
     - name: 深色模式
       icon: fa-solid fa-moon
       toggle: darkmode
@@ -122,8 +119,7 @@ navbar:
           url: shuoshuo/
         - name: hr  
         - name: 背景音乐
-          icon: fa-solid fa-compact-disc 
-        - name: hr    
+          icon: fa-solid fa-compact-disc    
           
 site_footer:
   layout: [aplayer, social, bs, bq, wy, analytics, mz]

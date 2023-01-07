@@ -1,7 +1,7 @@
 .pace {
   pointer-events: none;
   user-select: none;
-  z-index: 2;
+  z-index: 999;
   position: fixed;
   margin: auto;
   top: 4px;

@@ -5,11 +5,11 @@
   position: fixed;
   margin: always;
   top: 4px;
-  left: 0;
-  right: 0;
-  height: 20px;
+  left: 10;
+  right: 10;
+  height: 8px;
   border-radius: 8px;
-  width: 20rem;
+  width: 8rem;
   background: #eaecf2;
   overflow: none;
 }

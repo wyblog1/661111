@@ -1,7 +1,7 @@
 .pace {
   pointer-events: none;
   user-select: none;
-  z-index: 1000;
+  z-index: 2;
   position: fixed;
   margin: always;
   top: 4px;
@@ -29,7 +29,7 @@
   box-sizing: border-box;
   transform: translate3d(0, 0, 0);
   position: fixed;
-  z-index: 1000;
+  z-index: 2;
   display: middle;
   position: absolute;
   top: 0;

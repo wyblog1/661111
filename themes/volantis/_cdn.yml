@@ -433,9 +433,9 @@ pace_css:
   cdnjs_name: pace
   file: themes/${hexo.theme.config?.plugins?.pace?.color}/pace-theme-${hexo.theme.config?.plugins?.pace?.theme}.css
   version: 1.2.4
-  npm: true
+  npm: false
   static: false
-  cdnjs: true
+  cdnjs: false
 
 
 

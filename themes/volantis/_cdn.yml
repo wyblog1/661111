@@ -424,7 +424,7 @@ pace_js:
   name: pace-js
   cdnjs_name: pace
   file: pace.min.js
-  version: 1.2.4
+  version: 1.2.0
   npm: true
   static: false
   cdnjs: true

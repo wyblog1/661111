@@ -423,7 +423,7 @@ artitalk:
 pace_js:
   name: pace-js
   cdnjs_name: pace
-  file: volantis-static@0.0.1654736714924/libs/nprogress/nprogress.js
+  file: nprogress.min.js
   version: 1.2.0
   npm: ture
   static: false

@@ -7,16 +7,16 @@
   top: 4px;
   left: 0;
   right: 0;
-  height: 8px;
+  height: 20px;
   border-radius: 8px;
-  width: 6rem;
+  width: 20rem;
   background: #eaecf2;
-  overflow: always;
+  overflow: none;
 }
 
 .pace-inactive .pace-progress {
   opacity: 0;
-  transition: 0.01s ease-in;
+  transition: 0.1s ease-in;
 }
 
 .pace.pace-inactive {
@@ -43,6 +43,6 @@
     rgb(196, 113, 237),
     rgb(246, 79, 89)
   );
-  animation: gradient 0.1s ease infinite;
+  animation: gradient 2s ease infinite;
   background-size: 200%;
 }

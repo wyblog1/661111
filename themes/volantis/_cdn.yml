@@ -431,7 +431,7 @@ pace_js:
 pace_css:
   name: pace-js
   cdnjs_name: pace
-  file: https://blog.wyblog1.tk/pace-theme-minimal.min.css
+  file: /pace-theme-minimal.min.css
   version: 1.2.4
   local: true
   npm: false

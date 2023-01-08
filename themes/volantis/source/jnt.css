@@ -2,7 +2,7 @@
   pointer-events: none;
   user-select: none;
   z-index: 1000;
-  position: fixed;
+  position: middle;
   margin: always;
   top: 4px;
   left: 0;
@@ -28,7 +28,7 @@
 .pace .pace-progress {
   box-sizing: border-box;
   transform: translate3d(0, 0, 0);
-  position: fixed;
+  position: middle;
   z-index: 1000;
   display: block;
   position: absolute;

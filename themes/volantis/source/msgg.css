@@ -1,4 +1,4 @@
-var res = computeSunRiseSunSet(纬度,经度,8);
+var res = computeSunRiseSunSet(23.25029,116.4331,8);
 res.str; //日出时间 | 正午时间 | 日落时间
 res.strSunRise; //日出时间
 res.strNoon; //正午时间

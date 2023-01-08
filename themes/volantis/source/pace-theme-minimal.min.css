@@ -3,7 +3,7 @@
   user-select: none;
   z-index: 999;
   position: fixed;
-  margin: auto;
+  margin: always;
   top: 4px;
   left: 0;
   right: 0;

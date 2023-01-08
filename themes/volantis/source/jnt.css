@@ -1,7 +1,7 @@
 .pace {
   pointer-events: none;
   user-select: none;
-  z-index: 2;
+  z-index: 1000;
   position: fixed;
   margin: always;
   top: 4px;
@@ -12,7 +12,6 @@
   width: 6rem;
   background: #eaecf2;
   overflow: hidden;
-  place: right
 }
 
 .pace-inactive .pace-progress {
@@ -30,7 +29,7 @@
   box-sizing: border-box;
   transform: translate3d(0, 0, 0);
   position: fixed;
-  z-index: 2;
+  z-index: 1000;
   display: block;
   position: absolute;
   top: 0;
@@ -46,5 +45,4 @@
   );
   animation: gradient 2s ease infinite;
   background-size: 200%;
-  place: right
 }

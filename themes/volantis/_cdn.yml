@@ -433,9 +433,10 @@ pace_css:
   cdnjs_name: pace
   file: jnt.css
   version: 1.2.4
-  npm: true
+  local: true  
+  npm: false
   static: false
-  cdnjs: true
+  cdnjs: false
 
 
 

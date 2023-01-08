@@ -12,6 +12,7 @@
   width: 6rem;
   background: #eaecf2;
   overflow: hidden;
+  place: right
 }
 
 .pace-inactive .pace-progress {
@@ -45,4 +46,5 @@
   );
   animation: gradient 2s ease infinite;
   background-size: 200%;
+  place: right
 }

@@ -423,12 +423,11 @@ artitalk:
 pace_js:
   name: pace-js
   cdnjs_name: pace
-  file: nprogress.min.js
-  version: 1.2.0
-  local: true
-  npm: false
+  file: pace.min.js
+  version: 1.2.4
+  npm: true
   static: false
-  cdnjs: false
+  cdnjs: true
 pace_css:
   name: pace-js
   cdnjs_name: pace

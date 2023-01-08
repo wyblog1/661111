@@ -1,6 +1,6 @@
 .pace {
-  pointer-events: always;
-  user-select: always;
+  pointer-events: none;
+  user-select: none;
   z-index: 2;
   position: fixed;
   margin: always;
@@ -16,12 +16,12 @@
 
 .pace-inactive .pace-progress {
   opacity: 0;
-  transition: 0.3s ease-in;
+  transition: 1.0s ease-in;
 }
 
 .pace.pace-inactive {
   opacity: 0;
-  transition: 0.3s;
+  transition: 1.0s;
   top: -8px;
 }
 
@@ -45,16 +45,4 @@
   );
   animation: gradient 2s ease infinite;
   background-size: 200%;
-}
-/* 在下面修改进度条外观 */
-.pace .pace-progress {
-  background: #1ef4fbec; /*进度条颜色*/
-  height: 3px;/* 进度条厚度 */
-}
-.pace .pace-progress-inner {
-  box-shadow: 0 0 10px #1ef4fbce, 0 0 5px #1ecffbd0; /*阴影颜色*/
-}
-.pace .pace-activity {
-  border-top-color: #1edafbe5;	/*上边框颜色*/
-  border-left-color: #1ef4fbec;	/*左边框颜色*/
 }

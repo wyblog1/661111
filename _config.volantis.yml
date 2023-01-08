@@ -312,4 +312,5 @@ top:
     post: false 
 live2d: 
   enable: true
-  
+Snackbar:
+  enable: true

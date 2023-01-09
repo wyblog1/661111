@@ -250,7 +250,7 @@ article:
       # 推荐算法需要依赖中文分词工具，nodejieba只支持中英文 npm i nodejieba -S
       recommended_article:
         enable: ture
-        layout: ["post"]
+        layout: ["post", "docs"]
         title: 推荐阅读
         icon: fa-solid fa-bookmark
         max_count: 6

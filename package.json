@@ -2,12 +2,18 @@
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
+  "scripts": {
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "hexo deploy",
+    "server": "hexo server"
+  },
   "hexo": {
     "version": "5.3.0"
   },
   "dependencies": {
     "hexo": "^5.0.1",
-    "nodejieba": "^2.6.0",
+    "hexo-bilibili-bangumi": "^1.7.4",
     "hexo-generator-feed": "^3.0.0",
     "hexo-generator-search": "^1.0.0",
     "hexo-wordcount": "^1.0.0",

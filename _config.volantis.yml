@@ -314,3 +314,6 @@ live2d:
   enable: true
 Snackbar:
   enable: true
+preloader:
+  enable: true
+  layout: spinner-box # gear, spinner-box 两种样式

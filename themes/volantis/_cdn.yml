@@ -424,20 +424,16 @@ pace_js:
   name: pace-js
   cdnjs_name: pace
   file: pace.min.js
-  version: 1.0.2
+  version: 1.2.4
   npm: true
   static: false
   cdnjs: true
 pace_css:
   name: pace-js
   cdnjs_name: pace
-  file: jnt.css
+  file: themes/${hexo.theme.config?.plugins?.pace?.color}/pace-theme-${hexo.theme.config?.plugins?.pace?.theme}.css
   version: 1.2.4
-  local: true  
-  npm: false
+  npm: true
   static: false
-  cdnjs: false
-
-
-
+  cdnjs: true
 

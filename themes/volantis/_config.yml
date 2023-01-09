@@ -169,7 +169,7 @@ cover:
   background: https://gcore.jsdelivr.net/gh/MHG-LAB/cron@gh-pages/bing/bing.jpg
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
   logo:  # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
-  title: '<font size="500"><span>天闲无</span><span>影博客</span></font>'
+  title: '<font><span>天闲无</span><span>影博客</span></font>'
   subtitle: <div id="binft"></div>
   search: A Wonderful Theme for Hexo # search bar placeholder
   features:

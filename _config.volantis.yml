@@ -186,8 +186,8 @@ sidebar:
       - https://cdn.jsdelivr.net/gh/612901/661111@main/R8%5D%409CBKKDK_T59HJ(NH(S2.png
   blogger:
       class: blogger
-      display: [desktop] # [desktop, mobile]
-      avatar: https://661111.github.io/media/images/custom-headerLogo.ico
+      display: [desktop, mobile] # [desktop, mobile]
+      avatar: https://cdn.jsdelivr.net/gh/661111/661111.github.io@main/media/images/custom-footerLogo.ico
       title: 无影
       subtitle:
       jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.

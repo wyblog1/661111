@@ -922,9 +922,9 @@ plugins:
   # BBtalk https://bb.js.org
   bbtalk:
     # Set `plugins: ["bbtalk"]` to enable in front-matter
-    appId: 0KzOX4vC7Jsk6vzUGNeEiUaI-gzGzoHsz # your appID
-    appKey: HwCiWuxfpvKiLm4teCUgTIba # your appKEY
-    serverURLs: https://bbapi.heson10.com # Request Api 域名
+    appId: G2nZUf98HxDS9B60S4UBEbCp-MdYXbMMI # your appID
+    appKey: JEzhsr4q58tCg0MOQJli3Pu4 # your appKEY
+    serverURLs: https://bbtalk.wyblog1.tk # Request Api 域名
 
   # 友链朋友圈 hexo-circle-of-friends
   # https://github.com/Rock-Candy-Tea/hexo-circle-of-friends

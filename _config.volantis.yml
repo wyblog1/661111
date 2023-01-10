@@ -303,37 +303,16 @@ live2d:
   enable: true
 Snackbar:
   enable: true
-preloader:
-  enable: true
-  layout: spinner-box # gear, spinner-box 两种样式
-# 番剧
-bangumi: # 追番设置
-  enable: true
-  path: 
-  vmid: 1945630406
-  title: '天闲无影的追剧列表'
-  quote: '正在追的动漫'
-  show: 1
-  lazyload: false
-  loading:
-  metaColor:
-  color:
-  webp: false
-  progress:
-  extra_options:
-    key: value
-cinema: # 追剧设置
-  enable: true
-  path: 
-  vmid: 1945630406
-  title: '天闲无影的追剧列表'
-  quote: '最近在看'
-  show: 1
-  lazyload: false
-  loading:
-  metaColor:
-  color:
-  webp: false
-  progress:
-  extra_options:
-    key: value
+# 第三方插件
+plugins:
+  bbtalk:
+    js: https://unpkg.com/bbtalk@0.1.5/dist/bbtalk.js
+    appId: G2nZUf98HxDS9B60S4UBEbCp-MdYXbMMI
+    appKey: JEzhsr4q58tCg0MOQJli3Pu4
+    serverURLs: https://bbtalk.wyblog1.tk/
+
+  artitalk:
+    js: https://unpkg.com/artitalk
+    appId: oPfRHBLWiKjiFAQj6HGh93Wc-MdYXbMMI
+    appKey: 7fbMBsoQZA5oP21pzALjgqjG
+    serverURL: https://artitalk.wyblog1.tk

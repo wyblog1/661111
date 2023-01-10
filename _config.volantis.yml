@@ -313,6 +313,7 @@ plugins:
 
   artitalk:
     js: https://unpkg.com/artitalk
+    img: https://661111.github.io/media/images/custom-headerLogo.ico
     appId: oPfRHBLWiKjiFAQj6HGh93Wc-MdYXbMMI
     appKey: 7fbMBsoQZA5oP21pzALjgqjG
     serverURL: https://artitalk.wyblog1.tk

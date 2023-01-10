@@ -64,21 +64,17 @@ navbar:
       rows:  
         - name: 友链
           icon: fa-solid fa-link
-          url: friends/
-        - name: hr  
+          url: friends/  
         - name: 朋友圈
           icon: fa-solid fa-feed
           url: links/
-          rows:      
-             - name: hr  
+          rows:        
              - name: 朋友圈模板1
                icon: fa-solid fa-feed
                url: links/
-             - name: hr  
              - name: 朋友圈模板2
                icon: fa-solid fa-feed
-               url: fcircle/
-             - name: hr    
+               url: fcircle/   
         - name: hr  
         - name: 开往
           icon: fa-solid fa-subway
@@ -92,28 +88,24 @@ navbar:
         - name: 每日日报
           icon: fas fa-newspaper
           url: https://news.wyblog1.tk       
-        - name: hr  
         - name: 音乐盒
           icon: fas fa-music
           url: https://api.wyblog.repl.co
         - name: hr  
         - name: 哔哩哔哩
           icon: fa-solid fa-comment fa-fw 
-          rows:
-             - name: hr  
+          rows: 
              - name: 1
                icon: fa-solid fa-comment fa-fw 
                url: tags/blibli/
              - name: hr  
              - name: 2
                icon: fa-solid fa-comment fa-fw 
-               url: tags/blibli-page-2/    
-             - name: hr    
+               url: tags/blibli-page-2/     
         - name: hr
         - name: artitalk
           icon: fa-solid fa-comments
           url: shuoshuo/
-        - name: hr 
         - name: bbtalk
           icon: fa-solid fa-comments
           url: bbtalk/  

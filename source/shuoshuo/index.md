@@ -1,28 +1,14 @@
 ---
 sidebar: []
 ---
-<script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
-<link href='//unpkg.com/@waline/client@v2/dist/waline.css' rel='stylesheet' />
-  <div id="waline"></div>
-  <script>
-        Waline.init({
-      el: '#waline',
-      serverURL: 'https://waline.wyblog1.tk',
-      locale: {
-      level0: '炼体',
-      level1: '炼气',
-      level2: '筑基',
-      level3: '金丹',
-      level4: '元婴',
-      level5: '化神',
-  },
-  comment: true,
-  reaction: true,
-    reaction: [
-    'https://unpkg.com/@waline/emojis@1.1.0/weibo/weibo_heart_eyes.png',
-    'https://unpkg.com/@waline/emojis@1.1.0/weibo/weibo_dog_joy.png',
-    'https://unpkg.com/@waline/emojis@1.1.0/weibo/weibo_dog_consider.png',
-    'https://unpkg.com/@waline/emojis@1.1.0/weibo/weibo_sob.png',
-  ],
- });
-  </script>
+<!-- 引用 artitalk -->
+<script type="text/javascript" src="https://unpkg.com/artitalk"></script>
+<!-- 存放说说的容器 -->
+<div id="artitalk_main"></div>
+<script>
+new Artitalk({
+    appId: 'oPfRHBLWiKjiFAQj6HGh93Wc-MdYXbMMI', // Your LeanCloud appId
+    appKey: '7fbMBsoQZA5oP21pzALjgqjG', // Your LeanCloud appKey
+    serverURL: 'https://artitalk.wyblog1.tk/'
+})
+</script>

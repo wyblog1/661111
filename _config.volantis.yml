@@ -111,11 +111,11 @@ navbar:
              - name: hr    
         - name: hr
         - name: artitalk
-          icon: fa-fw iconfont icon-shejiao
+          icon: fa-solid fa-comments
           url: shuoshuo/
         - name: hr 
         - name: bbtalk
-          icon: fa-fw iconfont icon-shejiao
+          icon: fa-solid fa-comments
           url: bbtalk/  
         - name: hr  
         - name: 背景音乐

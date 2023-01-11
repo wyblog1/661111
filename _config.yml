@@ -91,9 +91,9 @@ bangumi: # 追番设置
   enable: true
   source: bili
   bgmInfoSource: 'bgmApi'
-  path: 
+  path: bangumis/index.html
   vmid: 1945630406
-  title: '上杉九月的追番列表'
+  title: '天闲无影的追番列表'
   quote: '正在追的动漫'
   show: 1
   lazyload: false

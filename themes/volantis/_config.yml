@@ -1076,12 +1076,11 @@ rightmenus:
       - {id: 'examples', name: '归档', icon: 'fa-solid fa-archive', link: '/archives/', group: 'link'}
       - {id: 'source_theme', name: '友链文章', icon: 'fa-solid fa-feed', link: '/links/', group: 'link'}
       - {id: 'contributors', name: '前往友链', icon: 'fa-solid fa-link', link: '/friends/', group: 'link'}
-    darkMode:
-      - {id: 'darkMode', name: '暗黑模式', icon: 'fa-solid fa-moon', event: 'volantis.dark.toggle()', group: 'darkMode'}
       - hr
-    artitalk:
       - {id: 'artitalk', name: 'artitalk', icon: 'fa-solid fa-comments', link: '/shuoshuo/', group: 'artitalk'}
       - {id: 'bbtalk', name: 'bbtalk', icon: 'fa-solid fa-comments', link: '/bbtalk/', group: 'bbtalk'}
+    darkMode:
+      - {id: 'darkMode', name: '暗黑模式', icon: 'fa-solid fa-moon', event: 'volantis.dark.toggle()', group: 'darkMode'}
       - hr
 ###
 

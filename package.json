@@ -3,8 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "bangumi": "hexo bangumi -u",
-    "cinema": "hexo cinema -u",
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
@@ -31,5 +29,7 @@
   "scripts": {
     "dev": "hexo server -p $PORT",
     "build": "hexo generate"
+    "bangumi": "hexo bangumi -u",
+    "cinema": "hexo cinema -u",
   }
 }

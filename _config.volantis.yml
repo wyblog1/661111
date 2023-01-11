@@ -317,33 +317,3 @@ plugins:
     appId: oPfRHBLWiKjiFAQj6HGh93Wc-MdYXbMMI
     appKey: 7fbMBsoQZA5oP21pzALjgqjG
     serverURL: https://artitalk.wyblog1.tk
-  bangumi: # 追番设置
-    enable: true
-    path: 
-    vmid: 1945630406
-    title: '天闲的追番列表'
-    quote: 正在追的动漫'
-    show: 1
-    lazyload: false
-    loading:
-    metaColor:
-    color:
-    webp: false
-    progress:
-    extra_options:
-      key: value
-  cinema: # 追剧设置
-    enable: true
-    path:
-    vmid: 1945630406
-    title: '天闲的追剧列表'
-    quote: ''
-    show: 1
-    lazyload: false
-    loading:
-    metaColor:
-    color:
-    webp: false
-    progress:
-    extra_options:
-      key: value

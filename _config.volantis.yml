@@ -303,7 +303,7 @@ Snackbar:
 # 第三方插件
 plugins:
   artitalk:
-    js: https://unpkg.com/artitalk
+    js: https://cdn.staticaly.com/gh/spaceskynet/Artitalk/master/dist/js/artitalk.js
     appId: oPfRHBLWiKjiFAQj6HGh93Wc-MdYXbMMI
     appKey: 7fbMBsoQZA5oP21pzALjgqjG
     serverURL: https://artitalk.wyblog1.tk

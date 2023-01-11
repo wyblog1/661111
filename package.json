@@ -29,7 +29,5 @@
   "scripts": {
     "dev": "hexo server -p $PORT",
     "build": "hexo generate"
-    "bangumi": "hexo bangumi -u"
-    "cinema": "hexo cinema -u"
   }
 }

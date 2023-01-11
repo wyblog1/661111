@@ -1079,7 +1079,7 @@ rightmenus:
     darkMode:
       - {id: 'darkMode', name: '暗黑模式', icon: 'fa-solid fa-moon', event: 'volantis.dark.toggle()', group: 'darkMode'}
       - hr
-    shuoshuo:
+    artitalk:
       - {id: 'artitalk', name: 'artitalk', icon: 'fa-solid fa-comments', link: '/shuoshuo/', group: 'artitalk'}
       - {id: 'bbtalk', name: 'bbtalk', icon: 'fa-solid fa-comments', link: '/bbtalk/', group: 'bbtalk'}
       - hr

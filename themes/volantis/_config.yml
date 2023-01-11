@@ -91,6 +91,7 @@ csp:
   content: "
     default-src 'self' https:;
     block-all-mixed-content;
+    Access-Control-Allow-Origin;
     base-uri 'self' https:;
     form-action 'self' https:;
     worker-src 'self' https:;

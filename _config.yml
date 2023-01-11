@@ -87,3 +87,33 @@ search:
   field: post
   content: true
   format: html
+bangumi: # 追番设置
+  enable: true
+  path: 
+  vmid: 632762501
+  title: '上杉九月的追番列表'
+  quote: '正在追的动漫'
+  show: 1
+  lazyload: false
+  loading:
+  metaColor:
+  color:
+  webp: false
+  progress:
+  extra_options:
+    key: value
+cinema: # 追剧设置
+  enable: true
+  path:
+  vmid: 632762501
+  title: '上杉九月的追剧列表'
+  quote: '最近在看五郎叔'
+  show: 1
+  lazyload: false
+  loading:
+  metaColor:
+  color:
+  webp: false
+  progress:
+  extra_options:
+    key: value

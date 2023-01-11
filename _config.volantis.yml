@@ -305,7 +305,7 @@ plugins:
   artitalk:
     appId: ogP8qj3veMh0LFpFWMPOyF0X-MdYXbMMI # your appID
     appKey: nHXLd3N3Jgh460t2iRQKWAtr # your appKEY
-    serverURL: https://apfkuvir.lc-cn-n1-shared.com #leancloud绑定的api访问域名，使用国际版的话不需要填写
+    serverURL: https://artitalk.wyblog1.tk #leancloud绑定的api访问域名，使用国际版的话不需要填写
     # lang: # 语言设置，zh为汉语，en为英语，es为西班牙语。默认为汉语
     pageSize: 10 #每页说说的显示数量
     # shuoPla: #在编辑说说的输入框中的占位符
@@ -315,4 +315,4 @@ plugins:
     color1: 'linear-gradient(90deg,rgba(247,149,51,.1) 0,rgba(243,112,85,.1) 15%,rgba(239,78,123,.1) 30%,rgba(161,102,171,.1) 44%,rgba(80,115,184,.1) 58%,rgba(16,152,173,.1) 72%,rgba(7,179,155,.1) 86%,rgba(109,186,130,.1) 100%)' #说说背景颜色1&按钮颜色1
     color2: 'linear-gradient(90deg,rgba(247,149,51,.1) 0,rgba(243,112,85,.1) 15%,rgba(239,78,123,.1) 30%,rgba(161,102,171,.1) 44%,rgba(80,115,184,.1) 58%,rgba(16,152,173,.1) 72%,rgba(7,179,155,.1) 86%,rgba(109,186,130,.1) 100%)' #说说背景颜色2&按钮颜色2
     color3: '#5e5e5e' #说说字体颜色
-    cssUrl:  #自定义css接口
+    cssUrl: #自定义css接口

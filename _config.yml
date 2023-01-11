@@ -89,6 +89,8 @@ search:
   format: html
 bangumi: # 追番设置
   enable: true
+  source: bili
+  bgmInfoSource: 'bgmApi'
   path: 
   vmid: 1945630406
   title: '上杉九月的追番列表'

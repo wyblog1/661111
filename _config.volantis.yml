@@ -303,10 +303,11 @@ Snackbar:
 # 第三方插件
 plugins:
   artitalk:
-    js: https://cdn.staticaly.com/gh/spaceskynet/Artitalk/master/dist/js/artitalk.js
+    js: https://cdn.jsdelivr.net/npm/artitalk
     appId: oPfRHBLWiKjiFAQj6HGh93Wc-MdYXbMMI
     appKey: 7fbMBsoQZA5oP21pzALjgqjG
     serverURL: https://artitalk.wyblog1.tk
     pageSize: 10
-    bgImg: https://cdn.jsdelivr.net/gh/661111/661111.github.io@main/Cover/cover01.jpg
-    cssUrl: https://cdn.staticaly.com/gh/spaceskynet/Artitalk/master/dist/css/artitalk.min.css 
+    color1: 'linear-gradient(90deg,rgba(247,149,51,.1) 0,rgba(243,112,85,.1) 15%,rgba(239,78,123,.1) 30%,rgba(161,102,171,.1) 44%,rgba(80,115,184,.1) 58%,rgba(16,152,173,.1) 72%,rgba(7,179,155,.1) 86%,rgba(109,186,130,.1) 100%)' #说说背景颜色1&按钮颜色1
+    color2: 'linear-gradient(90deg,rgba(247,149,51,.1) 0,rgba(243,112,85,.1) 15%,rgba(239,78,123,.1) 30%,rgba(161,102,171,.1) 44%,rgba(80,115,184,.1) 58%,rgba(16,152,173,.1) 72%,rgba(7,179,155,.1) 86%,rgba(109,186,130,.1) 100%)' #说说背景颜色2&按钮颜色2
+    color3: '#5e5e5e'

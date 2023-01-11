@@ -309,3 +309,4 @@ plugins:
     serverURL: https://artitalk.wyblog1.tk
     pageSize: 10
     bgImg: https://cdn.jsdelivr.net/gh/661111/661111.github.io@main/Cover/cover01.jpg
+    cssUrl: https://cdn.staticaly.com/gh/spaceskynet/Artitalk/master/dist/css/artitalk.min.css 

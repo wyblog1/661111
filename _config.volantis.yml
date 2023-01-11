@@ -105,7 +105,7 @@ navbar:
         - name: hr
         - name: artitalk
           icon: fa-solid fa-comments
-          url: shuoshuo/
+          url: artitalk/
         - name: bbtalk
           icon: fa-solid fa-comments
           url: bbtalk/  
@@ -274,7 +274,7 @@ sidebar:
           url: /xg/
         - name: artitalk
           icon: fa-solid fa-comments
-          url: /shuoshuo/
+          url: /artitalk/
         - name: bbtalk
           icon: fa-solid fa-comments
           url: /bbtalk/  

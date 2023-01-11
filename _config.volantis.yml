@@ -281,6 +281,12 @@ sidebar:
         - name: 新冠疫情图
           icon: fas fa-newspaper
           url: /xg/
+        - name: artitalk
+          icon: fa-solid fa-comments
+          url: /shuoshuo/
+        - name: bbtalk
+          icon: fa-solid fa-comments
+          url: /bbtalk/  
           
 search:
   enable: true

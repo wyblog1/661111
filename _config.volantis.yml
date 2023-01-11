@@ -260,12 +260,6 @@ sidebar:
         - name: 朋友圈
           icon: fa-solid fa-feed
           url: /links/
-        - name: 归档
-          icon: fa-solid fa-archive
-          url: /archives/
-        - name: 音乐盒
-          icon: fa-solid fa-compact-disc 
-          url: https://api.wyblog.repl.co
         - name: 个人主页
           icon: fas fa-info-circle fa-fw
           url: https://wyblog1.tk 
@@ -274,10 +268,7 @@ sidebar:
           url: /bangumi/  
         - name: 留言板
           icon: fa-solid fa-comment fa-fw 
-          url: /messages/  
-        - name: 开往
-          icon: fa-solid fa-subway
-          url: https://travellings.now.sh/
+          url: /messages/ 
         - name: 新冠疫情图
           icon: fas fa-newspaper
           url: /xg/

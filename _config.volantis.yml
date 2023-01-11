@@ -320,9 +320,9 @@ plugins:
   bangumi: # 追番设置
     enable: true
     path: 
-    vmid: 632762501
-    title: '上杉九月的追番列表'
-    quote: '正在追的动漫'
+    vmid: 1945630406
+    title: '天闲的追番列表'
+    quote: 正在追的动漫'
     show: 1
     lazyload: false
     loading:
@@ -335,9 +335,9 @@ plugins:
   cinema: # 追剧设置
     enable: true
     path:
-    vmid: 632762501
-    title: '上杉九月的追剧列表'
-    quote: '最近在看五郎叔'
+    vmid: 1945630406
+    title: '天闲的追剧列表'
+    quote: ''
     show: 1
     lazyload: false
     loading:

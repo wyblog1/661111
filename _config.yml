@@ -90,7 +90,7 @@ search:
 bangumi: # 追番设置
   enable: true
   path: 
-  vmid: 632762501
+  vmid: 1945630406
   title: '上杉九月的追番列表'
   quote: '正在追的动漫'
   show: 1
@@ -105,7 +105,7 @@ bangumi: # 追番设置
 cinema: # 追剧设置
   enable: true
   path:
-  vmid: 632762501
+  vmid: 1945630406
   title: '上杉九月的追剧列表'
   quote: '最近在看五郎叔'
   show: 1

@@ -3,9 +3,9 @@ custom_css:
       enable: true
   fontfamily:
     logofont:
-      fontfamily: 'Varela Round'
-      name: 'Varela Round'
-      url: 'https://static.codemao.cn/coco/player/unstable/r1oA8Jiti.font/ttf?hash=lqxAHHQkc-oqaE-WDBgunFyGVW-y'
+      fontfamily: 'LongCang'
+      name: 'LongCang'
+      url: 'https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/LongCang.woff2'
     bodyfont:
       fontfamily: 'SentyGoldenBell'
       name: 'SentyGoldenBell'

@@ -417,7 +417,7 @@ artitalk:
   name: artitalk
   file: artitalk.js
   version: 3.3.4
-  npm: true
+  npm: false
   static: false
   cdnjs: false
 pace_js:

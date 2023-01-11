@@ -302,7 +302,7 @@ Snackbar:
   enable: true
 # 第三方插件
 plugins:
-    artitalk:
+  artitalk:
     appId: ogP8qj3veMh0LFpFWMPOyF0X-MdYXbMMI # your appID
     appKey: nHXLd3N3Jgh460t2iRQKWAtr # your appKEY
     serverURL: https://artitalk.wyblog1.tk #leancloud绑定的api访问域名，使用国际版的话不需要填写
@@ -322,8 +322,3 @@ plugins:
         bishi: https://cdn.jsdelivr.net/gh/Artitalk/Artitalk-emoji/bishi.png
         baiyan: https://cdn.jsdelivr.net/gh/Artitalk/Artitalk-emoji/baiyan.png
         chan: https://cdn.jsdelivr.net/gh/Artitalk/Artitalk-emoji/chan.png
-
-  bbtalk:
-    appId: G2nZUf98HxDS9B60S4UBEbCp-MdYXbMMI # your appID
-    appKey: JEzhsr4q58tCg0MOQJli3Pu4 # your appKEY
-    serverURLs: https://bbtalk.wyblog1.tk # Request Api 域名

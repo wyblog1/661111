@@ -1,6 +1,6 @@
 //首次访问弹窗
 if (localStorage.getItem("popWelcomeWindow") != "0") {
-    if(document.referrer==undefined||document.referrer.indexOf("yisous.xyz")!=-1||document.referrer.indexOf("ariasaka.top")!=-1){ //改成自己域名，注意是referrer!!! qwq
+    if(document.referrer==undefined||document.referrer.indexOf("yisous.xyz")!=-1||document.referrer.indexOf("blog.wyblog.tk")!=-1){ //改成自己域名，注意是referrer!!! qwq
         Snackbar.show({
             pos: "top-right",
             showAction: false,

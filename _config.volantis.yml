@@ -305,7 +305,7 @@ plugins:
   artitalk:
     appId: ogP8qj3veMh0LFpFWMPOyF0X-MdYXbMMI # your appID
     appKey: nHXLd3N3Jgh460t2iRQKWAtr # your appKEY
-    serverURL: https://artitalk.wyblog1.tk #leancloud绑定的api访问域名，使用国际版的话不需要填写
+    serverURL: https://apfkuvir.lc-cn-n1-shared.com #leancloud绑定的api访问域名，使用国际版的话不需要填写
     # lang: # 语言设置，zh为汉语，en为英语，es为西班牙语。默认为汉语
     pageSize: 10 #每页说说的显示数量
     # shuoPla: #在编辑说说的输入框中的占位符

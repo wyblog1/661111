@@ -104,15 +104,15 @@ navbar:
                url: tags/blibli-page-2/     
         - name: hr
         - name: artitalk
-          icon: fa-solid fa-comments
+          icon: fa-solid fa-message
           url: artitalk/
           rows: 
              - name: 3.0.0
-               icon: fa-solid fa-comments
+               icon: fa-solid fa-message
                url: shuoshuo/
              - name: hr  
              - name: 3.3.0
-               icon: fa-solid fa-comments
+               icon: fa-solid fa-message
                url: artitalk/
         - name: bbtalk
           icon: fa-solid fa-comments
@@ -273,7 +273,7 @@ sidebar:
           icon: fa-solid fa-comment fa-fw 
           url: /bangumi/  
         - name: 留言板
-          icon: fa-solid fa-comment fa-fw 
+          icon: fa-solid fa-message
           url: /messages/ 
         - name: 新冠疫情图
           icon: fas fa-newspaper

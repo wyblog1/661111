@@ -6,6 +6,6 @@
 new Artitalk({
     appId: 'oPfRHBLWiKjiFAQj6HGh93Wc-MdYXbMMI', // Your LeanCloud appId
     appKey: '7fbMBsoQZA5oP21pzALjgqjG', // Your LeanCloud appKey
-    serverURL: 'https://xxx.xxx.workers.dev'
+    serverURL: 'https://artitalk.wyblog1.tk'
 })
 </script>

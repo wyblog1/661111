@@ -3,17 +3,6 @@ layout: page
 title: 心怀感恩，砥砺前行
 sidebar: []
 ---
-{% folding cyan open, 友链 %}
-
-{% radio checked, {% sites only:qz %}； %}
-{% radio checked, {% sites only:ny %}； %}
-{% radio checked, {% sites only:bthc %}； %}
-{% radio checked, {% sites only:dl %}； %}
-{% radio checked, {% sites only:pyq2d %}； %}
-{% radio checked, {% sites only:zlys %}； %}
-
-{% endfolding %}
-
 {% sites only:qz %}
 
 {% sites only:ny %}
@@ -25,7 +14,23 @@ sidebar: []
 {% sites only:pyq2d %}
 
 {% sites only:zlys %}
-> 名称：无影博客
-站标：https://unpkg.com/volantis-static@0.0.1660614606622/media/org.volantis/blog/Logo-NavBar@3x.png
-网址：https://effulgent-kringle-368d41.netlify.app/
-缩图：https://unpkg.com/volantis-static@0.0.1660614606622/media/org.volantis/blog/Logo-NavBar@3x.png
+
+{% folding cyan open, 友链 %}
+
+{% radio checked, 名称：无影博客 ； %}
+{% radio checked, 网址：https://blog.wyblog1.tk/ ； %}
+{% radio checked, 站标：https://661111.github.io/media/images/custom-headerLogo.ico ； %}
+{% radio checked, 缩图：https://image.thum.io/get/width/1024/crop/768/https://effulgent-kringle-368d41.netlify.app ； %}
+
+
+{% endfolding %}
+
+{% folding cyan open, 申请友链 %}
+
+{% radio checked, 名称： ； %}
+{% radio checked, 网址： ； %}
+{% radio checked, 站标： ； %}
+{% radio checked, 缩图(可选)： ； %}
+
+
+{% endfolding %}

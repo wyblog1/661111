@@ -80,7 +80,7 @@ navbar:
           icon: fa-solid fa-subway
           url: https://travellings.link/
     - name: 深色模式
-      icon: fa-duotone fa-moon
+      icon: fa-solid fa-moon
       toggle: darkmode
     - name: 更多
       icon: fa-solid fa-ellipsis-v

@@ -105,7 +105,14 @@ navbar:
         - name: hr
         - name: artitalk
           icon: fa-solid fa-comments
-          url: artitalk/
+          rows: 
+             - name: 3.0.0
+               icon: fa-solid fa-comments
+               url: shuoshuo/
+             - name: hr  
+             - name: 3.3.0
+               icon: fa-solid fa-comments
+               url: artitalk/
         - name: bbtalk
           icon: fa-solid fa-comments
           url: bbtalk/  

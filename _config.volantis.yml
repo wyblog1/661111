@@ -301,7 +301,7 @@ Snackbar:
 # 第三方插件
 plugins:
   artitalk:
-    js: https://cdn.jsdelivr.net/npm/artitalk
+    js: https://unpkg.com/artitalk@1.2.0/artitalk.js
     appId: oPfRHBLWiKjiFAQj6HGh93Wc-MdYXbMMI
     appKey: 7fbMBsoQZA5oP21pzALjgqjG
     serverURL: https://artitalk.wyblog1.tk

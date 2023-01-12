@@ -416,7 +416,7 @@ bbtalk:
 artitalk:
   name: artitalk
   file: artitalk.js
-  version: 3.0.0
+  version: 1.4.1
   npm: true
   static: false
   cdnjs: false

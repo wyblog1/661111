@@ -63,7 +63,7 @@ navbar:
       icon: fa-solid fa-link
       rows:  
         - name: 友链
-          icon: fa-solid fa-link
+          icon: fa-duotone fa-user-group
           url: friends/  
         - name: 朋友圈
           icon: fa-solid fa-feed
@@ -104,18 +104,18 @@ navbar:
                url: tags/blibli-page-2/     
         - name: hr
         - name: artitalk
-          icon: fa-solid fa-message
+          icon: fa-duotone fa-message
           url: artitalk/
           rows: 
              - name: 3.0.0
-               icon: fa-solid fa-message
+               icon: fa-duotone fa-message
                url: shuoshuo/
              - name: hr  
              - name: 3.3.0
-               icon: fa-solid fa-message
+               icon: fa-duotone fa-message
                url: artitalk/
         - name: bbtalk
-          icon: fa-solid fa-comments
+          icon: fa-duotone fa-message
           url: bbtalk/  
         - name: hr  
         - name: 背景音乐
@@ -261,7 +261,7 @@ sidebar:
       fixed: ture # 固定宽度
       rows:
         - name: 友链
-          icon: fa-solid fa-link
+          icon: fa-duotone fa-user-group
           url: /friends/
         - name: 朋友圈
           icon: fa-solid fa-feed
@@ -279,10 +279,10 @@ sidebar:
           icon: fas fa-newspaper
           url: /xg/
         - name: artitalk
-          icon: fa-solid fa-comments
+          icon: fa-duotone fa-message
           url: /artitalk/
         - name: bbtalk
-          icon: fa-solid fa-comments
+          icon: fa-duotone fa-message
           url: /bbtalk/  
           
 search:

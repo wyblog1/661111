@@ -63,7 +63,7 @@ navbar:
       icon: fa-solid fa-link
       rows:  
         - name: 友链
-          icon: fa-solid fa-user-group
+          icon: fa-solid fa-paperclip
           url: friends/  
         - name: 朋友圈
           icon: fa-solid fa-feed
@@ -261,7 +261,7 @@ sidebar:
       fixed: ture # 固定宽度
       rows:
         - name: 友链
-          icon: fa-duotone fa-user-group
+          icon: fa-solid fa-paperclip
           url: /friends/
         - name: 朋友圈
           icon: fa-solid fa-feed
@@ -284,9 +284,6 @@ sidebar:
         - name: bbtalk
           icon: fa-solid fa-message
           url: /bbtalk/  
-        - name: 深色模式
-          icon: fa-light fa-moon
-          toggle: darkmode  
           
 search:
   enable: true

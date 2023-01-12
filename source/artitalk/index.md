@@ -5,3 +5,4 @@ layout: page
 sidebar: []
 plugins: ["artitalk"]
 ---
+> 如果您也想在该页面中发布说说，可以点击 [这里](https://blog.wyblog1.tk/says) 申请！

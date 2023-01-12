@@ -80,7 +80,7 @@ navbar:
           icon: fa-solid fa-subway
           url: https://travellings.link/
     - name: 深色模式
-      icon: fa-solid fa-moon
+      icon: fa-duotone fa-moon
       toggle: darkmode
     - name: 更多
       icon: fa-solid fa-ellipsis-v
@@ -276,7 +276,7 @@ sidebar:
           icon: fa-solid fa-message
           url: /messages/ 
         - name: 新冠疫情图
-          icon: fas fa-newspaper
+          icon: fa-solid fa-signal
           url: /xg/
         - name: artitalk
           icon: fa-duotone fa-message
@@ -284,6 +284,9 @@ sidebar:
         - name: bbtalk
           icon: fa-duotone fa-message
           url: /bbtalk/  
+        - name: 深色模式
+          icon: fa-duotone fa-moon
+          toggle: darkmode  
           
 search:
   enable: true

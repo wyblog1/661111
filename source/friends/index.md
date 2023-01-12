@@ -3,6 +3,16 @@ layout: page
 title: 心怀感恩，砥砺前行
 sidebar: []
 ---
+{% folding cyan open, 友链 %}
+
+{% radio checked, {% sites only:qz %}； %}
+{% radio checked, {% sites only:ny %}； %}
+{% radio checked, {% sites only:bthc %}； %}
+{% radio checked, {% sites only:dl %}； %}
+{% radio checked, {% sites only:pyq2d %}； %}
+{% radio checked, {% sites only:zlys %}； %}
+
+{% endfolding %}
 
 {% sites only:qz %}
 

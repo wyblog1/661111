@@ -322,6 +322,6 @@ plugins:
         亲亲: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/亲亲.png\',
         伞兵: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/伞兵.png\',
         倚墙笑: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/倚墙笑.png\'
-        值得肯定: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/值得肯定.png\'
+        HEO: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/值得肯定.png\'
         偷偷看: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/偷偷看.png\',
     }

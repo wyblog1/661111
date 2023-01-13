@@ -105,6 +105,9 @@ navbar:
         - name: artitalk demo页
           icon: fa-solid fa-message
           url: shuoshuo/  
+        - name: artitalk 相关条例
+          icon: fa-solid fa-message
+          url: says/  
         - name: hr  
         - name: 背景音乐
           icon: fa-solid fa-compact-disc    

@@ -11,7 +11,10 @@ sidebar: []
 new Artitalk({
     appId: 'WinQSxop8M1Og0VLU7GARdrp-MdYXbMMI', // Your LeanCloud appId
     appKey: 'Mdi3eZWzUPlGrBXKYbB4zEH4', // Your LeanCloud appKey
-    serverURL: 'https://ss.wyblog1.tk'
+    serverURL: 'https://ss.wyblog1.tk',
+    atEmoji: {
+        HEO: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/',
+    },
 })
 </script>
 

@@ -68,13 +68,6 @@ navbar:
         - name: 朋友圈
           icon: fa-solid fa-feed
           url: links/
-          rows:        
-             - name: 朋友圈模板1
-               icon: fa-solid fa-feed
-               url: links/
-             - name: 朋友圈模板2
-               icon: fa-solid fa-feed
-               url: fcircle/   
         - name: hr  
         - name: 开往
           icon: fa-solid fa-subway
@@ -106,19 +99,16 @@ navbar:
         - name: artitalk
           icon: fa-solid fa-message
           url: artitalk/
-          rows: 
-             - name: 3.0.0
-               icon: fa-solid fa-message
-               url: shuoshuo/
-             - name: hr  
-             - name: 3.3.0
-               icon: fa-solid fa-message
-               url: artitalk/
         - name: bbtalk
           icon: fa-solid fa-message
-          url: bbtalk/  
+          url: bbtalk/
+        - name: artitalk demo页
+          icon: fa-solid fa-message
+          url: shuoshuo/  
         - name: hr  
-        - name: 背景音乐
+        - name: 背景音乐- name: artitalk demo页
+               icon: fa-solid fa-message
+               url: shuoshuo/
           icon: fa-solid fa-compact-disc    
           
 site_footer:
@@ -283,7 +273,10 @@ sidebar:
           url: /artitalk/
         - name: bbtalk
           icon: fa-solid fa-message
-          url: /bbtalk/  
+          url: /bbtalk/ 
+        - name: artitalk demo页
+          icon: fa-solid fa-message
+          url: /shuoshuo/  
           
 search:
   enable: true

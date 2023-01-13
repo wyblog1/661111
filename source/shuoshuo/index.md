@@ -15,6 +15,7 @@ new Artitalk({
 })
 </script>
 
->此页面为artitalk demo页
+>此页面为artitalk demo页,是为大家方便发布说说的地方,如果你的主题未适配artitalk,可将代码复制到你的网站.
 >用户名：test
 >密码：123456
+>请大家了解[发布说说的相关条例,后续会依照国家法律完善相关条例,](https://blog.wyblog1.tk/says),违反此条例的,将会删除违法条例的说说

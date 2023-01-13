@@ -311,3 +311,17 @@ plugins:
     color1: 'linear-gradient(90deg,rgba(247,149,51,.1) 0,rgba(243,112,85,.1) 15%,rgba(239,78,123,.1) 30%,rgba(161,102,171,.1) 44%,rgba(80,115,184,.1) 58%,rgba(16,152,173,.1) 72%,rgba(7,179,155,.1) 86%,rgba(109,186,130,.1) 100%)' #说说背景颜色1&按钮颜色1
     color2: 'linear-gradient(90deg,rgba(247,149,51,.1) 0,rgba(243,112,85,.1) 15%,rgba(239,78,123,.1) 30%,rgba(161,102,171,.1) 44%,rgba(80,115,184,.1) 58%,rgba(16,152,173,.1) 72%,rgba(7,179,155,.1) 86%,rgba(109,186,130,.1) 100%)' #说说背景颜色2&按钮颜色2
     color3: '#5e5e5e'
+    atEmoji: {         
+        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/害羞.png\'
+        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/3d眼镜.png\'
+        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/EDG.png\'
+        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/LPL.png\'
+        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/beluga.png\'
+        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/不好意思.png\'
+        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/不服吗.png\'
+        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/亲亲.png\'
+        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/伞兵.png\'
+        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/倚墙笑.png\'
+        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/值得肯定.png\'
+        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/偷偷看.png\',
+    }

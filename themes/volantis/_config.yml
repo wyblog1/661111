@@ -188,15 +188,23 @@ cover:
     - name: 日报
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
-      url: https://news.wyblog1.tk  
-    - name: 朋友圈
+      url: https://news.wyblog1.tk
+    - name: artitalk
       icon: #
-      img: https://api.champhoon.xyz/asset/svg/1f375.svg # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
-      url: /links/
+      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0.2/assets/svg/1f3b9.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
+      url: /artitalk/
+    - name: bbtalk
+      icon: #
+      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0.2/assets/svg/1f58d.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
+      url: /bbtalk/   
     - name: 开往
       icon: #
       img: https://api.champhoon.xyz/asset/svg/1f9ed.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
       url: https://travellings.link/
+    - name: 朋友圈
+      icon: #
+      img: https://api.champhoon.xyz/asset/svg/1f375.svg # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
+      url: /links/
 ############################### Cover ############################### > end
 
 pages:

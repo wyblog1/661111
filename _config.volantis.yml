@@ -106,9 +106,7 @@ navbar:
           icon: fa-solid fa-message
           url: shuoshuo/  
         - name: hr  
-        - name: 背景音乐- name: artitalk demo页
-               icon: fa-solid fa-message
-               url: shuoshuo/
+        - name: 背景音乐
           icon: fa-solid fa-compact-disc    
           
 site_footer:

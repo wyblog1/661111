@@ -1,7 +1,6 @@
 ---
-title: 天闲无影的artitalk
-date: 2022-04-28 10:08:12
-layout: page
+title: artitalk demo 测试页
+date: 2023-01-13 10:47:12
 sidebar: []
 ---
 <!-- 引用 artitalk -->

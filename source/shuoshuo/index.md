@@ -13,7 +13,7 @@ new Artitalk({
     appKey: 'Mdi3eZWzUPlGrBXKYbB4zEH4', // Your LeanCloud appKey
     serverURL: 'https://ss.wyblog1.tk',
     atEmoji: {
-        HEO: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/',
+        PEN: 'https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0.2/assets/svg/1f58d.svg',
     },
 })
 </script>

@@ -313,7 +313,7 @@ plugins:
     color3: '#5e5e5e'
     atEmoji: {         
         害羞: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/害羞.png\'
-        3d眼镜: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/3d眼镜.png\'
+        眼镜: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/3d眼镜.png\'
         EDG: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/EDG.png\'
         LPL: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/LPL.png\'
         beluga: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/beluga.png\'

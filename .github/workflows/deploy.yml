@@ -19,7 +19,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: '16'
+          node-version: '18'
 
       - name: Setup Hexo
         env:
@@ -42,5 +42,4 @@ jobs:
           hexo bangumi -u
           hexo cinema -u
           hexo generate
-          gulp
           hexo deploy

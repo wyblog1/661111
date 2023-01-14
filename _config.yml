@@ -82,8 +82,8 @@ theme: volantis
 deploy:
   type: git
   repo: 
-    github: git@github.com:612901/612901.github.io.git
-  branch: main
+    github: https://github.com:612901/612901.git
+  branch: master
 
 search:
   path: content.json

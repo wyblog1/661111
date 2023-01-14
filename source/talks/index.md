@@ -7,4 +7,6 @@ sidebar: []
 <script src="https://unpkg.com/browse/qexo-static@1.5.0/hexo/talks.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/browse/qexo-static@1.5.0/hexo/talks.css">
 <div id="qexot"></div>
-<script>showQexoTalks("qexot", "https://qexo.wyblog1.tk", 5)</script>
+<script>
+  showQexoTalks("qexot","https://qexo.wyblog1.tk",5)
+</script>

@@ -96,6 +96,10 @@ navbar:
                icon: fa-solid fa-comment fa-fw 
                url: tags/blibli-page-2/     
         - name: hr
+        - name: 空调
+          icon: fa-regular fa-fan
+          url: conditioner/
+        - name: hr
         - name: artitalk
           icon: fa-solid fa-message
           url: artitalk/

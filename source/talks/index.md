@@ -12,12 +12,12 @@ sidebar: []
 <script>
   qexoDaodao
     ?.init({
-      el: "#qexo",
+      el: "qexo",
       avatar: "https://www.wyblog1.tk/media/images/custom-headerLogo.ico",
       name: "无影",
       limit: 10,
-      fromColor: "#000000",
-      useLoadingImg: false,
+      fromColor: "#000a85",
+      useLoadingImg: ture,
       baseURL: "https://qexo.wyblog1.tk/",
     })
     .then(function () {

@@ -84,9 +84,9 @@ deploy:
   # 仓库地址
   repo: 
     # gitee: https://gitee.com/sakurasep/sakurasep.git
-    github: git@github.com:612901/612901.github.io.git
+    github: 
   # 仓库分支
-  branch: master
+  branch: 
 
 search:
   path: content.json

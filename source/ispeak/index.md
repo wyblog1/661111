@@ -4,7 +4,7 @@ date: 2022-08-21 14:11:00
 update: 2022-08-21 14:11:00
 top_img: https://tva1.sinaimg.cn/large/005B3XPgly1ghkxqgvmy0j30zk0irn2q.jpg
 aside: false
-comments: false
+comments: ture
 ---
 <div id="tip" style="text-align:center;">ipseak加载中</div>
 <div id="ispeak"></div>
@@ -34,19 +34,7 @@ comments: false
         api: 'https://kkapi.wyblog1.tk/',
         author: '63c28a71aa610fa0dc9b6f1a',
         pageSize: 10,
-        loading_img: 'https://bu.dusays.com/2021/03/04/d2d5e983e2961.gif',
-        comment: function (speak) {
-          // 4.4.0 之后在此回调函数中初始化评论
-          const { _id, title, content } = speak
-          const contentSub = content.substring(0, 30)
-          twikoo.init({
-            el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
-            pageKey: '/speak/info.html?q=' + _id, // 手动传入当前speak的唯一id
-            pageTitle: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
-            envId: 'https://twikoo.wyblog1.tk',
-            site: 'speak' // 你的站点名
-          })
-        }
+        loading_img: 'https://bu.dusays.com/2021/03/04/d2d5e983e2961.gif'
       })
       .then(function () {
         console.log('ispeak 加载完成')

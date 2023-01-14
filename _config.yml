@@ -80,7 +80,10 @@ theme: volantis
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: 
+    github: https://github.com/612901/612901.github.io.git
+  branch: main
 
 search:
   path: content.json

@@ -30,8 +30,8 @@ jobs:
           chmod 700 ~/.ssh
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan github.com >> ~/.ssh/known_hosts
-          git config --global user.email "3227988255@qq.com"
           git config --global user.name "612901"
+          git config --global user.email "3227988255@qq.com"
           npm config set registry https://registry.npm.taobao.org
           npm install hexo-cli -g
           npm install

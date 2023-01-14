@@ -7,7 +7,6 @@
   },
   "dependencies": {
     "hexo": "^5.4.2",
-    "hexo-bilibili-bangumi": "^1.7.4",
     "hexo-generator-feed": "^3.0.0",
     "hexo-generator-search": "^1.0.0",
     "hexo-wordcount": "^1.0.0",

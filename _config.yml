@@ -82,7 +82,7 @@ theme: volantis
 deploy:
   type: git
   repo: 
-    github: https://github.com/612901/612901.github.io.git
+    github: git@github.com:612901/612901.github.io.git
   branch: main
 
 search:

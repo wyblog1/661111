@@ -24,5 +24,11 @@
   "scripts": {
     "dev": "hexo server -p $PORT",
     "build": "hexo generate"
-  }
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "babel-plugin-transform-remove-strict-mode": "^0.0.2",
+    "gulp-babel": "^8.0.0"
+  }   
 }

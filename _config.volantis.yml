@@ -49,16 +49,16 @@ navbar:
       icon: fas fa-info-circle fa-fw
       rows:
         - name: 版权声明
-          url: 2022/09/17/copyright/
-        - name: hr  
+          url: 2022/09/17/copyright/  
         - name: 免责声明
           url: 2022/09/17/mian-ze-sheng-ming-1/
-        - name: hr  
         - name: 关于本站
           url: 2022/09/24/list/
-        - name: hr  
         - name: 关于
-          url: /about/   
+          url: /about/
+        - name: hr 
+        - name: 后台
+          url: https://qexo.wyblog1.tk    
     - name: 小功能
       icon: fa-solid fa-link
       rows:  
@@ -111,7 +111,10 @@ navbar:
           url: shuoshuo/  
         - name: artitalk 相关条例
           icon: fa-solid fa-message
-          url: says/  
+          url: says/
+        - name: ispeak
+          icon: fa-solid fa-message
+          url: ispeak/  
         - name: hr  
         - name: 背景音乐
           icon: fa-solid fa-compact-disc    

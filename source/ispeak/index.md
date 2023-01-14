@@ -39,11 +39,11 @@ comments: false
           // 4.4.0 之后在此回调函数中初始化评论
           const { _id, title, content } = speak
           const contentSub = content.substring(0, 30)
-          new Artalk({
+          twikoo.init({
             el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
             pageKey: '/speak/info.html?q=' + _id, // 手动传入当前speak的唯一id
             pageTitle: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
-            server: 'https://twikoo.wyblog1.tk',
+            envId: 'https://twikoo.wyblog1.tk',
             site: 'speak' // 你的站点名
           })
         }

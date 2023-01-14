@@ -81,8 +81,11 @@ theme: volantis
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
+  # 仓库地址
   repo: 
-    github: https://github.com:612901/612901.git
+    # gitee: https://gitee.com/sakurasep/sakurasep.git
+    github: git@github.com:612901/612901.github.io.git
+  # 仓库分支
   branch: master
 
 search:

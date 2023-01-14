@@ -17,7 +17,7 @@ sidebar: []
       name: "无影",
       limit: 10,
       fromColor: "#000a85",
-      useLoadingImg: ture,
+      useLoadingImg: true,
       baseURL: "https://qexo.wyblog1.tk/",
     })
     .then(function () {

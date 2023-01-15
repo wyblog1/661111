@@ -106,9 +106,6 @@ navbar:
         - name: bbtalk
           icon: fa-solid fa-message
           url: bbtalk/
-        - name: artitalk demo页
-          icon: fa-solid fa-message
-          url: shuoshuo/  
         - name: artitalk 相关条例
           icon: fa-solid fa-message
           url: says/
@@ -282,9 +279,9 @@ sidebar:
         - name: bbtalk
           icon: fa-solid fa-message
           url: /bbtalk/ 
-        - name: artitalk demo页
+        - name: ispeak
           icon: fa-solid fa-message
-          url: /shuoshuo/  
+          url: /ispeak/  
           
 search:
   enable: true

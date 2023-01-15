@@ -21,6 +21,10 @@ sidebar: []
 <script src="https://cdn.staticfile.org/highlight.js/10.6.0/highlight.min.js"></script>
 <script src="https://cdn.staticfile.org/marked/2.0.0/marked.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.css"
+/>
 <!-- JS -->
 <script src="https://cdn.staticfile.org/twikoo/1.6.8/twikoo.all.min.js"></script>
 <script>

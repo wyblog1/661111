@@ -1,13 +1,18 @@
 ---
-title: ispeak
-top_img: false
-comments: false
-date: 2023-01-15 20:00:00
-translate_title: speak
-subtitle: Speak
+title: Speak
+date: 2022-08-21 14:11:00
+update: 2022-08-21 14:11:00
+top_img: https://tva1.sinaimg.cn/large/005B3XPgly1ghkxqgvmy0j30zk0irn2q.jpg
 aside: false
+comments: false
+description: 欢迎来到无影的Speak页面，快来看看无影分享了什么speak！
 sidebar: []
 ---
+<div class="btn-center">
+{% btn 'https://biubiu.wyblog1.tk', 发表短文,fa-regular fa-message,outline green larger %}
+{% btn 'https://ispeak.wyblog1.tk/#/ispeak/list', 管理短文,fa-solid fa-user-pen,outline green larger %}
+</div>
+
 <div id="tip" style="text-align:center;">ipseak加载中</div>
 <div id="ispeak"></div>
 <link
@@ -18,7 +23,7 @@ sidebar: []
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/style.css"
 />
-
+{% btn 'https://blog.wyblog1.tk/ispeak/', 查看全部,far fa-hand-point-right,block center blue larger %}
 <script src="https://cdn.staticfile.org/highlight.js/10.6.0/highlight.min.js"></script>
 <script src="https://cdn.staticfile.org/marked/2.0.0/marked.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>

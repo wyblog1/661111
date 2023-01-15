@@ -26,7 +26,7 @@ sidebar: []
   href="https://cdn.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.css"
 />
 <!-- JS -->
-<script src="https://cdn.staticfile.org/twikoo/1.6.8/twikoo.all.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.min.js"></script>
 <script>
   var head = document.getElementsByTagName('head')[0]
   var meta = document.createElement('meta')

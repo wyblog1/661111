@@ -75,6 +75,6 @@ sidebar: []
 </script>
 
 <div class="btn-center">
-{% btn 'https://ispeak-biubiu.ccknbc.cc', 发表短文,https://ispeak-biubiu.ccknbc.cc ,outline green larger %}
-{% btn 'https://kkadmin.ccknbc.cc/#/ispeak/list', 管理短文,https://kkadmin.ccknbc.cc/#/ispeak/list ,outline green larger %}
+{% btn 'https://ispeak-biubiu.ccknbc.cc', 发表短文,https://biubiu.wyblog1.tk ,outline green larger %}
+{% btn 'https://kkadmin.ccknbc.cc/#/ispeak/list', 管理短文,https://ispeak.wyblog1.tk/#/ispeak/list ,outline green larger %}
 </div>

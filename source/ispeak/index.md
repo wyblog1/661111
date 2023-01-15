@@ -20,7 +20,13 @@ sidebar: []
 <!-- JS -->
 <script src="https://jsd.cdn.zzko.cn/npm/@waline/client/dist/waline.min.js"></script>
 <script>
-ispeak
+  var head = document.getElementsByTagName('head')[0]
+  var meta = document.createElement('meta')
+  meta.name = 'referrer'
+  meta.content = 'no-referrer'
+  head.appendChild(meta)
+  if (ispeak) {
+    ispeak
       .init({
         el: '#ispeak',
         api: 'https://kkapi.wyblog1.tk/',

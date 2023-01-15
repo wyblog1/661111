@@ -8,11 +8,20 @@ subtitle: Speak
 aside: false
 sidebar: []
 ---
-<div id='speak'></speak>
-<!-- 使用markdown渲染 -->
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/ispeak-bber/ispeak-bber-md.min.js" charset="utf-8" ></script>
-<!-- 解析微信表情（参考：https://github.com/buddys/qq-wechat-emotion-parser） -->
-<script src="https://cdn.jsdelivr.net/gh/buddys/qq-wechat-emotion-parser@master/dist/qq-wechat-emotion-parser.min.js">
+<div id="tip" style="text-align:center;">ipseak加载中</div>
+<div id="ispeak"></div>
+<link
+  rel="stylesheet"
+  href="https://cdn.staticfile.org/highlight.js/10.6.0/styles/atom-one-dark.min.css"
+/>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/style.css"
+/>
+
+<script src="https://cdn.staticfile.org/highlight.js/10.6.0/highlight.min.js"></script>
+<script src="https://cdn.staticfile.org/marked/2.0.0/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>
 <link
   rel="stylesheet"
   href="https://jsd.cdn.zzko.cn/npm/@waline/client/dist/waline.min.css"

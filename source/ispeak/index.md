@@ -23,7 +23,6 @@ sidebar: []
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/style.css"
 />
-{% btn 'https://blog.wyblog1.tk/ispeak/', 查看全部,far fa-hand-point-right,block center blue larger %}
 <script src="https://cdn.staticfile.org/highlight.js/10.6.0/highlight.min.js"></script>
 <script src="https://cdn.staticfile.org/marked/2.0.0/marked.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>

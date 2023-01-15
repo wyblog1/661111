@@ -23,7 +23,7 @@ aside: false
   const searchParams = new URLSearchParams(window.location.search);
   const speakId = searchParams.get('q');
   const path = window.location.pathname;
-  const apiURL = 'https://kkapi.wyblog1.tk';
+  const apiURL = 'https://kkapi.wyblog1.tk/api/ispeak';
   const markedRender = (body, loading_img='https://bu.dusays.com/2022/05/01/626e88f349943.gif') => {
     const renderer = {
       image(href, title, text) {

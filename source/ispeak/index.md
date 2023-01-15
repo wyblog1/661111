@@ -8,11 +8,6 @@ comments: false
 description: 欢迎来到无影的Speak页面，快来看看无影分享了什么speak！
 sidebar: []
 ---
-<div class="btn-center">
-{% btn, fa-message,outline green larger,'https://ispeak-biubiu.ccknbc.cc', 发表短文}
-{% btn, fa-user-pen,outline green larger,outline green larger,'https://kkadmin.ccknbc.cc/#/ispeak/list', 管理短文}
-</div>
-
 <div id="tip" style="text-align:center;">ipseak加载中</div>
 <div id="ispeak"></div>
 <link
@@ -78,3 +73,8 @@ sidebar: []
     document.getElementById('tip').innerHTML = 'ipseak依赖加载失败！'
   }
 </script>
+
+<div class="btn-center">
+{% btn 'https://ispeak-biubiu.ccknbc.cc', 发表短文,fa-regular fa-message}
+{% btn 'https://kkadmin.ccknbc.cc/#/ispeak/list', 管理短文,fa-solid fa-user-pen}
+</div>

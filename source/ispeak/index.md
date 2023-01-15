@@ -8,11 +8,6 @@ comments: false
 description: 欢迎来到无影的Speak页面，快来看看无影分享了什么speak！
 sidebar: []
 ---
-<div class="btn-center">
-{% btn 'https://biubiu.wyblog1.tk', 发表短文}
-{% btn 'https://ispeak.wyblog1.tk/#/ispeak/list', 管理短文}
-</div>
-
 <div id="tip" style="text-align:center;">ipseak加载中</div>
 <div id="ispeak"></div>
 <link

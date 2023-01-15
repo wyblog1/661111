@@ -7,18 +7,12 @@ translate_title: speak
 subtitle: Speak
 aside: false
 ---
-<div class="btn-center">
-{% btn 'https://ispeak-biubiu.ccknbc.cc',发表短文,fa-regular fa-message,outline green larger %}
-{% btn 'https://ispeak.wyblog1.tk/#/ispeak/list',管理短文,fa-solid fa-user-pen,outline green larger %}
-</div>
-
 <!-- CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.css"/>
 <link rel="stylesheet" href="https://jsd.cdn.zzko.cn/npm/highlight.js/styles/atom-one-dark.min.css" />
 <div class='content'>
   <img src='https://bu.dusays.com/2022/05/01/626e88f349943.gif'>
 </div>
-{% btn 'https://blog.wyblog1.tk/ispeak/',查看全部,far fa-hand-point-right,block center blue larger %}
 <hr />
 <div class='ispeak-comment'></div>
 <!-- JS -->

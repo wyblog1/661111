@@ -25,10 +25,10 @@ sidebar: []
 <!-- CSS -->
 <link
   rel="stylesheet"
-  href="https://jsd.cdn.zzko.cn/npm/@waline/client/dist/waline.min.css"
+  href="https://cdn.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.min.js"
 />
 <!-- JS -->
-<script src="https://jsd.cdn.zzko.cn/npm/@waline/client/dist/waline.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.min.js"></script>
 <script>
   var head = document.getElementsByTagName('head')[0]
   var meta = document.createElement('meta')
@@ -49,7 +49,7 @@ sidebar: []
           // 4.4.0 之后在此回调函数中初始化评论
           const { _id, title, content } = speak
           const contentSub = content.substring(0, 30)
-          Waline.init({
+          twikoo.init({
             el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
             title: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
             envId: 'https://twikoo.wyblog1.tk',

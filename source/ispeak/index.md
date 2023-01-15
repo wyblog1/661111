@@ -50,7 +50,7 @@ sidebar: []
           twikoo.init({
             el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
             title: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
-            serverURL: 'https://twikoo.wyblog1.tk',
+            envId: 'https://twikoo.wyblog1.tk',
             pageSize: 10,
             requiredMeta: ["nick", "mail"],
             login: 'enable',

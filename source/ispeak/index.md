@@ -66,8 +66,11 @@ sidebar: []
           })
         }
       })
-    .then(function() {
-      // 哔哔加载完成后的回调函数，你可以写你自己的功能
-      console.log('哔哔 加载完成')
-    })
+      .then(function () {
+        console.log('ispeak 加载完成')
+        document.getElementById('tip').style.display = 'none'
+      })
+  } else {
+    document.getElementById('tip').innerHTML = 'ipseak依赖加载失败！'
+  }
 </script>

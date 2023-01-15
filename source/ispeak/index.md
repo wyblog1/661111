@@ -21,12 +21,8 @@ sidebar: []
 <script src="https://cdn.staticfile.org/highlight.js/10.6.0/highlight.min.js"></script>
 <script src="https://cdn.staticfile.org/marked/2.0.0/marked.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>
-<link
-  rel="stylesheet"
-  href="https://jsd.cdn.zzko.cn/npm/@waline/client/dist/waline.min.css"
-/>
 <!-- JS -->
-<script src="https://jsd.cdn.zzko.cn/npm/@waline/client/dist/waline.min.js"></script>
+<script src="https://cdn.staticfile.org/twikoo/1.6.8/twikoo.all.min.js"></script>
 <script>
   var head = document.getElementsByTagName('head')[0]
   var meta = document.createElement('meta')
@@ -76,5 +72,5 @@ sidebar: []
 
 <div class="btn-center">
 {% btn 'https://ispeak-biubiu.ccknbc.cc', 发表短文,https://biubiu.wyblog1.tk ,outline green larger %}
-{% btn 'https://kkadmin.ccknbc.cc/#/ispeak/list', 管理短文,https://ispeak.wyblog1.tk/#/ispeak/list ,outline green larger %}
+{% btn 'https://kkadmin.ccknbc.cc/#/ispeak/list', 管理短文,https://kkadmin.wyblog1.tk/#/ispeak/list ,outline green larger %}
 </div>

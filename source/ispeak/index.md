@@ -1,11 +1,12 @@
 ---
-title: 短文
+title: ispeak
 top_img: false
 comments: false
 date: 2023-01-15 20:00:00
 translate_title: speak
 subtitle: Speak
 aside: false
+sidebar: []
 ---
 <div id="tip" style="text-align:center;">ipseak加载中</div>
 <div id="ispeak"></div>
@@ -50,8 +51,7 @@ aside: false
           const contentSub = content.substring(0, 30)
           Waline.init({
             el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
-            path: '/essay/speak?q=' + _id, // 手动传入当前speak的唯一id
-            title: 短文 || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
+            title: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
             envId: 'https://twikoo.wyblog1.tk',
             pageSize: 10,
             requiredMeta: ["nick", "mail"],

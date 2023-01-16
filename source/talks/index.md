@@ -10,7 +10,7 @@ updated: 2023-01-16 20:16:50
 <div id="qexot"></div>
 <script>
   new showQexoTalks(
-      el: 'qexot', 
+      el: 'qexotalks', 
       SITE：'https://qexo.wyblog1.tk/talks.html',
       pageSize: 5
   )

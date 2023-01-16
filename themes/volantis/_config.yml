@@ -163,7 +163,7 @@ cover:
   height_scheme: full # full, half
   layout_scheme: dock # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
   display:
-    home: true
+    home: false
     archive: true
     others: false # can be written in front-matter 'cover: true'
   background: https://gcore.jsdelivr.net/gh/MHG-LAB/cron@gh-pages/bing/bing.jpg
@@ -836,34 +836,12 @@ plugins:
  
   # 视差滚动效果 Slide Background
   parallax:
-    enable: true
+    enable: false
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.
     shuffle: true         # shuffle playlist
     duration: 100000       # Duration (ms)
     fade: 150000            # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-      - https://cdn-us.imgs.moe/2023/01/16/63c503ffe6881.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c503ffe497a.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c503fff2535.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c5040018046.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c5040021bde.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c504006aed7.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c5040078c36.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c504007ec45.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c5040088ab3.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c5040093275.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c50401c3d80.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c50401dabd6.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c50402110a6.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c5040215fa2.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c504c197724.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c504c2e7e22.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c504c32fa58.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c504c323533.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c504c335957.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c504c341e7e.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c504c35d633.jpg
-      - https://cdn-us.imgs.moe/2023/01/16/63c504c35ff01.jpg
       
   # APlayer is only available in mainland China.
   # https://aplayer.js.org/#/zh-Hans/

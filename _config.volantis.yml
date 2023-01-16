@@ -286,14 +286,6 @@ sidebar:
 search:
   enable: true
   service: hexo
-cover:
-  enable: false
-  height_scheme: full
-  layout_scheme: dock
-  display:
-    home: true
-    archive: true
-    others: true
 top:
   enable: false
   height_scheme: full

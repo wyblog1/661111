@@ -25,7 +25,7 @@ navbar:
     title: '天闲无影的博客'
   menu:
     - name: 博客
-      icon: fa-solid fa-rss
+      icon: fa-regular fa-house
       rows:
         - name: 归档
           icon: fa-solid fa-archive
@@ -77,6 +77,9 @@ navbar:
         - name: qexo talks
           icon: fa-solid fa-message
           url: talks/  
+    - name: 深色模式
+      icon: fa-solid fa-moon
+      toggle: darkmode 
     - name: 更多
       icon: fa-solid fa-ellipsis-v
       rows: 
@@ -102,9 +105,6 @@ navbar:
           icon: fa-solid fa-fan
           url: conditioner/ 
         - name: hr
-        - name: 深色模式
-          icon: fa-solid fa-moon
-          toggle: darkmode 
         - name: 背景音乐
           icon: fa-solid fa-compact-disc      
     

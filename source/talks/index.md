@@ -8,4 +8,4 @@ updated: 2023-01-16 20:16:50
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/qexo-static@1.5.0/hexo/talks.min.css">
 <div id="qexot"></div>
-<script>showQexoTalks("qexot", "${SITE}", 5)</script>
+<script>showQexoTalks("qexot", "https://qexo.wyblog1.tk/talks.html", 5)</script>

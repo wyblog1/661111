@@ -842,7 +842,20 @@ plugins:
     duration: 10000       # Duration (ms)
     fade: 1500            # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-      - https://cdn.jsdelivr.net/gh/612901/661111@main/5fb75ed11e3c54a0175e4332b5a63fb8ec025c21_5fb75ed187763b29bb9941389d856d48aaedc56e.jpg
+      - https://cdn-us.imgs.moe/2023/01/16/63c503ffe6881.jpg
+      - https://cdn-us.imgs.moe/2023/01/16/63c503ffe497a.jpg
+      - https://cdn-us.imgs.moe/2023/01/16/63c503fff2535.jpg
+      - https://cdn-us.imgs.moe/2023/01/16/63c5040018046.jpg
+      - https://cdn-us.imgs.moe/2023/01/16/63c5040021bde.jpg
+      - https://cdn-us.imgs.moe/2023/01/16/63c504006aed7.jpg
+      - https://cdn-us.imgs.moe/2023/01/16/63c5040078c36.jpg
+      - https://cdn-us.imgs.moe/2023/01/16/63c504007ec45.jpg
+      - https://cdn-us.imgs.moe/2023/01/16/63c5040088ab3.jpg
+      - https://cdn-us.imgs.moe/2023/01/16/63c5040093275.jpg
+      - https://cdn-us.imgs.moe/2023/01/16/63c50401c3d80.jpg
+      - https://cdn-us.imgs.moe/2023/01/16/63c50401dabd6.jpg
+      - https://cdn-us.imgs.moe/2023/01/16/63c50402110a6.jpg
+      - https://cdn-us.imgs.moe/2023/01/16/63c5040215fa2.jpg
       
   # APlayer is only available in mainland China.
   # https://aplayer.js.org/#/zh-Hans/

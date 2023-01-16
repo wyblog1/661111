@@ -42,7 +42,7 @@ sidebar: []
         pageSize: 10,
         loading_img: 'https://bu.dusays.com/2021/03/04/d2d5e983e2961.gif',
         fromColor:'rgb(245, 150, 170)', // 下方标签背景颜色 默认 rgb(245, 150, 170)
-        author: 天闲无影, // 显示的昵称
+        author: string, // 显示的昵称
         comment: function (speak) {
           // 4.4.0 之后在此回调函数中初始化评论
           const { _id, title, content } = speak

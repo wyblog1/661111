@@ -24,60 +24,40 @@ navbar:
     icon: https://661111.github.io/media/images/custom-headerLogo.ico
     title: '天闲无影的博客'
   menu:
-    - name: 分类
-      icon: fa-solid fa-folder-open
-      rows:    
-        - name: bilbil
+    - name: 博客
+      icon: fa-solid fa-rss
+      rows:
+        - name: 归档
+          icon: fa-solid fa-archive
+          url: archives/
+        - name: 分类
           icon: fa-solid fa-folder-open
-          url: tags/blibli/
-        - name: hr  
-        - name: 学科
-          icon: fa-solid fa-folder-open
-          url: tags/学科/ 
-        - name: hr  
-        - name: bilbilpage2
-          icon: fa-solid fa-folder-open
-          url: tags/blibli-page-2/
-        - name: hr  
-        - name: 相册集
-          icon: fa-solid fa-folder-open
-          url: tags/相册/    
-    - name: 归档
-      icon: fa-solid fa-archive
-      url: archives/
-    - name: 关于
+          rows:    
+          - name: bilbil
+            icon: fa-solid fa-folder-open
+            url: tags/blibli/
+          - name: hr  
+          - name: 学科
+            icon: fa-solid fa-folder-open
+            url: tags/学科/ 
+          - name: hr  
+          - name: bilbilpage2
+            icon: fa-solid fa-folder-open
+            url: tags/blibli-page-2/
+          - name: hr  
+          - name: 相册集
+            icon: fa-solid fa-folder-open
+            url: tags/相册/    
+    - name: 导航
       icon: fas fa-info-circle fa-fw
       rows:
-        - name: 版权声明
-          url: 2022/09/17/copyright/  
-        - name: 免责声明
-          url: 2022/09/17/mian-ze-sheng-ming-1/
-        - name: 关于本站
-          url: 2022/09/24/list/
-        - name: 关于
-          url: /about/
-        - name: hr 
-        - name: 后台
-          url: https://qexo.wyblog1.tk    
-    - name: 小功能
-      icon: fa-solid fa-link
-      rows:  
         - name: 友链
           icon: fa-solid fa-paperclip
           url: friends/  
-        - name: 朋友圈
+        - name: 朋友的文章
           icon: fa-solid fa-feed
           url: links/
         - name: hr  
-        - name: 开往
-          icon: fa-solid fa-subway
-          url: https://travellings.link/
-    - name: 深色模式
-      icon: fa-solid fa-moon
-      toggle: darkmode
-    - name: 说说
-      icon: fa-solid fa-message
-      rows:
         - name: artitalk
           icon: fa-solid fa-message
           url: artitalk/
@@ -89,10 +69,14 @@ navbar:
           url: says/
         - name: ispeak
           icon: fa-solid fa-message
-          url: ispeak/
+          url: ispeak/          
+        - name: hr 
+        - name: hexo后台
+          icon: fa-solid fa-fan
+          url: https://qexo.wyblog1.tk
         - name: qexo talks
           icon: fa-solid fa-message
-          url: talks/             
+          url: talks/  
     - name: 更多
       icon: fa-solid fa-ellipsis-v
       rows: 
@@ -117,7 +101,10 @@ navbar:
         - name: 空调
           icon: fa-solid fa-fan
           url: conditioner/ 
-        - name: hr  
+        - name: hr
+        - name: 深色模式
+          icon: fa-solid fa-moon
+          toggle: darkmode 
         - name: 背景音乐
           icon: fa-solid fa-compact-disc      
     

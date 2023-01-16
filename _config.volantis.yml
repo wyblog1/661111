@@ -227,7 +227,7 @@ sidebar:
           unit: '篇'
         runtime:
           enable: ture
-          data: '2021/09/01'    # 填写建站日期
+          data: '2021/09/03'    # 填写建站日期
           text: '已运行时间：'
           unit: '天'
         wordcount:

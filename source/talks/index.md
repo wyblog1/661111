@@ -4,14 +4,24 @@ sidebar: []
 title: talk
 updated: 2023-01-16 20:16:50
 ---
-<script src="https://unpkg.com/browse/qexo-static@1.5.0/hexo/talks.js"></script>
-<script src="https://unpkg.com/jquery@3.6.0/dist/jquery.min.js"></script>
-<link rel="stylesheet" href="https://unpkg.com/browse/qexo-static@1.5.0/hexo/talks.css">
-<div id="qexot"></div>
-<script>
-  new showQexoTalks(
-      el: 'qexotalks', 
-      SITE：'https://qexo.wyblog1.tk/talks.html',
-      pageSize: 5
-  )
-</script>
+<head>
+  <!-- ... -->
+  <script src="//cdn.jsdelivr.net/gh/Uyoahz26/daodao@main/dist/qexo-dao.min.js"></script>
+  <!-- ... -->
+</head>
+<body>
+  <!-- ... -->
+  <div id="qexoDaoDao"></div>
+  <script>
+    qexoDaodao?.init({
+      el: "#qexoDaoDao",
+      avatar: "https://q1.qlogo.cn/g?b=qq&nk=2496091142&s=640",
+      name: "UyoAhz",
+      limit: 10,
+      useLoadingImg: false,
+      baseURL: "https://admin.uyoahz.cn/",
+    }).then(function (){
+      console.log("qexoDaodao加载完成");
+    })
+  </script>
+</body>

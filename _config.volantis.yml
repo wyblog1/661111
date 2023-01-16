@@ -25,7 +25,7 @@ navbar:
     title: '天闲无影的博客'
   menu:
     - name: 博客
-      icon: fa-regular fa-house
+      icon: fa-solid fa-house
       rows:
         - name: 归档
           icon: fa-solid fa-archive

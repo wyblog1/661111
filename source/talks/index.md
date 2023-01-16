@@ -19,7 +19,7 @@ updated: 2023-01-16 20:16:50
       name: "UyoAhz",
       limit: 10,
       useLoadingImg: false,
-      baseURL: "https://admin.uyoahz.cn/",
+      baseURL: "https://qexo.wyblog1.tk",
     }).then(function (){
       console.log("qexoDaodao加载完成");
     })

@@ -1,61 +1,44 @@
-name: ChenYFanのHexoBlogBuild
-'on':
-  - workflow_dispatch
-  - push
+name: Hexo Deploy
+
+on:
+  push:
+    branches:
+      - main
+
 jobs:
-  buildstatic:
-    runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-20.04
+    if: github.event.repository.owner.id == github.event.sender.id
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Setup node
+      - name: Checkout source
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: 12.x
-      - name: Cache node modules
-        uses: actions/cache@v1
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-      - name: Install & Build
-        run: >
-          npm install -g hexo-cli
-          npm i
-          # Restore last modified time
-          git ls-files -z | while read -d '' path; do touch -d "$(git log -1
-          --format="@%ct" "$path")" "$path"; done
-          hexo g
-          curl -H 'Content-Type:text/plain' --data-binary
-          @./public/baidu_urls.txt
-          "http://data.zz.baidu.com/urls?site=https://wyblog1.tk&token=${{
-          secrets.BD_TOKEN }}"
-          rm -rf ./public/CNAME
-          echo "blog.wyblog1.tk" >> ./public/CNAME
+          node-version: '18'
+
+      - name: Setup Hexo
+        env:
+          ACTION_DEPLOY_KEY: ${{ secrets.HEXO_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh/
+          echo "$ACTION_DEPLOY_KEY" > ~/.ssh/id_rsa
+          chmod 700 ~/.ssh
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          git config --global user.name "612901"
+          git config --global user.email "3227988255@qq.com"
+          npm config set registry https://registry.npm.taobao.org
+          npm install hexo-cli -g
+          npm install
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.TOKEN }}
-          publish_dir: ./public
-      - name: Build And Deploy
-        id: builddeploy
-        uses: Azure/static-web-apps-deploy@v1
-        with:
-          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_GRAY_GRASS_05AA38100 }}
-          repo_token: ${{ secrets.GITHUB_TOKEN }} # Used for Github integrations (i.e. PR comments)
-          action: "upload"
-          ###### Repository/Build Configurations - These values can be configured to match your app requirements. ######
-          # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
-          app_location: "public" # App source code path
-          skip_app_build: true
-          skip_api_build: true
-          api_location: "" # Api source code path - optional
-          output_location: "" # Built app content directory - optional
-          ###### End of Repository/Build Configurations ######
-
-      - uses: JS-DevTools/npm-publish@v1
-        with:
-          token: ${{ secrets.NPM }}
-
-      - name: Refresh NPM Cache
-        run: >
-          curl -X PUT "https://registry.npmmirror.com/chenyfan-blog/sync?publish=false&nodeps=false"
+        run: |
+          hexo clean
+          hexo bangumi -u
+          hexo cinema -u
+          hexo generate
+          hexo deploy

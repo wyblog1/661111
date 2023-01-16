@@ -9,9 +9,9 @@ updated: 2023-01-16 20:16:50
 <link rel="stylesheet" href="https://unpkg.com/browse/qexo-static@1.5.0/hexo/talks.css">
 <div id="qexot"></div>
 <script>
-  showQexoTalks{
+  new showQexoTalks(
       el: '#qexot', 
       SITE：'https://qexo.wyblog1.tk/talks.html',
       pageSize: 5
-  }
+  )
 </script>

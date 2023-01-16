@@ -15,8 +15,8 @@ updated: 2023-01-16 20:16:50
   <script>
     qexoDaodao?.init({
       el: "#qexoDaoDao",
-      avatar: "https://q1.qlogo.cn/g?b=qq&nk=2496091142&s=640",
-      name: "UyoAhz",
+      avatar: "https://www.wyblog1.tk/media/images/custom-headerLogo.ico",
+      name: "无影博客",
       limit: 10,
       useLoadingImg: false,
       baseURL: "https://qexo.wyblog1.tk",

@@ -5,7 +5,7 @@ title: talk
 updated: 2023-01-16 20:16:50
 ---
 <script src="https://unpkg.com/browse/qexo-static@1.5.0/hexo/talks.js"></script>
-
+<script src="https://unpkg.com/jquery@3.6.0/dist/jquery.min.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/browse/qexo-static@1.5.0/hexo/talks.css">
 <div id="qexot"></div>
 <script>showQexoTalks("qexot", "https://qexo.wyblog1.tk/talks.html", 5)</script>

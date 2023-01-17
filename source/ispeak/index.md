@@ -12,15 +12,16 @@ sidebar: []
 <div id="ispeak"></div>
 <link
   rel="stylesheet"
-  href="https://cdn.staticfile.org/highlight.js/10.6.0/styles/atom-one-dark.min.css"
+  href="https://jsd.cdn.zzko.cn/npm/highlight.js/styles/atom-one-dark.min.css"
 />
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/style.css"
+  href="https://jsd.cdn.zzko.cn/npm/ispeak/style.css"
 />
-<script src="https://cdn.staticfile.org/highlight.js/10.6.0/highlight.min.js"></script>
-<script src="https://cdn.staticfile.org/marked/2.0.0/marked.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>
+
+<script src="https://jsd.cdn.zzko.cn/npm/highlight.js/highlight.min.js"></script>
+<script src="https://jsd.cdn.zzko.cn/npm/marked@v3/marked.min.js"></script>
+<script src="https://jsd.cdn.zzko.cn/npm/ispeak/ispeak.umd.js"></script>
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.css"

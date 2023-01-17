@@ -8,11 +8,6 @@ comments: false
 description: 欢迎来到无影的Speak页面，快来看看无影分享了什么speak！
 sidebar: []
 ---
-
-{% p center logo gray large, 🍭 欢迎你的来访 %}
-{% p center logo gray large, 🍭 这里是无影的speak页面 %}
-{% p center logo gray large, 🍭 欢迎来到无影的Speak页面,快来看看无影分享了什么speak！ %}
-
 {% tabs tab-id %}
 
 <!-- tab 关于ispeak页面</i> -->
@@ -42,6 +37,14 @@ speak 的内容来源于随手发送的想法、吐槽等。
 [发表短文](https://biubiu.wyblog1.tk/)
 
 [管理短文](https://kkadmin.wyblog1.tk/#/ispeak/list)
+
+<!-- endtab -->
+
+<!-- tab 欢迎大家来访</i>  -->
+
+{% p center logo gray large, 🍭 欢迎你的来访 %}
+{% p center logo gray large, 🍭 这里是无影的speak页面 %}
+{% p center logo gray large, 🍭 欢迎来到无影的Speak页面,快来看看无影分享了什么speak！ %}
 
 <!-- endtab -->
 

@@ -61,7 +61,7 @@ speak 的内容来源于随手发送的想法、吐槽等。
         author: '63c28a71aa610fa0dc9b6f1a',
         pageSize: 10,
         speakPage: '/ispeak/',
-        loading_img: 'https://gd-hbimg.huaban.com/5887a86b7d36aab6bf38a1dde85949ec7dfd8ba130885f-S9pA6Y_fw1200',
+        loading_img: 'https://gd-hbimg.huaban.com/f84e8ec473d0a0bcc60c401a29e61a37fe197ba3d85a-FPoMK6_fw658',
         githubClientId: 'Iv1.799165c0f7a9dd1f',
         fromColor:'rgb(245, 150, 170)', // 下方标签背景颜色 默认 rgb(245, 150, 170)
         comment: function (speak) {

@@ -41,7 +41,9 @@ sidebar: []
         api: 'https://kkapi.wyblog1.tk/',
         author: '63c28a71aa610fa0dc9b6f1a',
         pageSize: 10,
+        speakPage: '/ispeak/',
         loading_img: 'https://bu.dusays.com/2021/03/04/d2d5e983e2961.gif',
+        githubClientId: 'Iv1.799165c0f7a9dd1f',
         fromColor:'rgb(245, 150, 170)', // 下方标签背景颜色 默认 rgb(245, 150, 170)
         comment: function (speak) {
           // 4.4.0 之后在此回调函数中初始化评论

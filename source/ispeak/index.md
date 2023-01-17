@@ -4,7 +4,7 @@ date: 2022-08-21 14:11:00
 update: 2022-08-21 14:11:00
 top_img: https://tva1.sinaimg.cn/large/005B3XPgly1ghkxqgvmy0j30zk0irn2q.jpg
 aside: false
-comments: ture
+comments: false
 description: 欢迎来到无影的Speak页面，快来看看无影分享了什么speak！
 sidebar: []
 ---
@@ -61,7 +61,7 @@ speak 的内容来源于随手发送的想法、吐槽等。
         author: '63c28a71aa610fa0dc9b6f1a',
         pageSize: 10,
         speakPage: '/ispeak/',
-        loading_img: 'https://bu.dusays.com/2021/03/04/d2d5e983e2961.gif',
+        loading_img: 'https://gd-hbimg.huaban.com/5887a86b7d36aab6bf38a1dde85949ec7dfd8ba130885f-S9pA6Y_fw1200',
         githubClientId: 'Iv1.799165c0f7a9dd1f',
         fromColor:'rgb(245, 150, 170)', // 下方标签背景颜色 默认 rgb(245, 150, 170)
         comment: function (speak) {

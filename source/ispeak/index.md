@@ -19,27 +19,9 @@ sidebar: []
 
 <!-- endtab -->
 
-<!-- tab 关于此页面</i> -->
-
-这是无影的 Speak(说说) 页面，Speak 的数据存储在 MongoDB 数据库中。
-
-此项目目前为个人项目，也就是[无影](https://wyblog1.tk/)个人使用的.
-
-本页面 api 服务部署于[vercel](https://vercel.com/)
-
-<!-- endtab -->
-
 <!-- tab 关于内容</i>  -->
 
 speak 的内容来源于随手发送的想法、吐槽等。
-
-<!-- endtab -->
-
-<!-- tab ispeak 发布链接</i>  -->
-
-[发表短文](https://biubiu.wyblog1.tk/)
-
-[管理短文](https://kkadmin.wyblog1.tk/#/ispeak/list)
 
 <!-- endtab -->
 
@@ -111,3 +93,7 @@ speak 的内容来源于随手发送的想法、吐槽等。
     document.getElementById('tip').innerHTML = 'ipseak依赖加载失败！'
   }
 </script>
+<div class="btn-center">
+{% btn 'https://ispeak-biubiu.ccknbc.cc',发表短文,fa-regular fa-message,outline green larger %}
+{% btn 'https://kkadmin.ccknbc.cc/#/ispeak/list',管理短文,fa-solid fa-user-pen,outline green larger %}
+</div>

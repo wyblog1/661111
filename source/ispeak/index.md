@@ -94,6 +94,6 @@ speak 的内容来源于随手发送的想法、吐槽等。
   }
 </script>
 <div class="btn-center">
-{% btn 'https://ispeak-biubiu.ccknbc.cc',发表短文,fa-regular fa-message,outline green larger %}
-{% btn 'https://kkadmin.ccknbc.cc/#/ispeak/list',管理短文,fa-solid fa-user-pen,outline green larger %}
+{% btn 'https://ispeak-biubiu.ccknbc.cc', <i class="fa-regular fa-message"></i>发表短文,https://biubiu.wyblog1.tk,outline green larger %}
+{% btn 'https://kkadmin.ccknbc.cc/#/ispeak/list', <i class="fa-solid fa-user-pen"></i>管理短文,https://kkadmin.wyblog1.tk, outline green larger %}
 </div>

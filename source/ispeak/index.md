@@ -4,7 +4,7 @@ date: 2022-08-21 14:11:00
 update: 2022-08-21 14:11:00
 top_img: https://tva1.sinaimg.cn/large/005B3XPgly1ghkxqgvmy0j30zk0irn2q.jpg
 aside: false
-comments: false
+comments: ture
 description: 欢迎来到无影的Speak页面，快来看看无影分享了什么speak！
 sidebar: []
 ---
@@ -47,45 +47,6 @@ speak 的内容来源于随手发送的想法、吐槽等。
 <!-- JS -->
 <script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.min.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/612901/661111@main/source/_volantis/1.js"></script>
-<script>
-  var head = document.getElementsByTagName('head')[0]
-  var meta = document.createElement('meta')
-  meta.name = 'referrer'
-  meta.content = 'no-referrer'
-  head.appendChild(meta)
-  if (ispeak) {
-    ispeak
-      .init({
-        el: '#ispeak',
-        api: 'https://kkapi.wyblog1.tk/',
-        author: '63c28a71aa610fa0dc9b6f1a',
-        pageSize: 10,
-        speakPage: '/ispeak/',
-        loading_img: 'https://bu.dusays.com/2021/03/04/d2d5e983e2961.gif',
-        githubClientId: 'Iv1.799165c0f7a9dd1f',
-        fromColor:'rgb(245, 150, 170)', // 下方标签背景颜色 默认 rgb(245, 150, 170)
-        comment: function (speak) {
-          // 4.4.0 之后在此回调函数中初始化评论
-          const { _id, title, content } = speak
-          const contentSub = content.substring(0, 30)
-          twikoo.init({
-            el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
-            title: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
-            envId: 'https://twikoo.wyblog1.tk',
-            pageSize: 10,
-            requiredMeta: ["nick", "mail"],
-            login: 'enable',
-            dark: 'html[data-theme="dark"]',
-            imageUploader: false,
-            emoji:
-              [
-                "https://jsd.cdn.zzko.cn/npm/sticker-heo/Sticker-100",
-                "https://jsd.cdn.zzko.cn/npm/telegram-gif/Telegram-Gif",
-                "https://jsd.cdn.zzko.cn/npm/@waline/emojis/tw-emoji/"
-              ]
-          })
-        }
-      })
       .then(function () {
         console.log('ispeak 加载完成')
         document.getElementById('tip').style.display = 'none'

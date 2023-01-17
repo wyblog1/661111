@@ -8,6 +8,30 @@ comments: false
 description: 欢迎来到无影的Speak页面，快来看看无影分享了什么speak！
 sidebar: []
 ---
+
+{% p center logo gray large, 欢迎来访，无限进步！ %}
+
+{% tabs tab-id %}
+
+<!-- tab <i class="fa-solid fa-link"></i><i>本站信息</i> -->
+
+
+<!-- endtab -->
+
+<!-- tab <i class="fa-solid fa-book"></i>如何申请友链</i> -->
+
+
+<!-- endtab -->
+
+<!-- tab <i class="fa-solid fa-note"></i><i>申请要求</i>  -->
+
+<!-- endtab -->
+
+<!-- tab <i class="fa-solid fa-bug"></i><i>失效链接</i>  -->
+
+<!-- endtab -->
+
+{% endtabs %}
 <div id="tip" style="text-align:center;">ipseak加载中</div>
 <div id="ispeak"></div>
 <link

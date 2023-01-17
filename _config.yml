@@ -89,14 +89,11 @@ deploy:
   branch: 
 
 search:
-  path: content.json
+  path: search.xml
   field: post
   content: true
   format: html
-bangumi:
-  enable: true 
-  vmid: 1945630406
-  title: '追番列表'
-  quote: '生命不息，追番不止！'
-  show: 1
-  loading: '/img/bangumi-loading.gif'
+# 全局导入
+import:
+  body_end:
+    - <script>"serviceWorker"in navigator&&navigator.serviceWorker.register("/sw.js").then(function(n){n.onupdatefound=function(){var e=n.installing;e.onstatechange=function(){switch(e.state){case"installed":navigator.serviceWorker.controller?console.log("Updated serviceWorker."):console.log("serviceWorker Sucess!");break;case"redundant":console.log("The installing service worker became redundant.")}}}}).catch(function(e){console.log("Error during service worker registration:",e)}); </script>

@@ -90,16 +90,9 @@ navbar:
           icon: fas fa-music
           url: https://api.wyblog.repl.co
         - name: hr  
-        - name: 哔哩哔哩
-          icon: fa-solid fa-comment fa-fw 
-          rows: 
-             - name: 1
-               icon: fa-solid fa-comment fa-fw 
-               url: tags/blibli/
-             - name: hr  
-             - name: 2
-               icon: fa-solid fa-comment fa-fw 
-               url: tags/blibli-page-2/     
+        - name: 留言板
+          icon: fa-solid fa-comments
+          url: message/     
         - name: hr
         - name: 空调
           icon: fa-solid fa-fan

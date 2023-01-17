@@ -57,6 +57,8 @@ speak 的内容来源于随手发送的想法、吐槽等。
     ispeak
       .init({
         el: '#ispeak',
+        api: 'https://kkapi.wyblog1.tk/',
+        author: '63c28a71aa610fa0dc9b6f1a',
         pageSize: 10,
         speakPage: '/ispeak/',
         loading_img: 'https://bu.dusays.com/2021/03/04/d2d5e983e2961.gif',

@@ -184,6 +184,8 @@ sidebar:
       avatar: https://www.wyblog1.tk/media/images/custom-headerLogo.ico
       title: 天闲无影
       subtitle: New Dream New Start
+      jinrishici: false
+      social: 
     # 文档导航
     webinfo:
       class: webinfo

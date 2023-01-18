@@ -10,6 +10,7 @@ sidebar: []
 ---
 <link rel="stylesheet" href="https://blog.wyblog1.tk/ispeak/bb.css"/>
 <script src="https://blog.wyblog1.tk/ispeak/bb.js"></script>
+<script src="https://blog.wyblog1.tk/ispeak/timeago.min.js"></script>
 
 <div id="bibi">
 <div class="bb-info"></div><div id="bb-main"></div>

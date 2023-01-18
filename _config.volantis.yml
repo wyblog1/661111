@@ -178,9 +178,9 @@ sidebar:
       list_number: true
       min_depth: 2
       max_depth: 5
-   blogger:
+    blogger:
       class: blogger
-      display: [desktop, mobile]
+      display: [desktop]
       avatar: https://www.wyblog1.tk/media/images/custom-headerLogo.ico
       title: 天闲无影
       subtitle: New Dream New Start

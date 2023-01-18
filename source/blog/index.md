@@ -6,9 +6,9 @@ robots: noindex,nofollow
 published: true
 hideInList: false
 isTop: false
-cover: true
 comment: false
 layout: page
 sidebar: []
 ---
-<div id="swiper"></div>
+<!-- GitCalendar容器 -->
+<div id="gitZone"></div>

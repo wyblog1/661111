@@ -96,6 +96,7 @@ swiper:
     type: id
     name: swiper
     index: 0
+  container: .recent-post-item(style='width:100%;height:auto;padding:10px;')
   default_descr: 再怎么看我也不知道怎么描述它的啦！
   swiper_css: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.css #swiper css依赖
   swiper_js: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.js #swiper js依赖

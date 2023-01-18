@@ -162,10 +162,7 @@
 				"text": "Arcaea-184064237",
 				"icon": "<img src='https://emotion.acs.pw/emotion/Arcaea/184064237.png'>"
 			}
-		]
-	}
-}
-{
+		],
 	"Convenience_Store_Notes2": {
 		"type": "image",
 		"container": [
@@ -329,10 +326,7 @@
 				"text": "Convenience_Store_Notes2-040",
 				"icon": "<img src='https://emotion.acs.pw/emotion/Convenience_Store_Notes2/040.png'>"
 			}
-		]
-	}
-}
-{
+		],
 	"Cute_Emoji": {
 		"type": "image",
 		"container": [
@@ -496,10 +490,7 @@
 				"text": "Cute_Emoji-040",
 				"icon": "<img src='https://emotion.acs.pw/emotion/Cute_Emoji/040.png'>"
 			}
-		]
-	}
-}
-{
+		],
 	"HONKAI3": {
 		"type": "image",
 		"container": [
@@ -911,10 +902,7 @@
 				"text": "HONKAI3-99",
 				"icon": "<img src='https://emotion.acs.pw/emotion/HONKAI3/99.gif'>"
 			}
-		]
-	}
-}
-{
+		],
 	"Heo-100": {
 		"type": "image",
 		"container": [
@@ -1158,10 +1146,7 @@
 				"text": "Heo-100-鼓掌",
 				"icon": "<img src='https://emotion.acs.pw/emotion/Heo-100/鼓掌.png'>"
 			}
-		]
-	}
-}
-{
+		],
 	"Mafumafu": {
 		"type": "image",
 		"container": [
@@ -1261,9 +1246,7 @@
 				"text": "Mafumafu-199749477",
 				"icon": "<img src='https://emotion.acs.pw/emotion/Mafumafu/199749477.png'>"
 			}
-		]
-	}
-}
+		],
 {
 	"Majotabi": {
 		"type": "image",
@@ -1428,10 +1411,7 @@
 				"text": "Majotabi-367516757",
 				"icon": "<img src='https://emotion.acs.pw/emotion/Majotabi/367516757.png'>"
 			}
-		]
-	}
-}
-{
+		],
 	"Snow_Miku": {
 		"type": "image",
 		"container": [
@@ -1595,10 +1575,7 @@
 				"text": "Snow_Miku-3583105@2x",
 				"icon": "<img src='https://emotion.acs.pw/emotion/Snow_Miku/3583105@2x.png'>"
 			}
-		]
-	}
-}
-{
+		],
 	"Sweetie_Bunny": {
 		"type": "image",
 		"container": [
@@ -1762,10 +1739,7 @@
 				"text": "Sweetie_Bunny-12311717",
 				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311717.png'>"
 			}
-		]
-	}
-}
-{
+		],
 	"TsuriMeJu": {
 		"type": "image",
 		"container": [
@@ -1929,10 +1903,7 @@
 				"text": "TsuriMeJu-9",
 				"icon": "<img src='https://emotion.acs.pw/emotion/TsuriMeJu/9.png'>"
 			}
-		]
-	}
-}
-{
+		],
 	"柏田": {
 		"type": "image",
 		"container": [
@@ -2180,10 +2151,7 @@
 				"text": "柏田-9",
 				"icon": "<img src='https://emotion.acs.pw/emotion/baitian/9.webp'>"
 			}
-		]
-	}
-}
-{
+		],
 	"柏田": {
 		"type": "image",
 		"container": [
@@ -2431,10 +2399,7 @@
 				"text": "柏田-9",
 				"icon": "<img src='https://emotion.acs.pw/emotion/baitian/9.webp'>"
 			}
-		]
-	}
-}
-{
+		],
 	"bilibili_hotKey": {
 		"type": "image",
 		"container": [
@@ -2594,10 +2559,7 @@
 				"text": "bilibili_hotKey-高产",
 				"icon": "<img src='https://emotion.acs.pw/emotion/bilibili_hotKey/高产.png'>"
 			}
-		]
-	}
-}
-{
+		],
 	"bilibili_littleTv": {
 		"type": "image",
 		"container": [
@@ -2663,4 +2625,3 @@
 			}
 		]
 	}
-}

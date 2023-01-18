@@ -37,7 +37,7 @@ swiper_desc: 说说
         api: 'https://kkapi.wyblog1.tk/',
         author: '63c28a71aa610fa0dc9b6f1a',
         pageSize: 30,
-        loading_img: 'https://www.fomal.cc/assets/loading3.gif',
+        loading_img: 'http://hbimg.huaban.com/cfdc448b04a15571ce9de5f2aa9061d4c7966baf3cef6-dTGBs5_fw658',
       })
       .then(function () {
         console.log('ispeak 加载完成')

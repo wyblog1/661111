@@ -7,6 +7,8 @@ aside: false
 comments: ture
 description: 欢迎来到无影的Speak页面，快来看看无影分享了什么speak！
 sidebar: []
+swiper_index: 8
+swiper_desc: 说说
 ---
 <div id="tip" style="text-align:center;">ipseak加载中</div>
 <div id="ispeak"></div>

@@ -4,7 +4,7 @@ date: 2022-08-21 14:11:00
 update: 2022-08-21 14:11:00
 top_img: https://tva1.sinaimg.cn/large/005B3XPgly1ghkxqgvmy0j30zk0irn2q.jpg
 aside: false
-comments: false
+comments: ture
 description: 欢迎来到无影的Speak页面，快来看看无影分享了什么speak！
 sidebar: []
 ---
@@ -22,10 +22,6 @@ sidebar: []
 <script src="https://cdn.staticfile.org/highlight.js/10.6.0/highlight.min.js"></script>
 <script src="https://cdn.staticfile.org/marked/2.0.0/marked.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>
-<!-- CSS -->
-<link href="https://unpkg.com/artalk@2.3.4/dist/Artalk.css" rel="stylesheet" />
-<!-- JS -->
-<script src="https://unpkg.com/artalk@2.3.4/dist/Artalk.js"></script>
 <script>
   var head = document.getElementsByTagName('head')[0]
   var meta = document.createElement('meta')

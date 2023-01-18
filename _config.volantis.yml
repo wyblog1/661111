@@ -186,6 +186,16 @@ sidebar:
       subtitle: New Dream New Start
       jinrishici: false
       social: 
+    notice:
+      class: text
+      display: [desktop, mobile]
+      header:
+        icon: fa-light fa-ghost PETERRIVE faa-vertical
+        title: 本站公告
+      content:
+        - '你好，欢迎访问我的个人博客'
+        - '以后不会发布此公告,转而使用ispeak发布说说'
+        - '[无影的博客](https://www.wyblog1.tk/)'
     # 文档导航
     webinfo:
       class: webinfo

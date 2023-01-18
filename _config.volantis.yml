@@ -186,10 +186,9 @@ sidebar:
       subtitle: New Dream New Start
       jinrishici: false
       social:
-   notice:
+    text:
       class: text
       display: [desktop, mobile] # [desktop, mobile]
-      sticky: true
       header:
         icon: fa-leaf
         title: 公告

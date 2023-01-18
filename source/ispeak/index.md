@@ -39,14 +39,13 @@ speak 的内容来源于随手发送的想法、吐槽等。
 
 <script src="https://jsd.cdn.zzko.cn/npm/highlight.js/highlight.min.js"></script>
 <script src="https://jsd.cdn.zzko.cn/npm/marked@v3/marked.min.js"></script>
-<script src="https://jsd.cdn.zzko.cn/npm/ispeak/ispeak.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/612901/661111@main/source/_volantis/1.js"></script>
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.css"
 />
 <!-- JS -->
 <script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/612901/661111@main/source/_volantis/1.js"></script>
 <script>
   var head = document.getElementsByTagName('head')[0]
   var meta = document.createElement('meta')

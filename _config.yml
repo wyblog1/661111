@@ -83,7 +83,8 @@ deploy:
   type: 
   
 swiper:
-  enable: ture
+  enable: true
+  simplemode: true
   priority: 0 #过滤器优先权
   enable_page: /blog/ # 应用页面
   timemode: date #date/updated

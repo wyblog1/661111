@@ -7,6 +7,7 @@ hideInList: true
 feature: /post-images/76-80.jpg
 isTop: false
 description: 1
+swiper_index: 1 
 ---
 <iframe  
  height=850 

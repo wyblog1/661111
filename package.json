@@ -23,6 +23,7 @@
     "hexo-server": "^3.0.0"
   },
   "scripts": {
+    "hexo": "hexo cl",
     "dev": "hexo server -p $PORT",
     "build": "hexo generate"
   }   

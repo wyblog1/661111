@@ -186,17 +186,6 @@ sidebar:
       subtitle: New Dream New Start
       jinrishici: false
       social:
-    text:
-      class: text
-      display: [desktop, mobile] # [desktop, mobile]
-      header:
-        icon: fa-leaf
-        title: 公告
-      content:
-        - '新年新气象,博客这几天会对网站的一些功能进行更新,到时,网站会以全新的形象展现给大家.'
-        - '网站域名已更换新域名,新地址: [https://blog.wyblog1.tk](https://blog.wyblog1.tk),另外,本博客计划将会在2023.1.1开启右键自定义菜单.会开发出一些符合自己的美观'
-        - '本站默认替换了右键菜单，可使用「Ctrl + 右键」唤醒原菜单博客已经开放右键,修改了一些UI.'
-        - '本站主只是一个萌新,部分配置是博主去主题官方群询问得到的'
     # 文档导航
     webinfo:
       class: webinfo

@@ -438,6 +438,9 @@ plugins:
 gitcalendar:
   enable: true
   simplemode: true
+  minheight:
+    pc: 280px #桌面端最小高度
+    mibile: 0px #移动端最小高度
   enable_page: /homepage/ # 应用页面
   user: 612901
   layout: # 挂载容器类型

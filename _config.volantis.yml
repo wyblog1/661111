@@ -154,8 +154,8 @@ site_footer:
       notice: true                        # 唤醒原右键菜单的通知   
 sidebar:
   position: left
-  for_page: [qgroup, category, post, text, qrcode, guide, webinfo]
-  for_post: [toc]
+  for_page: [qgroup, category, post, blogger, text, qrcode, guide, webinfo]
+  for_post: [qgroup, category, post, blogger, text, qrcode, guide, webinfo]
   lastupdate:
       class: lastupdate
       display: [desktop, cus-shadow]
@@ -178,6 +178,14 @@ sidebar:
       list_number: true
       min_depth: 2
       max_depth: 5
+  blogger:
+      display: [desktop mobile]
+      avatar: https://www.wyblog1.tk/media/images/custom-headerLogo.ico
+      shape: circle
+      title: 天闲无影
+      subtitle: New Dream New Start
+      jinrishici: false
+      social:
     post:
       class: text
       display: [desktop, mobile] # [desktop, mobile]

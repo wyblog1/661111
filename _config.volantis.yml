@@ -153,7 +153,7 @@ site_footer:
       enable: true                        # 是否开启右键模块的消息通知
       notice: true                        # 唤醒原右键菜单的通知   
 sidebar:
-  position: left
+  position: right
   for_page: [qgroup, category, post, blogger, text, notice, qrcode, guide, webinfo]
   for_post: [qgroup, post, blogger, text, qrcode, notice, guide, webinfo]
   lastupdate:

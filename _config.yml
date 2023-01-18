@@ -88,7 +88,7 @@ swiper:
   enable_page: /
   layout:
     type: id
-    name: swiper
+    name: recent-posts
     index: 0
   temple_html: '<div class="recent-post-item" style="height: auto;width: 100%"><div class="blog-slider swiper-container-fade swiper-container-horizontal" id="swiper_container">${temple_html_item}</div></div>'
   plus_style: ""

@@ -180,7 +180,7 @@ sidebar:
       max_depth: 5
    blogger:
       class: blogger
-      display: [desktop mobile]
+      display: [desktop, mobile]
       avatar: https://www.wyblog1.tk/media/images/custom-headerLogo.ico
       title: 天闲无影
       subtitle: New Dream New Start

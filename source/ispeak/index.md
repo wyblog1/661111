@@ -15,3 +15,4 @@ sidebar: []
 <div id="bibi">
 <div class="bb-info"></div><div id="bb-main"></div>
 </div>
+说说只会显示最近200条

@@ -453,9 +453,9 @@ gitcalendar:
   gitcalendar_css: https://npm.elemecdn.com/hexo-filter-gitcalendar/lib/gitcalendar.css
   gitcalendar_js: https://npm.elemecdn.com/hexo-filter-gitcalendar/lib/gitcalendar.js	
 swiper:
-  enable: false 
+  enable: ture 
   priority: 5 #过滤器优先权
-  enable_page: / # 应用页面
+  enable_page: /blog/ # 应用页面
   timemode: date #date/updated
   layout: # 挂载容器类型
     type: id

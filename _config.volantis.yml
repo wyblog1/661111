@@ -155,7 +155,7 @@ site_footer:
 sidebar:
   position: left
   for_page: [qgroup, category, post, blogger, text, qrcode, guide, webinfo]
-  for_post: [qgroup, category, post, blogger, text, qrcode, guide, webinfo]
+  for_post: [qgroup, post, blogger, text, qrcode, guide, webinfo]
   lastupdate:
       class: lastupdate
       display: [desktop, cus-shadow]

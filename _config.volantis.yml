@@ -186,7 +186,7 @@ sidebar:
       subtitle: New Dream New Start
       jinrishici: false
       social:
-    post:
+   notice:
       class: text
       display: [desktop, mobile] # [desktop, mobile]
       sticky: true

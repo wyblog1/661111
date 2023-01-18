@@ -81,14 +81,3 @@ theme: volantis
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: 
-  
-swiper:
-  enable: true
-  priority: 2
-  enable_page: /
-  layout:
-    type: id
-    name: recent-posts
-    index: 0
-  temple_html: '<div class="recent-post-item" style="height: auto;width: 100%"><div class="blog-slider swiper-container-fade swiper-container-horizontal" id="swiper_container">${temple_html_item}</div></div>'
-  plus_style: ""

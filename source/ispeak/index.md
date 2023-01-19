@@ -48,3 +48,9 @@ swiper_desc: 说说
   }
 </script>
 
+<link rel="stylesheet" href="https://blog.wyblog1.tk/ispeak/bb.css"/>
+<script src="https://blog.wyblog1.tk/ispeak/bbtalk.js"></script>
+
+<div id="bibi">
+<div class="bb-info"></div><div id="bb-main"></div>
+</div>

@@ -17,7 +17,7 @@ swiper_index: 1
  allowfullscreen>
  </iframe>
 
-**属于十三的时代已经过去,接下来是石小三(十三)的时代**
+**属于十三的时代已经过去,接下来是石小三(十三的儿子)的时代**
 
 <iframe  
  height=850 
@@ -29,7 +29,7 @@ swiper_index: 1
 <iframe  
  height=850 
  width=90% 
- src="//player.bilibili.com/player.html?aid=692878661&bvid=BV1324y1h7Nj&cid=970164524&page=1""  
+ src="//player.bilibili.com/player.html?aid=692878661&bvid=BV1324y1h7Nj&cid=970164524&page=1"  
  frameborder=0  
  allowfullscreen>
  </iframe>
@@ -43,7 +43,7 @@ swiper_index: 1
 <iframe  
  height=850 
  width=90% 
- src=""  
+ src="//player.bilibili.com/player.html?aid=693053831&bvid=BV1L24y1a7t4&cid=972944119&page=1"  
  frameborder=0  
  allowfullscreen>
  </iframe>

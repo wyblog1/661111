@@ -1,6 +1,6 @@
 ---
 title: '魔神十三(251-255)'
-date: 2023-01-17 15:14:38
+date: 2023-01-18 15:14:38
 tags: [blibli]
 published: true
 hideInList: true
@@ -16,7 +16,9 @@ swiper_index: 1
  frameborder=0  
  allowfullscreen>
  </iframe>
+
 **属于十三的时代已经过去,接下来是石小三(十三)的时代**
+
 <iframe  
  height=850 
  width=90% 
@@ -34,7 +36,7 @@ swiper_index: 1
 <iframe  
  height=850 
  width=90% 
- src="player.bilibili.com/player.html?aid=905537154&bvid=BV1UP4y167ft&cid=971537215&page=1" 
+ src="//player.bilibili.com/player.html?aid=905537154&bvid=BV1UP4y167ft&cid=971537215&page=1" 
  frameborder=0  
  allowfullscreen>
  </iframe>

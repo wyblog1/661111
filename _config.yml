@@ -82,29 +82,22 @@ theme: volantis
 deploy:
   type: 
 
-# hexo-butterfly-categories-card
-# see https://akilar.top/posts/a9131002/
-categoryBar:
-  enable: true # 开关
-  priority: 5 #过滤器优先权
-  enable_page: / # 应用页面
-  layout: # 挂载容器类型
+magnet:
+  enable: true
+  priority: 1
+  enable_page: /
+  type: categories
+  devide: 2
+  display:
+    
+  color_setting:
+    text_color: black
+    text_hover_color: white
+    background_color: "#f2f2f2"
+    background_hover_color: "#b30070"
+  layout:
     type: id
     name: recent-posts
     index: 0
-  column: odd # odd：3列 | even：4列
-  row: 1 #显示行数，默认两行，超过行数切换为滚动显示
-  message:
-    - descr: Ubuntu指南
-      cover: https://assets.akilar.top/image/cover1.webp
-    - descr: 玩转Win10
-      cover: https://assets.akilar.top/image/cover2.webp
-    - descr: 长篇小说连载
-      cover: https://assets.akilar.top/image/cover3.webp
-    - descr: 个人日记
-      cover: https://assets.akilar.top/image/cover4.webp
-    - descr: 诗词歌赋
-      cover: https://assets.akilar.top/image/cover5.webp
-    - descr: 杂谈教程
-      cover: https://assets.akilar.top/image/cover6.webp
-  custom_css: https://npm.elemecdn.com/hexo-butterfly-categories-card@1.0.0/lib/categorybar.css
+  temple_html: '<div class="recent-post-item" style="width:100%;height: auto"><div id="catalog_magnet">${temple_html_item}</div></div>'
+  plus_style: ""

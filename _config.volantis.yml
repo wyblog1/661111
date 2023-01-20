@@ -1,3 +1,20 @@
+gitcalendar:
+  enable: true
+  simplemode: true
+  minheight:
+    pc: 280px #桌面端最小高度
+    mibile: 0px #移动端最小高度
+  enable_page: / # 应用页面
+  user: 612901
+  layout: # 挂载容器类型
+    type: id
+    name: gitZone
+    index: 0
+  apiurl: 'https://github.wyblog1.tk'
+  color: "['#e4dfd7', '#f9f4dc', '#f7e8aa', '#f7e8aa', '#f8df72', '#fcd217', '#fcc515', '#f28e16', '#fb8b05', '#d85916', '#f43e06']"
+  container: .recent-post-item(style='width:100%;height:auto;padding:10px;') #父元素容器，需要使用pug语法
+  gitcalendar_css: https://npm.elemecdn.com/hexo-filter-gitcalendar/lib/gitcalendar.css
+  gitcalendar_js: https://npm.elemecdn.com/hexo-filter-gitcalendar/lib/gitcalendar.js
 custom_css:
   cursor:
       enable: true
@@ -440,21 +457,4 @@ plugins:
         被打: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/被打.png',
         裂开: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/裂开.png',
         警告: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/警告.png',
-    }
-gitcalendar:
-  enable: true
-  simplemode: true
-  minheight:
-    pc: 280px #桌面端最小高度
-    mibile: 0px #移动端最小高度
-  enable_page: / # 应用页面
-  user: 612901
-  layout: # 挂载容器类型
-    type: id
-    name: gitZone
-    index: 0
-  apiurl: 'https://github.wyblog1.tk'
-  color: "['#e4dfd7', '#f9f4dc', '#f7e8aa', '#f7e8aa', '#f8df72', '#fcd217', '#fcc515', '#f28e16', '#fb8b05', '#d85916', '#f43e06']"
-  container: .recent-post-item(style='width:100%;height:auto;padding:10px;') #父元素容器，需要使用pug语法
-  gitcalendar_css: https://npm.elemecdn.com/hexo-filter-gitcalendar/lib/gitcalendar.css
-  gitcalendar_js: https://npm.elemecdn.com/hexo-filter-gitcalendar/lib/gitcalendar.js	
+    }	

@@ -105,12 +105,14 @@ navbar:
           url: https://news.wyblog1.tk       
         - name: 音乐盒
           icon: fas fa-music
-          url: https://api.wyblog.repl.co
-        - name: hr  
+          url: https://api.wyblog.repl.co  
         - name: 留言板
           icon: fa-solid fa-comments
           url: message/     
         - name: hr
+        - name: 电子木鱼
+          icon: fas fa-chevron-down
+          url: muyu/
         - name: 空调
           icon: fa-solid fa-fan
           url: conditioner/ 

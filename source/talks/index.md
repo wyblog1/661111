@@ -4,24 +4,28 @@ sidebar: []
 title: talk
 updated: 2023-01-16 20:16:50
 ---
-<head>
-  <!-- ... -->
-  <script src="//cdn.jsdelivr.net/gh/Uyoahz26/daodao@main/dist/qexo-dao.min.js"></script>
-  <!-- ... -->
-</head>
-<body>
-  <!-- ... -->
-  <div id="qexoDaoDao"></div>
-  <script>
-    qexoDaodao?.init({
-      el: "#qexoDaoDao",
-      avatar: "https://www.wyblog1.tk/media/images/custom-headerLogo.ico",
-      name: "无影博客",
+<script
+  type="text/javascript"
+  src="https://cdn.jsdelivr.net/npm/timeago.js@4.0.2/dist/timeago.min.js"
+  charset="utf-8"
+></script>
+<script
+  type="text/javascript"
+  src="//cdn.jsdelivr.net/gh/Uyoahz26/daodao@main/dist/qexo-dao.min.js"
+  charset="utf-8"
+></script>
+<script>
+  qexoDaodao
+    ?.init({
+      el: "#qexo",
+      avatar: "https://q1.qlogo.cn/g?b=qq&nk=2496091142&s=640",
+      name: "UyoAhz",
       limit: 10,
+      fromColor: "#000000",
       useLoadingImg: false,
-      baseURL: "https://qexo.wyblog1.tk",
-    }).then(function (){
-      console.log("qexoDaodao加载完成");
+      baseURL: "https://qexo.wyblog1.tk/",
     })
-  </script>
-</body>
+    .then(function () {
+      console.log("daodao加载成功")
+    })
+</script>

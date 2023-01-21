@@ -102,7 +102,10 @@ navbar:
       rows: 
         - name: 每日日报
           icon: fas fa-newspaper
-          url: https://news.wyblog1.tk       
+          url: https://news.wyblog1.tk 
+        - name: 音乐
+          icon: fas fa-music
+          url: music/  
         - name: 音乐盒
           icon: fas fa-music
           url: https://api.wyblog.repl.co  

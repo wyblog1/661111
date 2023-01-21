@@ -2,7 +2,6 @@
 comments: false
 aside: false
 ---
-{% raw %}
 <!-- 播放器 -->
 <div class="music-player">
 	<!-- audio标签 -->
@@ -58,5 +57,3 @@ aside: false
 <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.slim.min.js"></script>
 <script src="/js/player.js?10"></script>
 <div style="text-align:center;margin:-100px 0; font:normal 14px/24px 'MicroSoft YaHei';color:#ffffff"></div>
-
-{% endraw %}

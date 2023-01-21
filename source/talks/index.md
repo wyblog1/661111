@@ -6,12 +6,7 @@ updated: 2023-01-16 20:16:50
 ---
 <script
   type="text/javascript"
-  src="https://cdn.jsdelivr.net/npm/timeago.js@4.0.2/dist/timeago.min.js"
-  charset="utf-8"
-></script>
-<script
-  type="text/javascript"
-  src="//cdn.jsdelivr.net/gh/Uyoahz26/daodao@main/dist/qexo-dao.min.js"
+  src="https://cdn.jsdelivr.net/gh/Uyoahz26/daodao@main/dist/qexo-dao.min.js"
   charset="utf-8"
 ></script>
 <script>

@@ -57,7 +57,7 @@ updated: 2022-08-27 12:00:00
             player.play();
             muyu.animate([{ transform: 'scale(0.85)' }, { transform: 'scale(1.03)' }, { transform: 'scale(1)' }], 500);
             gongde.animate([{ opacity: 0, transform: 'translateY(0)' },{ opacity: 0.3, transform: 'translateY(-10px)' },{ opacity: 0.8, transform: 'translateY(-20px)' }, { opacity: 1, transform: 'translateY(-30px)' }, { opacity: 0.8, transform: 'translateY(-35px)' }, { opacity: 0, transform: 'translateY(-40px)' }], 600);
-            jishu.innerHTML = "<p id='jishu'>功德："+num+"</p>";
+            jishu.innerHTML = "<p id='jishu'>功德："+9999999999999999999999999999999999999999999999999999+"</p>";
         });
     </script>
 

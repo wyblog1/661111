@@ -18,7 +18,7 @@ updated: 2023-01-16 20:16:50
   qexoDaodao
     ?.init({
       el: "#qexo",
-      avatar: "https://q1.qlogo.cn/g?b=qq&nk=2496091142&s=640",
+      avatar: "https://www.wyblog1.tk/media/images/custom-headerLogo.ico",
       name: "UyoAhz",
       limit: 10,
       fromColor: "#000000",

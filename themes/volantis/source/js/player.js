@@ -23,39 +23,32 @@ class Musics {
     constructor() {
         this.songs = [{
                 id: 1,
-                title: '越权访问-崩坏：星穹铁道 - Hanser',
-                singer: '越权访问-崩坏：星穹铁道 - Hanser',
-                songUrl: './songs/1.mp3',
-                imageUrl: './images/songs/1.webp'
+                title: 'Soviet March',
+                singer: 'Soviet March',
+                songUrl: 'http://ws.stream.qqmusic.qq.com/C400002Awt6a2CfI16.m4a?guid=190617289&vkey=A7C9E118F71C58038B8C096FC110C97686788796A413E37991A06016AA7B0BD41B431CBA21AAF40FC567A7BAD77D39A7A0D3064C159AD255&uin=&fromtag=120032',
+                imageUrl: 'https://y.qq.com/music/photo_new/T002R300x300M000004KgKds0ER86i_2.jpg?max_age=2592000'
             },
             {
                 id: 2,
-                title: '妄想Reality（翻自 洛天依） - 炎祾',
-                singer: '妄想Reality（翻自 洛天依） - 炎祾',
-                songUrl: './songs/2.mp3',
-                imageUrl: './images/songs/2.webp'
+                title: '算你狠(氛围版)',
+                singer: '算你狠(氛围版)',
+                songUrl: 'http://ws.stream.qqmusic.qq.com/C400000BvMn00Y3zs8.m4a?guid=798766125&vkey=4E747A5B70EFAD898A9795BEB7BB78CE4FC80331613C209E4AAD14290406EEC95303CBC91BE0D1F8511D1B626B6C6DE960DA4FDE94F92C69&uin=&fromtag=120032',
+                imageUrl: 'https://y.qq.com/music/photo_new/T002R300x300M000002LtBop0fvO3Y_2.jpg?max_age=2592000'
             },
 			{
                 id: 3,
-                title: '人间失宠 - 昔诺',
-                singer: '人间失宠 - 昔诺',
-                songUrl: './songs/3.mp3',
-                imageUrl: './images/songs/3.webp'
+                title: 'Children of the Dark(2021)',
+                singer: 'Children of the Dark(2021)',
+                songUrl: 'http://ws.stream.qqmusic.qq.com/C400003TeNK92nsGcs.m4a?guid=239743219&vkey=DCD3961E8F02A977F942E46263C00B5D1AD71E087BA4A7710AA679F0A98084ECC5F65360857E488C3B45284B72472FBB0765141D0ABEB113&uin=&fromtag=120032',
+                imageUrl: 'https://y.qq.com/music/photo_new/T002R300x300M000000nph0K1Ic25F_1.jpg?max_age=2592000'
             },
             {
                 id: 4,
-                title: '崩坏世界的歌姬 (Movie Ver.) - 小林未郁',
-                singer: '崩坏世界的歌姬 (Movie Ver.) - 小林未郁',
-                songUrl: './songs/4.mp3',
-                imageUrl: './images/songs/4.webp'
-            },
-			{
-                id: 5,
-                title: '玛德琳娜电塔 - 花玲',
-                singer: '玛德琳娜电塔 - 花玲',
-                songUrl: './songs/5.mp3',
-                imageUrl: './images/songs/5.webp'
-            },
+                title: '穿越星云',
+                singer: '穿越星云',
+                songUrl: 'http://ws.stream.qqmusic.qq.com/C400004L7UZ40Y41eB.m4a?guid=376415493&vkey=1DEC7076D7EA7A86010BE44F39C6459B8B4679B6EFDBBD08B32ED790F0BE90D1A201A9B5265A2BB4F398238049D7E84DAEDA19824C7BF93B&uin=&fromtag=120032',
+                imageUrl: 'https://y.qq.com/music/photo_new/T002R300x300M000000I7C0W00adKW_1.jpg?max_age=2592000'
+            }
         ]
     }
     //根据索引获取歌曲的方法

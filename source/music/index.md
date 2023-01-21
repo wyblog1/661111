@@ -53,6 +53,7 @@ aside: false
 		</ul>
 	</div>
 </div>
+<link rel="stylesheet" href="/js/player.css"/>
 <script src="/js/utill.js"></script>
 <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.slim.min.js"></script>
 <script src="/js/player.js?10"></script>

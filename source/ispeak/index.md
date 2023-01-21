@@ -48,7 +48,8 @@ swiper_desc: 说说
             el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
             pageKey: '/speak/info.html?q=' + _id, // 手动传入当前speak的唯一id
             pageTitle: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
-            server: 'https://wisemiserableenvironments.wyblog.repl.co/'
+            server: 'https://wisemiserableenvironments.wyblog.repl.co/',
+            emoticons: "https://npm.onmicrosoft.cn/sticker-heo@2022.7.5/artalk.json"
           })
         }
       })

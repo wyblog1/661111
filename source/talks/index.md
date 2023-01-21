@@ -5,7 +5,7 @@ title: talk
 updated: 2023-01-16 20:16:50
 ---
 <script src="https://cdn.jsdelivr.net/npm/timeago.js@4.0.2/dist/timeago.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/kuole-o/bber-ispeak@main/dist/ispeak-bber.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Uyoahz26/daodao@main/dist/qexo-dao.min.js"></script>
 </head>
 <body>
   <!-- ... -->

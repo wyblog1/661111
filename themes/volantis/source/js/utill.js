@@ -75,10 +75,3 @@ if (typeof define === 'function' && define.amd) {
         return Util;
     });
 }
-
-
-
-作者: 『轻笑Chuckle』
-链接: https://www.chuckle.top/article/3322c8a8.html
-来源: 轻笑Chuckle
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。

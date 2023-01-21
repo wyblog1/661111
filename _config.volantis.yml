@@ -463,9 +463,11 @@ plugins:
         裂开: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/裂开.png',
         警告: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/警告.png',
     }	
-inject:
-  head:
-    - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'"> 
-  bottom: 
-  	- xxx
-    - <script async src="//npm.elemecdn.com/pace-js@1.2.4/pace.min.js"></script>
+preloader:
+  enable: true
+  # source
+  # 1. fullpage-loading
+  # 2. pace (progress bar)
+  source: 2
+  # pace theme (see https://codebyzach.github.io/pace/)
+  pace_css_url: https://unpkg.onmicrosoft.cn/xlenco-blog-main@1.0.1673316381616/css/pace.css

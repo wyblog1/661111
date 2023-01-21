@@ -10,6 +10,10 @@ sidebar: []
 swiper_index: 8
 swiper_desc: 说说
 ---
+<div class="vlts-center">
+{% vlts 'https://ispeak-biubiu.ccknbc.cc', 发表短文,https://biubiu.ccknbc.cc,outline green larger %}
+{% vlts 'https://kkadmin.ccknbc.cc/#/ispeak/list', 管理短文,https://kkadmin.wyblog1.tk/#/ispeak/list,outline green larger %}
+</div>
 <div id="tip" style="text-align:center;">ipseak加载中</div>
 <div id="ispeak"></div>
 <link

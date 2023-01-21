@@ -4,19 +4,15 @@ sidebar: []
 title: talk
 updated: 2023-01-16 20:16:50
 ---
-<script
-  type="text/javascript"
-  src="https://cdn.jsdelivr.net/gh/Uyoahz26/daodao@main/dist/qexo-dao.min.js"
-  charset="utf-8"
-></script>
+<script src="https://cdn.jsdelivr.net/npm/timeago.js@4.0.2/dist/timeago.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/kuole-o/bber-ispeak@main/dist/ispeak-bber.min.js"></script>
 <script>
   qexoDaodao
     ?.init({
-      el: "#qexo",
+      el: "#qexoDaoDao",
       avatar: "https://www.wyblog1.tk/media/images/custom-headerLogo.ico",
-      name: "UyoAhz",
+      name: "wyblog",
       limit: 10,
-      fromColor: "#000000",
       useLoadingImg: false,
       baseURL: "https://qexo.wyblog1.tk/",
     })

@@ -13,6 +13,7 @@ date: 2021-03-14 20:00:00
     domId: '',
   }
 </script>
-<script src="https://immmmm.com/bb-lmm.js"></script>
+<script src="https://immmmm.com/bb-lmm-mk.js"></script>
+<script src="https://fastly.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script src="https://fastly.jsdelivr.net/gh/Tokinx/ViewImage/view-image.min.js"></script>
-<script src="https://fastly.jsdelivr.net/gh/Tokinx/Lately/lately.min.js"></script>script>
+<script src="https://fastly.jsdelivr.net/gh/Tokinx/Lately/lately.min.js"></script>t>script>

@@ -94,6 +94,10 @@ navbar:
         - name: qexo talks
           icon: fa-solid fa-message
           url: talks/  
+        - name: hr 
+        - name: memos
+          icon: fa-solid fa-message
+          url: memos 
     - name: 深色模式
       icon: fa-solid fa-moon
       toggle: darkmode 

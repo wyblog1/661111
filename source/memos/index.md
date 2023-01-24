@@ -9,7 +9,7 @@ date: 2021-03-14 20:00:00
   var bbMemos = {
     memos : 'https://memos.wyblog1.tk/',
     limit : '',
-    creatorId:'ac397a17-d413-4832-b2d2-61576952ad1d' ,
+    creatorId:'1' ,
     domId: '',
   }
 </script>

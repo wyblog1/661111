@@ -38,17 +38,28 @@ swiper_desc: 说说
         el: '#ispeak',
         api: 'https://kkapi.wyblog1.tk/',
         author: '63c28a71aa610fa0dc9b6f1a',
-        pageSize: 30,
+        pageSize: 10,
         loading_img: 'https://cdn-us.imgs.moe/2023/01/19/63c8e4c63a560.gif',
         comment: function (speak) {
           // 4.4.0 之后在此回调函数中初始化评论
           const { _id, title, content } = speak
           const contentSub = content.substring(0, 30)
-          new Artalk({
+          Waline.init({
             el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
-            pageKey: '/speak/info.html?q=' + _id, // 手动传入当前speak的唯一id
-            pageTitle: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
-            server: 'https://wisemiserableenvironments.wyblog.repl.co'
+            path: '/essay/speak?q=' + _id, // 手动传入当前speak的唯一id
+            title: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
+            serverURL: 'https://waline.wyblog1.tk',
+            pageSize: 10,
+            requiredMeta: ["nick", "mail"],
+            login: 'enable',
+            dark: 'html[data-theme="dark"]',
+            imageUploader: false,
+            emoji:
+              [
+                "https://jsd.cdn.zzko.cn/npm/sticker-heo/Sticker-100/",
+                "https://jsd.cdn.zzko.cn/npm/telegram-gif/Telegram-Gif/",
+                "https://jsd.cdn.zzko.cn/npm/@waline/emojis/tw-emoji/"
+              ]
           })
         }
       })

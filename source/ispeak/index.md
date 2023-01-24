@@ -24,8 +24,11 @@ swiper_desc: 说说
 <script src="https://cdn.staticfile.org/highlight.js/10.6.0/highlight.min.js"></script>
 <script src="https://cdn.staticfile.org/marked/2.0.0/marked.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>
-<link href="https://unpkg.com/artalk@2.4.3/dist/Artalk.css" rel="stylesheet" />
-<script src="https://unpkg.com/artalk@2.4.3/dist/Artalk.js"></script>
+<link
+  rel="stylesheet"
+  href="https://jsd.cdn.zzko.cn/npm/@waline/client/dist/waline.min.css"
+/>
+<script src="https://jsd.cdn.zzko.cn/npm/@waline/client/dist/waline.min.js"></script>
 <script>
   var head = document.getElementsByTagName('head')[0]
   var meta = document.createElement('meta')

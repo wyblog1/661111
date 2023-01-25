@@ -7,7 +7,7 @@ date: 2021-03-14 20:00:00
 <div id="bber"></div>
 <script type="text/javascript">
   var bbMemos = {
-    memos : 'https://memos.wyblog1.tk/',
+    memos : 'https://memos-memos-612901.cloud.okteto.net',
     limit : '',
     creatorId:'1' ,
     domId: '',

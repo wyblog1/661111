@@ -25,9 +25,9 @@ swiper_desc: 说说
 <script src="https://cdn.staticfile.org/marked/2.0.0/marked.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>
 <!-- CSS -->
-<link href="https://unpkg.com/artalk@2.3.4/dist/Artalk.css" rel="stylesheet" />
+<link href="https://unpkg.com/artalk@2.4.3/dist/Artalk.css" rel="stylesheet" />
 <!-- JS -->
-<script src="https://unpkg.com/artalk@2.3.4/dist/Artalk.js"></script>
+<script src="https://unpkg.com/artalk@2.4.3/dist/Artalk.js"></script>
 <script>
   var head = document.getElementsByTagName('head')[0]
   var meta = document.createElement('meta')
@@ -48,7 +48,7 @@ swiper_desc: 说说
           const contentSub = content.substring(0, 30)
           new Artalk({
             el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
-            pageKey: '/speak/info.html?q=' + _id, // 手动传入当前speak的唯一id
+            pageKey: '/ispeak?q=' + _id, // 手动传入当前speak的唯一id
             pageTitle: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
             server: 'https://artalk.wyblog.repl.co/',
             site: 'speak' // 你的站点名

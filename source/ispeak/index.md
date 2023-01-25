@@ -42,7 +42,7 @@ swiper_desc: 说说
       .init({
         el: '#ispeak',
         api: 'https://kkapi.wyblog1.tk/',
-        author: '621cd42048c49d6f96787626',
+        author: '63c28a71aa610fa0dc9b6f1a',
         pageSize: 10,
         loading_img: 'https://bu.dusays.com/2022/05/01/626e88f349943.gif',
         speakPage: '/essay',

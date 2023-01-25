@@ -45,8 +45,7 @@ swiper_desc: 说说
         author: '63c28a71aa610fa0dc9b6f1a',
         pageSize: 10,
         loading_img: 'https://cdn-us.imgs.moe/2023/01/19/63c8e4c63a560.gif',
-        speakPage: '/essay',
-        githubClientId: 'Iv1.f333c02f5f6676e8',
+        speakPage: '/ispeak',
         comment: function (speak) {
           // 4.4.0 之后在此回调函数中初始化评论
           const { _id, title, content } = speak

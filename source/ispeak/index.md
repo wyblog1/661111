@@ -10,55 +10,83 @@ sidebar: []
 swiper_index: 8
 swiper_desc: 说说
 ---
-<div id="tip" style="text-align:center;">ipseak加载中</div>
-<div id="ispeak"></div>
-<link
-  rel="stylesheet"
-  href="https://cdn.staticfile.org/highlight.js/10.6.0/styles/atom-one-dark.min.css"
-/>
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/style.css"
-/>
-
-<script src="https://cdn.staticfile.org/highlight.js/10.6.0/highlight.min.js"></script>
-<script src="https://cdn.staticfile.org/marked/2.0.0/marked.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.css"
-/>
-<script src="https://cdn.staticfile.org/twikoo/1.6.8/twikoo.all.min.js"></script>
+<!-- CSS -->
+<link rel="stylesheet" href="https://jsd.cdn.zzko.cn/npm/@waline/client/dist/waline.min.css"/>
+<link rel="stylesheet" href="https://jsd.cdn.zzko.cn/npm/highlight.js/styles/atom-one-dark.min.css" />
+<div class='content'>
+  <img src='https://bu.dusays.com/2022/05/01/626e88f349943.gif'>
+</div>
+{% btn 'https://blog.ccknbc.cc/essay/',查看全部,far fa-hand-point-right,block center blue larger %}
+<hr />
+<div class='ispeak-comment'></div>
+<!-- JS -->
+<script src="https://jsd.cdn.zzko.cn/npm/@waline/client/dist/waline.min.js"></script>
+<script src="https://jsd.cdn.zzko.cn/npm/marked/marked.min.js"></script>
+<script src="https://jsd.cdn.zzko.cn/npm/highlight.js/highlight.min.js"></script>
 <script>
-  var head = document.getElementsByTagName('head')[0]
-  var meta = document.createElement('meta')
-  meta.name = 'referrer'
-  meta.content = 'no-referrer'
-  head.appendChild(meta)
-  if (ispeak) {
-    ispeak
-      .init({
-        el: '#ispeak',
-        api: 'https://kkapi.wyblog1.tk/',
-        author: '63c28a71aa610fa0dc9b6f1a',
-        pageSize: 10,
-        loading_img: 'https://cdn-us.imgs.moe/2023/01/19/63c8e4c63a560.gif',
-        comment: function (speak) {
-          // 4.4.0 之后在此回调函数中初始化评论
-          const { _id, title, content } = speak
-          const contentSub = content.substring(0, 30)
-          twikoo.init({
-            envId: 'https://twikoo.wyblog1.tk', // 腾讯云环境填 envId；Vercel 环境填地址（https://xxx.vercel.app）
-            path: '/ispeak?q=63c28a71aa610fa0dc9b6f1a', // 手动传入当前speak的唯一id
-            el: '#tcomment'
-          })
+  const searchParams = new URLSearchParams(window.location.search);
+  const speakId = searchParams.get('q');
+  const path = window.location.pathname;
+  const apiURL = 'https://kkapi.wyblog1.tk/api/ispeak?author=63c28a71aa610fa0dc9b6f1a';
+  const markedRender = (body, loading_img='https://cdn-us.imgs.moe/2023/01/19/63c8e4c63a560.gif') => {
+    const renderer = {
+      image(href, title, text) {
+        return `<a href="${href}" target="_blank" data-fancybox="group" class="fancybox">
+            <img speak-src="${href}" src=${loading_img} alt='${text}'>
+            </a>`
+      }
+    }
+    marked.setOptions({
+      renderer: new marked.Renderer(),
+      highlight: function (code) {
+        if (hljs) {
+          return hljs.highlightAuto(code).value
+        } else {
+          return code
         }
-      })
-      .then(function () {
-        console.log('ispeak 加载完成')
-        document.getElementById('tip').style.display = 'none'
-      })
-  } else {
-    document.getElementById('tip').innerHTML = 'ipseak依赖加载失败！'
+      },
+      pedantic: false,
+      gfm: true,
+      tables: true,
+      breaks: true,
+      sanitize: false,
+      smartLists: true,
+      smartypants: false,
+      xhtml: false
+    })
+    marked.use({ renderer })
+    return marked.parse(body)
   }
+  fetch(`${apiURL}/get/${speakId}`)
+  .then(response => response.json())
+  .then(res => {
+    const data = res.data;
+    if(data){
+      const {title,content} = data;
+      const contentSub = content.substring(0, 30);
+      document.querySelector('.content').innerHTML = markedRender(content);
+      if(title){
+        document.title = title;
+      }
+      Waline.init({
+        el: '.ispeak-comment',
+        path: path + '?q=' + speakId,
+        pageTitle: title || contentSub,
+        site: 'CC的部落格 即刻短文',
+        useBackendConf: true,
+        serverURL: 'https://waline.wyblog1.tk',
+        pageSize: 10,
+        requiredMeta: ["nick", "mail"],
+        login: 'enable',
+        dark: 'html[data-theme="dark"]',
+        imageUploader: false,
+        emoji:
+          [
+            "https://jsd.cdn.zzko.cn/npm/sticker-heo/Sticker-100/",
+            // "https://jsd.cdn.zzko.cn/npm/telegram-gif/Telegram-Gif/",
+            // "https://jsd.cdn.zzko.cn/npm/@waline/emojis/tw-emoji/"
+          ]
+      })
+    }
+  });
 </script>

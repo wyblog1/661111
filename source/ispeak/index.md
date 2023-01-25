@@ -14,23 +14,20 @@ swiper_desc: 说说
 <div id="ispeak"></div>
 <link
   rel="stylesheet"
-  href="https://jsd.cdn.zzko.cn/npm/highlight.js/styles/atom-one-dark.min.css"
+  href="https://cdn.staticfile.org/highlight.js/10.6.0/styles/atom-one-dark.min.css"
 />
 <link
   rel="stylesheet"
-  href="https://jsd.cdn.zzko.cn/npm/ispeak/style.css"
+  href="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/style.css"
 />
 
-<script src="https://jsd.cdn.zzko.cn/npm/highlight.js/highlight.min.js"></script>
-<script src="https://jsd.cdn.zzko.cn/npm/marked@v3/marked.min.js"></script>
-<script src="https://jsd.cdn.zzko.cn/npm/ispeak/ispeak.umd.js"></script>
+<script src="https://cdn.staticfile.org/highlight.js/10.6.0/highlight.min.js"></script>
+<script src="https://cdn.staticfile.org/marked/2.0.0/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>
 <!-- CSS -->
-<link
-  rel="stylesheet"
-  href="https://jsd.cdn.zzko.cn/npm/@waline/client/dist/waline.min.css"
-/>
+<link href="https://unpkg.com/artalk@2.3.4/dist/Artalk.css" rel="stylesheet" />
 <!-- JS -->
-<script src="https://jsd.cdn.zzko.cn/npm/@waline/client/dist/waline.min.js"></script>
+<script src="https://unpkg.com/artalk@2.3.4/dist/Artalk.js"></script>
 <script>
   var head = document.getElementsByTagName('head')[0]
   var meta = document.createElement('meta')
@@ -41,31 +38,20 @@ swiper_desc: 说说
     ispeak
       .init({
         el: '#ispeak',
-        api: 'https://kkapi.wyblog1.tk/',
+        api: 'https://kkapi.wyblog1.tk',
         author: '63c28a71aa610fa0dc9b6f1a',
         pageSize: 10,
         loading_img: 'https://cdn-us.imgs.moe/2023/01/19/63c8e4c63a560.gif',
-        speakPage: '/ispeak',
         comment: function (speak) {
           // 4.4.0 之后在此回调函数中初始化评论
           const { _id, title, content } = speak
           const contentSub = content.substring(0, 30)
-          Waline.init({
+          new Artalk({
             el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
-            path: '/essay/speak?q=' + _id, // 手动传入当前speak的唯一id
-            title: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
-            serverURL: 'https://waline.wyblog1.tk',
-            pageSize: 10,
-            requiredMeta: ["nick", "mail"],
-            login: 'enable',
-            dark: 'html[data-theme="dark"]',
-            imageUploader: false,
-            emoji:
-              [
-                "https://jsd.cdn.zzko.cn/npm/sticker-heo/Sticker-100/",
-                // "https://jsd.cdn.zzko.cn/npm/telegram-gif/Telegram-Gif/",
-                // "https://jsd.cdn.zzko.cn/npm/@waline/emojis/tw-emoji/"
-              ]
+            pageKey: '/speak/info.html?q=' + _id, // 手动传入当前speak的唯一id
+            pageTitle: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
+            server: 'https://artalk.wyblog.repl.co/',
+            site: 'speak' // 你的站点名
           })
         }
       })
@@ -76,4 +62,4 @@ swiper_desc: 说说
   } else {
     document.getElementById('tip').innerHTML = 'ipseak依赖加载失败！'
   }
-</script>
+</script>     

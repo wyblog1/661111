@@ -26,9 +26,9 @@ swiper_desc: 说说
 <script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>
 <link
   rel="stylesheet"
-  href="https://jsd.cdn.zzko.cn/npm/@waline/client/dist/waline.min.css"
+  href="https://cdn.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.css"
 />
-<script src="https://jsd.cdn.zzko.cn/npm/@waline/client/dist/waline.min.js"></script>
+<script src="https://cdn.staticfile.org/twikoo/1.6.8/twikoo.all.min.js"></script>
 <script>
   var head = document.getElementsByTagName('head')[0]
   var meta = document.createElement('meta')
@@ -47,22 +47,10 @@ swiper_desc: 说说
           // 4.4.0 之后在此回调函数中初始化评论
           const { _id, title, content } = speak
           const contentSub = content.substring(0, 30)
-          Waline.init({
-            el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
-            path: '/essay/speak?q=' + _id, // 手动传入当前speak的唯一id
-            title: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
-            serverURL: 'https://waline.wyblog1.tk',
-            pageSize: 10,
-            requiredMeta: ["nick", "mail"],
-            login: 'enable',
-            dark: 'html[data-theme="dark"]',
-            imageUploader: false,
-            emoji:
-              [
-                "https://jsd.cdn.zzko.cn/npm/sticker-heo/Sticker-100/",
-                "https://jsd.cdn.zzko.cn/npm/telegram-gif/Telegram-Gif/",
-                "https://jsd.cdn.zzko.cn/npm/@waline/emojis/tw-emoji/"
-              ]
+          twikoo.init({
+            envId: 'https://twikoo.wyblog1.tk', // 腾讯云环境填 envId；Vercel 环境填地址（https://xxx.vercel.app）
+            path: /essay/speak?q=' + _id, // 手动传入当前speak的唯一id
+            el: '#tcomment'
           })
         }
       })

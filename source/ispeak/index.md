@@ -44,7 +44,7 @@ swiper_desc: 说说
         api: 'https://kkapi.wyblog1.tk/',
         author: '63c28a71aa610fa0dc9b6f1a',
         pageSize: 10,
-        loading_img: 'https://bu.dusays.com/2022/05/01/626e88f349943.gif',
+        loading_img: 'https://cdn-us.imgs.moe/2023/01/19/63c8e4c63a560.gif',
         speakPage: '/essay',
         githubClientId: 'Iv1.f333c02f5f6676e8',
         comment: function (speak) {

@@ -27,7 +27,7 @@ swiper_desc: 说说
   const searchParams = new URLSearchParams(window.location.search);
   const speakId = searchParams.get('q');
   const path = window.location.pathname;
-  const apiURL = 'https://kkapi.wyblog1.tk/api/ispeak?author=63c28a71aa610fa0dc9b6f1a';
+  const apiURL = 'https://kkapi.wyblog1.tk/api/ispeak';
   const markedRender = (body, loading_img='https://cdn-us.imgs.moe/2023/01/19/63c8e4c63a560.gif') => {
     const renderer = {
       image(href, title, text) {

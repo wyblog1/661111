@@ -49,7 +49,7 @@ swiper_desc: 说说
           const contentSub = content.substring(0, 30)
           twikoo.init({
             envId: 'https://twikoo.wyblog1.tk', // 腾讯云环境填 envId；Vercel 环境填地址（https://xxx.vercel.app）
-            path: '/essay/speak?q=' + _id, // 手动传入当前speak的唯一id
+            path: '/ispeak/?q=' + _id, // 手动传入当前speak的唯一id
             el: '#tcomment'
           })
         }

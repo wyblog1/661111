@@ -14,7 +14,7 @@ swiper_desc: 说说
 <link rel="stylesheet" href="https://jsd.cdn.zzko.cn/npm/@waline/client/dist/waline.min.css"/>
 <link rel="stylesheet" href="https://jsd.cdn.zzko.cn/npm/highlight.js/styles/atom-one-dark.min.css" />
 <div class='content'>
-  <img src='https://bu.dusays.com/2022/05/01/626e88f349943.gif'>
+  <img src='https://cdn-us.imgs.moe/2023/01/19/63c8e4c63a560.gif'>
 </div>
 {% btn 'https://blog.ccknbc.cc/essay/',查看全部,far fa-hand-point-right,block center blue larger %}
 <hr />

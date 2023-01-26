@@ -180,8 +180,8 @@ site_footer:
       notice: true                        # 唤醒原右键菜单的通知   
 sidebar:
   position: right
-  for_page: [qgroup, category, post, blogger, text, notice, qrcode, guide, webinfo]
-  for_post: [qgroup, post, blogger, text, qrcode, notice, guide, webinfo]
+  for_page: [qgroup, category, post, blogger, text, notice, qrcode, guide, webinfo, lastupdate]
+  for_post: [qgroup, post, blogger, text, qrcode, notice, guide, webinfo, lastupdate]
   lastupdate:
       class: lastupdate
       display: [desktop, cus-shadow]
@@ -256,6 +256,12 @@ sidebar:
           friendlyShow: true    # 更友好的时间显示
           text: '最后活动时间：'
           unit: '日'
+    lastupdate:
+      class: lastupdate
+      display: [desktop, mobile]
+      header:
+        icon: fa-solid fa-clock WISTERIA
+        title: 最近更新
     guide:
       class: grid
       display: [desktop, mobile] # [desktop, mobile]

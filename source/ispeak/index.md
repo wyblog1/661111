@@ -25,9 +25,9 @@ swiper_desc: 说说
 <script src="https://cdn.staticfile.org/marked/2.0.0/marked.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>
 <!-- CSS -->
-<link href="https://unpkg.com/artalk@2.4.4/dist/Artalk.css" rel="stylesheet" />
+<link href="https://unpkg.com/artalk@2.4.3/dist/Artalk.css" rel="stylesheet" />
 <!-- JS -->
-<script src="https://unpkg.com/artalk@2.4.4/dist/Artalk.js"></script>
+<script src="https://unpkg.com/artalk@2.4.3/dist/Artalk.js"></script>
 <script>
   var head = document.getElementsByTagName('head')[0]
   var meta = document.createElement('meta')

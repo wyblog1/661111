@@ -49,6 +49,7 @@ navbar:
           url: archives/
         - name: 分类
           icon: fa-solid fa-folder-open
+          url: categories/
           rows:    
           - name: bilbil
             icon: fa-solid fa-folder-open

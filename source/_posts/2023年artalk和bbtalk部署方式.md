@@ -1,7 +1,7 @@
 ---
 title: '2023年artalk和bbtalk部署方式'
 date: 2023-01-26 20:05:10
-tags: [artalk,bbtalk]
+categories: [artalk,bbtalk]
 published: true
 hideInList: true
 feature: /post-images/66-70.jpg

@@ -10,6 +10,8 @@ sidebar: []
 swiper_index: 8
 swiper_desc: 说说
 ---
+<a class="bb-btn button--animated" href="https://biubiu.wyblog1.tk/" title="发表短文"><i class="fa-regular fa-message"></i> 发表短文 </a>
+<a class="bb-btn button--animated" href="https://kkadmin.wyblog1.tk/" title="管理短文"><i class="fa-solid fa-user-pen"></i> 管理短文 </a>
 <div id="tip" style="text-align:center;">ipseak加载中</div>
 <div id="ispeak"></div>
 <link
@@ -63,3 +65,4 @@ swiper_desc: 说说
     document.getElementById('tip').innerHTML = 'ipseak依赖加载失败！'
   }
 </script>     
+<a class="bb-btn button--animated" href="/ispeak/" title="查看全部"><i class="far fa-hand-point-right fa-fw"></i> 查看更多 </a>

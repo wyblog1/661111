@@ -386,7 +386,7 @@ article:
 comments:
   title: <i class='fa-solid fa-comments'></i> 评论
   subtitle:
-  use: twikoo,artalk
+  server: twikoo
   # 可选评论系统 #
 
   # artalk

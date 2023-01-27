@@ -10,6 +10,8 @@ sidebar: []
 swiper_index: 8
 swiper_desc: 说说
 ---
+<div class="swiper-container swiper-container-aside">
+<div class="swiper-wrapper swiper-weapper-aside"></div>
 <a class="bb-btn button--animated" href="https://biubiu.wyblog1.tk/" title="发表短文"><i class="fa-regular fa-message"></i> 发表短文 </a>
 <a class="bb-btn button--animated" href="https://kkadmin.wyblog1.tk/" title="管理短文"><i class="fa-solid fa-user-pen"></i> 管理短文 </a>
 <div id="tip" style="text-align:center;">ipseak加载中</div>

@@ -1,7 +1,11 @@
-category_map:
-        blibli:blibli
-        bliblipage2:bliblipage2
-        关于:关于
-        实验室:实验室
-        月考:月考
-        相册:相册
+---
+title: 文章分类
+aside: false
+translate_title: categories
+subtitle: Categories
+date: 2021-05-03 10:56:52
+updated: 2021-07-18 19:38:19
+description: CC的部落格 文章分类页
+type: categories
+comments: false
+---

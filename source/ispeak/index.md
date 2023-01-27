@@ -50,7 +50,7 @@ swiper_desc: 说说
           const contentSub = content.substring(0, 30)
           new Artalk({
             el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
-            pageKey: '/speak/info.html?q=' + _id, // 手动传入当前speak的唯一id
+            pageKey: '/ispeak/info.html?q=' + _id, // 手动传入当前speak的唯一id
             pageTitle: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
             server: 'https://artalk.wyblog.repl.co/',
             site: 'speak' // 你的站点名

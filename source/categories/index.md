@@ -3,9 +3,7 @@ title: 文章分类
 aside: false
 translate_title: categories
 subtitle: Categories
-date: 2021-05-03 10:56:52
-updated: 2021-07-18 19:38:19
-description: CC的部落格 文章分类页
+date: 2023-01-03 10:56:52
 type: categories
 comments: false
 ---

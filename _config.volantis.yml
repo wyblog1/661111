@@ -473,3 +473,25 @@ plugins:
         裂开: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/裂开.png',
         警告: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/警告.png',
     }	
+magnet:
+  enable: true
+  priority: 1
+  enable_page: /
+  type: categories
+  devide: 2
+  display:
+    - name: artitalk教程
+      display_name: artitalk
+    - name: bbtalk教程
+      display_name: bbtalk
+  color_setting:
+    text_color: black
+    text_hover_color: white
+    background_color: "#f2f2f2"
+    background_hover_color: "#b30070"
+  layout:
+    type: id
+    name: post
+    index: 0
+  temple_html: '<div class="recent-post-item" style="width:100%;height: auto"><div id="catalog_magnet">${temple_html_item}</div></div>'
+  plus_style: ""

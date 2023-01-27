@@ -9,7 +9,6 @@
     "hexo": "^5.4.2",
     "hexo-qidaink-swiper_bar": "^1.1.0",
     "hexo-magnet": "^1.0.8",
-    "hexo-butterfly-swiper": "^1.0.0",
     "hexo-filter-gitcalendar": "^1.0.11",
     "hexo-generator-json-content": "^4.2.3",
     "hexo-generator-feed": "^3.0.0",

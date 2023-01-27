@@ -1,0 +1,20 @@
+top:
+  - class_name: latestBB
+    id_name:
+    name: Ispeak
+    icon: fas fa-bolt
+    order: 2
+    html: |
+      <div class="swiper-container swiper-container-aside">
+        <div class="swiper-wrapper swiper-weapper-aside"></div>
+      </div>
+      <a class="bb-btn button--animated" href="/ispeak/" title="查看全部"><i class="far fa-hand-point-right fa-fw"></i> 查看更多 </a>
+      <script>
+        window.kkBBConfig = {
+          limit: 10,
+          blog:'/speak/',
+          api_url: 'https://kkapi.wyblog1.tk',
+          author: '63c28a71aa610fa0dc9b6f1a'            
+        }
+      </script>
+      <script src="https://cdn1.tianli0.top/npm/iwyang@1.0.8/speak/butterfly-speak-swiper@1.1.0.min.js"></script>

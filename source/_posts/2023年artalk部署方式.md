@@ -5,6 +5,7 @@ categories: [artalk]
 published: true
 hideInList: true
 isTop: false
+swiper_desc: 最新版artalk部署方式
 description: 1
 swiper_index: 8
 swiper_cover: https://www.wyblog1.tk/Cover/cover01.jpg

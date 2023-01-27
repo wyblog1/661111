@@ -4,9 +4,11 @@ date: 2023-01-26 20:05:10
 categories: [artalk,bbtalk]
 published: true
 hideInList: true
-feature: /post-images/66-70.jpg
 isTop: false
 description: 1
+swiper_index: 8
+swiper_desc: 2023年artalk和bbtalk部署方式
+swiper_cover: https://www.wyblog1.tk/Cover/cover01.jpg
 ---
 artalk部署方式：
 1.在leancloud国际版去注册一个应用(没有就注册一个账号)

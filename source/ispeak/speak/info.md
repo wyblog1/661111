@@ -23,7 +23,7 @@ comments: false
   const searchParams = new URLSearchParams(window.location.search);
   const speakId = searchParams.get('q');
   const path = window.location.pathname;
-  const apiURL = 'https://kkapi.vercel.app/api/ispeak';
+  const apiURL = 'https://kkapi.wyblog1.tk/api/ispeak?author=63c28a71aa610fa0dc9b6f1a';
   const markedRender = (body, loading_img='https://bu.dusays.com/2022/05/01/626e88f349943.gif') => {
     const renderer = {
       image(href, title, text) {

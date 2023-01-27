@@ -7,8 +7,6 @@
   },
   "dependencies": {
     "hexo": "^5.4.2",
-    "butterfly-speak-swiper": "^1.1.0",
-    "hexo-theme-butterfly": "^4.6.1",
     "hexo-butterfly-swiper": "^1.0.0",
     "hexo-filter-gitcalendar": "^1.0.11",
     "hexo-generator-json-content": "^4.2.3",

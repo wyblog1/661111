@@ -386,14 +386,14 @@ article:
 comments:
   title: <i class='fa-solid fa-comments'></i> 评论
   subtitle:
-  service: twikoo
+  service: artalk,twikoo
   # 可选评论系统 #
 
   # artalk
   # https://artalk.js.org/
   # https://github.com/ArtalkJS/Artalk
   artalk:
-    server: https://yours-artalk-domain    # 修改为自建的后端服务地址
+    server: https://artalk.wyblog.repl.co # 修改为自建的后端服务地址
     path:  # 全局评论地址
     placeholder: # 评论占位
     visitor: true # 是否显示文章阅读数

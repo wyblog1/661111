@@ -7,7 +7,6 @@ hideInList: true
 isTop: false
 description: 1
 swiper_index: 8
-swiper_desc: 2023年artalk和bbtalk部署方式
 swiper_cover: https://www.wyblog1.tk/Cover/cover01.jpg
 ---
 artalk部署方式：

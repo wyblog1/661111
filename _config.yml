@@ -84,7 +84,7 @@ deploy:
 
 swiper:
   enable: true
-  priority: 4
+  priority: 3
   enable_page: /
   layout:
     type: id
@@ -95,7 +95,7 @@ swiper:
   
 magnet:
   enable: true
-  priority: 3
+  priority: 4
   enable_page: /
   type: categories
   devide: 2

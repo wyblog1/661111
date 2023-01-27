@@ -106,7 +106,7 @@ magnet:
       display_name: bbtalk
   color_setting:
     text_color: black
-    text_hover_color: white
+    text_hover_color: black
     background_color: "#f2f2f2"
     background_hover_color: "#b30070"
   layout:

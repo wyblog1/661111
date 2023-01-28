@@ -101,9 +101,9 @@ magnet:
   devide: 2
   display:
     - name: artitalk
-      display_name: artitalk教程
+      display_name: artitalk
     - name: bbtalk
-      display_name: bbtalk教程
+      display_name: bbtalk
   color_setting:
     text_color: black
     text_hover_color: black

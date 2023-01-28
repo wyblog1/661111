@@ -1,3 +1,7 @@
+# Inject the css and script (aplayer/meting)
+aplayerInject:
+  enable: true
+  per_page: false
 gitcalendar:
   enable: true
   simplemode: true

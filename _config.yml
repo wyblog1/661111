@@ -100,10 +100,10 @@ magnet:
   type: categories
   devide: 2
   display:
-    - name: artitalk教程
-      display_name: artitalk
-    - name: bbtalk教程
-      display_name: bbtalk
+    - name: artitalk
+      display_name: artitalk教程
+    - name: bbtalk
+      display_name: bbtalk教程
   color_setting:
     text_color: black
     text_hover_color: black

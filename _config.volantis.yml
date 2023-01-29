@@ -95,7 +95,7 @@ navbar:
         - name: hr 
         - name: 监控
           icon: fa-solid fa-fan
-          url: https://uptime.wyblog1.tk/
+          url: https://uptime.wyblog1.tk/status/612901
         - name: hexo后台
           icon: fa-solid fa-fan
           url: https://qexo.wyblog1.tk

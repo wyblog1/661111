@@ -1,33 +1,12 @@
-![Hexo Logo](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/hexo.svg)
+![Alt](https://cdn-us.imgs.moe/2023/01/30/63d7661329a6a.png "Repobeats analytics image")
 
-# Hexo Example
+## 项目介绍
 
-This directory is a brief example of a [Hexo](https://hexo.io/) site that can be deployed to Vercel with zero configuration.
+hello!这里是天闲无影博客
 
-## Deploy Your Own
+## 博客功能 
 
-Deploy your own Hexo project with Replit.（ NOT RECOMMENDED ！）
-
-<a href="https://repl.it/github/valetzx/hexoonreplit">
-  <img alt="Run on Repl.it" src="https://repl.it/badge/github/valetzx/hexoonreplit" style="height: 40px; width: 190px;" />
-</a>
-
-Deploy your own Hexo project with Replit Education：
-
-将以下代码粘贴至Replit Shell后回车
-
-Copy code blow to Replit Shell then Enter
-
-`git clone https://github.com/valetzx/hexoonreplit && mv -b hexoonreplit/* ./ && mv -b hexoonreplit/.[^.]* ./ && rm -rf *~ && rm -rf hexoonreplit`
-
-当加载完 Loading Nix environment... 后点击绿色 ▶ Run
-
-When Loaded Nix environment... then click RUN bottom
-
-### How We Created This Example
-
-To get started with Hexo for deployment with Vercel, you can use the [Hexo CLI](https://hexo.io/docs/index.html#Installation) to initialize the project:
-
-```shell
-$ hexo init project-name
-```
+- 包含多个说说:artitalk,bbtalk,ispeak,qexo talks
+- 加入评论系统:waline,twikoo,artalk
+- 加入多个插件
+- 修改博客主题源代码

@@ -225,8 +225,9 @@ sidebar:
       content:
         - '你好，欢迎访问我的个人博客'
         - '以后不会发布此公告,转而使用ispeak发布说说'
-        - '[无影的博客](https://www.wyblog1.tk/)'
-    # 文档导航
+        - '[本站点](https://blog.wyblog1.tk/)'
+        - '[无影的博客](https://www.wyblog1.tk/)'        
+        - '[天闲无影](https://wordpress.wyblog1.tk/)'  
     webinfo:
       class: webinfo
       display: [desktop, mobile]

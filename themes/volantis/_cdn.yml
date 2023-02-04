@@ -415,9 +415,10 @@ bbtalk:
   cdnjs: false
 artitalk:
   name: artitalk
-  file: artitalk.js
-  version: 3.3.0
-  npm: true
+  file: /artitalk.js
+  version: 3.3.4
+  local: ture
+  npm: false
   static: false
   cdnjs: false
 pace_js:

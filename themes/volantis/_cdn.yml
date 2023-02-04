@@ -409,7 +409,7 @@ fcircle_js:
 bbtalk:
   name: bbtalk
   file: dist/bbtalk.js
-  version: 0.1.5
+  version: 0.1.6
   npm: true
   static: false
   cdnjs: false
@@ -417,7 +417,7 @@ artitalk:
   name: artitalk
   file: /artitalk.js
   version: 3.3.4
-  local: ture
+  local: true
   npm: false
   static: false
   cdnjs: false

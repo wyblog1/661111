@@ -415,7 +415,7 @@ bbtalk:
   cdnjs: false
 artitalk:
   name: artitalk
-  file: /artitalk.js
+  file: artitalk.js
   version: 3.3.4
   local: true
   npm: false

@@ -1090,7 +1090,7 @@ atEvery.prototype.beginUpload = function (file) {
             fadeOut('lazy');
         }
     });
-    xhr.open("POST", "https://pnglog.com/api/v1/upload");
+    xhr.open("POST", "https://pnglog.com/upload");
     let imgToken = AV.User.current().attributes.imgToken;
     if (imgToken !== undefined) {
         xhr.setRequestHeader("Authorization", "Basic VGVzdDoxMjM0NTY=");

@@ -375,6 +375,7 @@ const atEmojiBB = {
     zhoumei: "https://fastly.jsdelivr.net/gh/Artitalk/Artitalk-emoji/zhoumei.png",
     zhuakuang: "https://fastly.jsdelivr.net/gh/Artitalk/Artitalk-emoji/zhuakuang.png"
 }
+
 var atEmojiQ = "";
 var atEmojiT = "";
 var atEmojiB = "";

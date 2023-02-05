@@ -1235,7 +1235,7 @@ custom_css:
     border: 2px
   navbar:
     height: 70px
-    width: max # auto, max
+    width: auto # auto, max
     effect: [shadow, floatable, blur] # [shadow, floatable, blur]
   sidebar:
     effect: [shadow, floatable, blur] # [shadow, floatable, blur]

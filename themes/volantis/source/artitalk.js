@@ -1093,8 +1093,8 @@ atEvery.prototype.beginUpload = function (file) {
     xhr.open("POST", "https://pnglog.com/api/v1/upload");
     let imgToken = AV.User.current().attributes.imgToken;
     if (imgToken !== undefined) {
-        xhr.setRequestHeader("Authorization", "Bearer VGVzdDoxMjM0NTY=");
-        xhr.setRequestHeader("30|U3yIC7aAmWF8YCtJR5kbssKreV18Q85CdN4ejbyd", imgToken);
+        xhr.setRequestHeader("Authorization", "Bearer token");
+        xhr.setRequestHeader("31|jQyvpdA9tY9cwnLYp5hzR8M1Wa6WjJJYSv0wzELe", imgToken);
     }
     xhr.send(data);
 }

@@ -1,7 +1,3 @@
-# Inject the css and script (aplayer/meting)
-aplayerInject:
-  enable: true
-  per_page: false
 gitcalendar:
   enable: true
   simplemode: true
@@ -36,7 +32,7 @@ custom_css:
       name: 'SentyTEA'
       url: 'https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/SentyTEA.woff2'  
 
-debug: ture
+debug: false
 content_visibility: true
 navbar:
   visiable: always

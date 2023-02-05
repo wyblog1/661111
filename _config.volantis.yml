@@ -100,6 +100,9 @@ navbar:
         - name: hexo后台
           icon: fa-solid fa-fan
           url: https://qexo.wyblog1.tk
+        - name: ispeak后台
+          icon: fa-solid fa-fan
+          url: https://kkadmin.wyblog1.tk 
     - name: 深色模式
       icon: fa-solid fa-moon
       toggle: darkmode 

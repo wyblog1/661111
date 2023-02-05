@@ -1042,7 +1042,7 @@ atEvery.prototype.beginUpload = function (file) {
         return;
     }
     if (!/\.(jpg|gif|jpeg|ico|png|svg|mp4|mov)$/.test(file.name)) {
-        alert('不支持的文件类型，支持的文件格式有jpg|gif|jpeg|ico|png|svg|mp4|mov');
+        alert('不支持的文件类型，支持的文件格式有jpg|gif|jpeg|ico|png|svg');
         return;
     }
     let fileType = "";
@@ -1093,7 +1093,7 @@ atEvery.prototype.beginUpload = function (file) {
     xhr.open("POST", "https://pnglog.com/api/v1/upload");
     let imgToken = AV.User.current().attributes.imgToken;
     if (imgToken !== undefined) {
-        xhr.setRequestHeader("Authorization", "Basic VGVzdDoxMjM0NTY=30|U3yIC7aAmWF8YCtJR5kbssKreV18Q85CdN4ejbyd");
+        xhr.setRequestHeader("Authorization", "Basic 30|U3yIC7aAmWF8YCtJR5kbssKreV18Q85CdN4ejbyd=");
         xhr.setRequestHeader("token", imgToken);
     }
     xhr.send(data);

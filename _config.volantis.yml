@@ -91,17 +91,19 @@ navbar:
           url: says/
         - name: ispeak
           icon: fa-solid fa-message
-          url: ispeak/          
-        - name: hr 
+          url: ispeak/ 
+        - name: qexo talks
+          icon: fa-solid fa-message
+          url: talks/    
+    - name: 后台
+      icon: fas fa-database fa-fw
+      rows:        
         - name: 监控
           icon: fa-solid fa-fan
           url: https://uptime.wyblog1.tk/status/612901
         - name: hexo后台
           icon: fa-solid fa-fan
           url: https://qexo.wyblog1.tk
-        - name: qexo talks
-          icon: fa-solid fa-message
-          url: talks/  
     - name: 深色模式
       icon: fa-solid fa-moon
       toggle: darkmode 

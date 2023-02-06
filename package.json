@@ -8,7 +8,6 @@
   "dependencies": {
     "hexo": "^5.4.2",
     "hexo-filter-fcircle-anzhiyu": "^1.1.5",
-    "hexo-filter-fcircle": "^0.0.8",
     "hexo-tag-aplayer": "^1.0.0",
     "hexo-qidaink-swiper_bar": "^1.1.0",
     "hexo-magnet": "^1.0.8",

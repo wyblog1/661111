@@ -1,0 +1,155 @@
+'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/害羞.png\'
+'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/3d眼镜.png\'
+'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/EDG.png\'
+'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/LPL.png\'
+'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/beluga.png\'
+'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/不好意思.png\'
+'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/不服吗.png\'
+'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/亲亲.png\'
+'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/伞兵.png\'
+'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/倚墙笑.png\'
+'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/值得肯定.png\'
+'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/偷偷看.png\',
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/傻笑.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/再见.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/出家人.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/击剑.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/加班.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/勉强笑.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/危险.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/发红包.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/吃手.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/吃瓜.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/吐血.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/吵架.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/呦吼.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/呲牙笑.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/哈士奇.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/哈士奇失去意识.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/哈士奇失望.png
+-----------------------------------------------------------------------------------------------------------------------------------------
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/哭泣.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/唱歌.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/喜欢.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/嘿哈.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/大笑.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/失去信号.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/失望.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/头秃.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/奋斗.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/好奇.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/好的.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/害羞.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/小丑.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/小偷.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/尬笑.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/尴尬.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/应援.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/开心.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/引起不适.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/微笑.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/思考.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/恶心.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/恶魔.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/恶魔恐惧.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/惊吓.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/惊吓白眼.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/惊讶.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/惬意.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/感动.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/愤怒.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/我看好你.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/手机相机.png
+-----------------------------------------------------------------------------------------------------------------------------------------
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/打咩.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/打牌.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/托腮.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/扶额.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/抠鼻.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/抬眼镜.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/拜托.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/捂嘴笑.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/捂脸.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/擦汗.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/放鞭炮.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/敬礼.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/整理发型.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/斗鸡眼.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/智慧的眼神.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/月饼.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/有没有搞错.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/正确.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/没招.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/波吉.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/泪奔.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/流汗微笑.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/流鼻涕.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/深思.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/滑稽.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/滑稽吃瓜.png
+https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/滑稽喝水.png
+-----------------------------------------------------------------------------------------------------------------------------------------
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/滑稽奶茶.png\">","text":"heo-滑稽奶茶"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/滑稽柠檬.png\">","text":"heo-滑稽柠檬"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/滑稽狂汗.png\">","text":"heo-滑稽狂汗"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/滑稽被子.png\">","text":"heo-滑稽被子"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/烦恼.png\">","text":"heo-烦恼"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/熊熊.png\">","text":"heo-熊熊"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/熊猫.png\">","text":"heo-熊猫"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/熊猫唱歌.png\">","text":"heo-熊猫唱歌"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/熊猫喜欢.png\">","text":"heo-熊猫喜欢"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/熊猫失望.png\">","text":"heo-熊猫失望"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/熊猫意外.png\">","text":"heo-熊猫意外"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/熬夜.png\">","text":"heo-熬夜"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/爆炸.png\">","text":"heo-爆炸"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/牛年进宝.png\">","text":"heo-牛年进宝"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/狂热.png\">","text":"heo-狂热"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/狗头.png\">","text":"heo-狗头"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/狗头围脖.png\">","text":"heo-狗头围脖"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/狗头失望.png\">","text":"heo-狗头失望"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/狗头意外.png\">","text":"heo-狗头意外"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/狗头胖次.png\">","text":"heo-狗头胖次"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/狗头花.png\">","text":"heo-狗头花"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/狗头草.png\">","text":"heo-狗头草"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/猪头.png\">","text":"heo-猪头"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/猪头意外.png\">","text":"heo-猪头意外"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/生病.png\">","text":"heo-生病"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/电话.png\">","text":"heo-电话"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/疑问.png\">","text":"heo-疑问"},
+-----------------------------------------------------------------------------------------------------------------------------------------
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/疼痛.png\">","text":"heo-疼痛"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/痛哭.png\">","text":"heo-痛哭"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/看穿一切.png\">","text":"heo-看穿一切"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/眩晕.png\">","text":"heo-眩晕"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/睡觉.png\">","text":"heo-睡觉"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/禁言.png\">","text":"heo-禁言"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/笑哭.png\">","text":"heo-笑哭"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/纠结.png\">","text":"heo-纠结"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/绿帽.png\">","text":"heo-绿帽"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/缺牙笑.png\">","text":"heo-缺牙笑"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/翻白眼.png\">","text":"heo-翻白眼"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/老虎意外.png\">","text":"heo-老虎意外"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/耍酷.png\">","text":"heo-耍酷"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/胡子.png\">","text":"heo-胡子"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/菜狗.png\">","text":"heo-菜狗"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/菜狗花.png\">","text":"heo-菜狗花"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/蒙面滑稽.png\">","text":"heo-蒙面滑稽"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/虎年进宝.png\">","text":"heo-虎年进宝"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/被打.png\">","text":"heo-被打"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/裂开.png\">","text":"heo-裂开"},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/警告.png\">","text":"heo-警告"},
+-----------------------------------------------------------------------------------------------------------------------------------------
+读书: 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/读书.png',
+        : 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/财神红包.png',
+        : 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/超爱.png',
+        : 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/这是啥.png',
+        : 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/送福.png',
+        : 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/送花.png',
+        : 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/错误.png',
+        : 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/阴险.png',
+        : 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/难以置信.png',
+        : 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/面具.png',
+        : 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/饥渴.png',
+        : 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/鬼脸.png',
+        : 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/黑线.png',
+        : 'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/鼓掌.png',
